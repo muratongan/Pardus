@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/uludag/!svn/ver/35873/trunk/noan/noan
+END
+manage.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/uludag/!svn/ver/27213/trunk/noan/noan/manage.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/uludag/!svn/ver/20811/trunk/noan/noan/__init__.py
+END
+settings-dist.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/uludag/!svn/ver/30816/trunk/noan/noan/settings-dist.py
+END
+wrappers.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/uludag/!svn/ver/27213/trunk/noan/noan/wrappers.py
+END
+urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/uludag/!svn/ver/27660/trunk/noan/noan/urls.py
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/uludag/!svn/ver/37448/trunk/yali/scripts
+END
+convert
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/uludag/!svn/ver/37446/trunk/yali/scripts/convert
+END
+po-stat.sh
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/uludag/!svn/ver/37446/trunk/yali/scripts/po-stat.sh
+END
+yali.lint
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/uludag/!svn/ver/37446/trunk/yali/scripts/yali.lint
+END
+show_screen.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/uludag/!svn/ver/37446/trunk/yali/scripts/show_screen.py
+END
+update-po.sh
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/uludag/!svn/ver/37446/trunk/yali/scripts/update-po.sh
+END
+pylint.sh
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/uludag/!svn/ver/37446/trunk/yali/scripts/pylint.sh
+END
+bindYali
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/uludag/!svn/ver/37448/trunk/yali/scripts/bindYali
+END
+release-xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/uludag/!svn/ver/37446/trunk/yali/scripts/release-xml
+END

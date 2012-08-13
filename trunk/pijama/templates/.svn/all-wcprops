@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/uludag/!svn/ver/30137/trunk/pijama/templates
+END
+packager.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/uludag/!svn/ver/30134/trunk/pijama/templates/packager.html
+END
+source.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/uludag/!svn/ver/30134/trunk/pijama/templates/source.html
+END
+packagerdetails.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/30134/trunk/pijama/templates/packagerdetails.html
+END
+binary.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/uludag/!svn/ver/30134/trunk/pijama/templates/binary.html
+END
+searchresult.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/uludag/!svn/ver/30134/trunk/pijama/templates/searchresult.html
+END
+search.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/uludag/!svn/ver/30134/trunk/pijama/templates/search.html
+END
+sourcedetails.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/uludag/!svn/ver/30134/trunk/pijama/templates/sourcedetails.html
+END
+404.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/uludag/!svn/ver/30134/trunk/pijama/templates/404.html
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/uludag/!svn/ver/30134/trunk/pijama/templates/index.html
+END
+base.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/uludag/!svn/ver/30137/trunk/pijama/templates/base.html
+END
+binarydetails.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/uludag/!svn/ver/30134/trunk/pijama/templates/binarydetails.html
+END

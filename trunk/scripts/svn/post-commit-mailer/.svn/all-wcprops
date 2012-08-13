@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/uludag/!svn/ver/27729/trunk/scripts/svn/post-commit-mailer
+END
+mailer.conf.example
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/27729/trunk/scripts/svn/post-commit-mailer/mailer.conf.example
+END
+post-commit-mailer.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/27729/trunk/scripts/svn/post-commit-mailer/post-commit-mailer.py
+END

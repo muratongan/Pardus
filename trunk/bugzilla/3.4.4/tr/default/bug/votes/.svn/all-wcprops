@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/uludag/!svn/ver/27829/trunk/bugzilla/3.4.4/tr/default/bug/votes
+END
+delete-all.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/27829/trunk/bugzilla/3.4.4/tr/default/bug/votes/delete-all.html.tmpl
+END
+list-for-bug.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/27829/trunk/bugzilla/3.4.4/tr/default/bug/votes/list-for-bug.html.tmpl
+END
+list-for-user.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/uludag/!svn/ver/27829/trunk/bugzilla/3.4.4/tr/default/bug/votes/list-for-user.html.tmpl
+END

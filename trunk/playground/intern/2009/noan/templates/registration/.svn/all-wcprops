@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/noan/templates/registration
+END
+logged_out.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/noan/templates/registration/logged_out.html
+END
+login.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/noan/templates/registration/login.html
+END

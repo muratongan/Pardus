@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/uludag/!svn/ver/14248/trunk/ptsp/server/lbussd
+END
+lbus-start
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/uludag/!svn/ver/14228/trunk/ptsp/server/lbussd/lbus-start
+END
+lbussd.desktop
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/14228/trunk/ptsp/server/lbussd/lbussd.desktop
+END
+lbus_event_handler.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/uludag/!svn/ver/14248/trunk/ptsp/server/lbussd/lbus_event_handler.sh
+END
+lbussd
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/uludag/!svn/ver/14222/trunk/ptsp/server/lbussd/lbussd
+END

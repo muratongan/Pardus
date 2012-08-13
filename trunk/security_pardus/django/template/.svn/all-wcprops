@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/uludag/!svn/ver/22532/trunk/security_pardus/django/template
+END
+defaultfilters.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/22532/trunk/security_pardus/django/template/defaultfilters.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/uludag/!svn/ver/22532/trunk/security_pardus/django/template/__init__.py
+END
+defaulttags.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/uludag/!svn/ver/22532/trunk/security_pardus/django/template/defaulttags.py
+END
+context.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/uludag/!svn/ver/22532/trunk/security_pardus/django/template/context.py
+END
+loader_tags.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/uludag/!svn/ver/22532/trunk/security_pardus/django/template/loader_tags.py
+END
+loader.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/uludag/!svn/ver/22532/trunk/security_pardus/django/template/loader.py
+END

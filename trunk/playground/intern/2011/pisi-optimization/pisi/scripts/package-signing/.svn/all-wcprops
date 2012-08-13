@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/scripts/package-signing
+END
+pisign.py
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/scripts/package-signing/pisign.py
+END
+pisi-key.py
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/scripts/package-signing/pisi-key.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/scripts/package-signing/README
+END

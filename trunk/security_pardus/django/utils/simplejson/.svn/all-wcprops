@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/uludag/!svn/ver/22532/trunk/security_pardus/django/utils/simplejson
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/22532/trunk/security_pardus/django/utils/simplejson/LICENSE.txt
+END
+scanner.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/22532/trunk/security_pardus/django/utils/simplejson/scanner.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/22532/trunk/security_pardus/django/utils/simplejson/__init__.py
+END
+encoder.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/22532/trunk/security_pardus/django/utils/simplejson/encoder.py
+END
+jsonfilter.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/22532/trunk/security_pardus/django/utils/simplejson/jsonfilter.py
+END
+decoder.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/22532/trunk/security_pardus/django/utils/simplejson/decoder.py
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/uludag/!svn/ver/36863/trunk/buildfarm/buildfarm
+END
+mailer.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/uludag/!svn/ver/36669/trunk/buildfarm/buildfarm/mailer.py
+END
+dependency.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/36187/trunk/buildfarm/buildfarm/dependency.py
+END
+templates.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/uludag/!svn/ver/36669/trunk/buildfarm/buildfarm/templates.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/uludag/!svn/ver/36532/trunk/buildfarm/buildfarm/__init__.py
+END
+logger.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/uludag/!svn/ver/36187/trunk/buildfarm/buildfarm/logger.py
+END
+queuemanager.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/uludag/!svn/ver/36187/trunk/buildfarm/buildfarm/queuemanager.py
+END
+utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/uludag/!svn/ver/36545/trunk/buildfarm/buildfarm/utils.py
+END
+auth.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/uludag/!svn/ver/36187/trunk/buildfarm/buildfarm/auth.py
+END
+releasecache.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/uludag/!svn/ver/36548/trunk/buildfarm/buildfarm/releasecache.py
+END
+config.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/uludag/!svn/ver/36547/trunk/buildfarm/buildfarm/config.py
+END
+pisiinterface.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/uludag/!svn/ver/36546/trunk/buildfarm/buildfarm/pisiinterface.py
+END
+cli.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/uludag/!svn/ver/36863/trunk/buildfarm/buildfarm/cli.py
+END

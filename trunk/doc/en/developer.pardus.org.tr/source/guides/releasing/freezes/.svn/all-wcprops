@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/uludag/!svn/ver/38312/trunk/doc/en/developer.pardus.org.tr/source/guides/releasing/freezes
+END
+final_freeze.rst
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/uludag/!svn/ver/37880/trunk/doc/en/developer.pardus.org.tr/source/guides/releasing/freezes/final_freeze.rst
+END
+beta_freeze.rst
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/uludag/!svn/ver/37880/trunk/doc/en/developer.pardus.org.tr/source/guides/releasing/freezes/beta_freeze.rst
+END
+feature_freeze.rst
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/uludag/!svn/ver/38279/trunk/doc/en/developer.pardus.org.tr/source/guides/releasing/freezes/feature_freeze.rst
+END
+freeze_exception_process.rst
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/uludag/!svn/ver/38312/trunk/doc/en/developer.pardus.org.tr/source/guides/releasing/freezes/freeze_exception_process.rst
+END
+translation_freeze.rst
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/uludag/!svn/ver/38279/trunk/doc/en/developer.pardus.org.tr/source/guides/releasing/freezes/translation_freeze.rst
+END
+user_interface_freeze.rst
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/uludag/!svn/ver/38279/trunk/doc/en/developer.pardus.org.tr/source/guides/releasing/freezes/user_interface_freeze.rst
+END
+kernel_freeze.rst
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/uludag/!svn/ver/38258/trunk/doc/en/developer.pardus.org.tr/source/guides/releasing/freezes/kernel_freeze.rst
+END
+toolchain_freeze.rst
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/uludag/!svn/ver/38258/trunk/doc/en/developer.pardus.org.tr/source/guides/releasing/freezes/toolchain_freeze.rst
+END
+rc_freeze.rst
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/uludag/!svn/ver/37880/trunk/doc/en/developer.pardus.org.tr/source/guides/releasing/freezes/rc_freeze.rst
+END
+repo_freeze.rst
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/uludag/!svn/ver/37876/trunk/doc/en/developer.pardus.org.tr/source/guides/releasing/freezes/repo_freeze.rst
+END
+string_freeze.rst
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/uludag/!svn/ver/38279/trunk/doc/en/developer.pardus.org.tr/source/guides/releasing/freezes/string_freeze.rst
+END
+index.rst
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/uludag/!svn/ver/37880/trunk/doc/en/developer.pardus.org.tr/source/guides/releasing/freezes/index.rst
+END

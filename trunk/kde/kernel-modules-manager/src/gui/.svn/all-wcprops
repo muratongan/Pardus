@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/uludag/!svn/ver/26099/trunk/kde/kernel-modules-manager/src/gui
+END
+ui_mainwindow.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/26099/trunk/kde/kernel-modules-manager/src/gui/ui_mainwindow.py
+END
+resource_rc.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/26099/trunk/kde/kernel-modules-manager/src/gui/resource_rc.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/uludag/!svn/ver/26099/trunk/kde/kernel-modules-manager/src/gui/__init__.py
+END
+resource.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/uludag/!svn/ver/26099/trunk/kde/kernel-modules-manager/src/gui/resource.qrc
+END
+ui_availablemodules.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/uludag/!svn/ver/26099/trunk/kde/kernel-modules-manager/src/gui/ui_availablemodules.py
+END

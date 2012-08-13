@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/uludag/!svn/ver/38035/trunk/playground/intern/2011/bugzilla-bug-reporting-tool/python-bugzilla/bugzilla
+END
+nvlbugzilla.py
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/uludag/!svn/ver/37997/trunk/playground/intern/2011/bugzilla-bug-reporting-tool/python-bugzilla/bugzilla/nvlbugzilla.py
+END
+base.py
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/uludag/!svn/ver/38035/trunk/playground/intern/2011/bugzilla-bug-reporting-tool/python-bugzilla/bugzilla/base.py
+END
+bugzilla3.py
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/uludag/!svn/ver/38034/trunk/playground/intern/2011/bugzilla-bug-reporting-tool/python-bugzilla/bugzilla/bugzilla3.py
+END
+util.py
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/uludag/!svn/ver/37997/trunk/playground/intern/2011/bugzilla-bug-reporting-tool/python-bugzilla/bugzilla/util.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/uludag/!svn/ver/37998/trunk/playground/intern/2011/bugzilla-bug-reporting-tool/python-bugzilla/bugzilla/__init__.py
+END
+rhbugzilla.py
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/uludag/!svn/ver/37997/trunk/playground/intern/2011/bugzilla-bug-reporting-tool/python-bugzilla/bugzilla/rhbugzilla.py
+END

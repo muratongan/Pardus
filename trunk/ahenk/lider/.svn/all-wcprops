@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/uludag/!svn/ver/38512/trunk/ahenk/lider
+END
+ahenk_lider
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/uludag/!svn/ver/38309/trunk/ahenk/lider/ahenk_lider
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/uludag/!svn/ver/38309/trunk/ahenk/lider/setup.py
+END
+MANIFEST.in
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/uludag/!svn/ver/38309/trunk/ahenk/lider/MANIFEST.in
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/uludag/!svn/ver/38309/trunk/ahenk/lider/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/uludag/!svn/ver/38309/trunk/ahenk/lider/README
+END

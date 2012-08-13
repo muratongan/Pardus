@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/36361/trunk/playground/gsoc/testing-framework/src
+END
+testcasewriter.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/32085/trunk/playground/gsoc/testing-framework/src/testcasewriter.py
+END
+xmlparser.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/36259/trunk/playground/gsoc/testing-framework/src/xmlparser.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/30801/trunk/playground/gsoc/testing-framework/src/__init__.py
+END
+clarguments.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/30801/trunk/playground/gsoc/testing-framework/src/clarguments.py
+END
+clcolorize.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/31298/trunk/playground/gsoc/testing-framework/src/clcolorize.py
+END
+package-testing.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/31457/trunk/playground/gsoc/testing-framework/src/package-testing.py
+END

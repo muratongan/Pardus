@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/Build
+END
+Pisi.pm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/Build/Pisi.pm
+END
+Deb.pm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/Build/Deb.pm
+END
+Rpm.pm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/Build/Rpm.pm
+END
+Susetags.pm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/Build/Susetags.pm
+END
+Zypp.pm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/Build/Zypp.pm
+END
+Kiwi.pm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/Build/Kiwi.pm
+END

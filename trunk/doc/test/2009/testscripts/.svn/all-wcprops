@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/uludag/!svn/ver/26094/trunk/doc/test/2009/testscripts
+END
+install.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/uludag/!svn/ver/26094/trunk/doc/test/2009/testscripts/install.sh
+END
+symboliclink.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/uludag/!svn/ver/26094/trunk/doc/test/2009/testscripts/symboliclink.sh
+END

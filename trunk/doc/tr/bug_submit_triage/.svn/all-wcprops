@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/uludag/!svn/ver/33269/trunk/doc/tr/bug_submit_triage
+END
+howto_bug_triage.rst
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/uludag/!svn/ver/31241/trunk/doc/tr/bug_submit_triage/howto_bug_triage.rst
+END
+finding_duplicates.rst
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/uludag/!svn/ver/31241/trunk/doc/tr/bug_submit_triage/finding_duplicates.rst
+END
+testgl.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/31241/trunk/doc/tr/bug_submit_triage/testgl.c
+END
+correct_component.rst
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/uludag/!svn/ver/31241/trunk/doc/tr/bug_submit_triage/correct_component.rst
+END
+stock_responses.rst
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/uludag/!svn/ver/33269/trunk/doc/tr/bug_submit_triage/stock_responses.rst
+END
+bug_and_feature_requests.rst
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/31976/trunk/doc/tr/bug_submit_triage/bug_and_feature_requests.rst
+END
+effective_bug_reporting.rst
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/31241/trunk/doc/tr/bug_submit_triage/effective_bug_reporting.rst
+END
+stack_traces.rst
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/uludag/!svn/ver/31241/trunk/doc/tr/bug_submit_triage/stack_traces.rst
+END
+join_bug_triage.rst
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/uludag/!svn/ver/31241/trunk/doc/tr/bug_submit_triage/join_bug_triage.rst
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/uludag/!svn/ver/26096/trunk/playground/gsoc/network-manager/patches
+END
+model.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/26096/trunk/playground/gsoc/network-manager/patches/model.xml
+END
+wpa_supplicant.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/uludag/!svn/ver/26096/trunk/playground/gsoc/network-manager/patches/wpa_supplicant.py
+END
+Net_Link_wireless_tools.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/uludag/!svn/ver/26096/trunk/playground/gsoc/network-manager/patches/Net_Link_wireless_tools.py
+END

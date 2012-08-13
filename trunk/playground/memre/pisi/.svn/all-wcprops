@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/uludag/!svn/ver/38439/trunk/playground/memre/pisi
+END
+RefactorPlan
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/RefactorPlan
+END
+pisi-spec.rng
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/uludag/!svn/ver/38439/trunk/playground/memre/pisi/pisi-spec.rng
+END
+ApiPlan
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/ApiPlan
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/AUTHORS
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/uludag/!svn/ver/38439/trunk/playground/memre/pisi/ChangeLog
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/uludag/!svn/ver/38437/trunk/playground/memre/pisi/setup.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/README
+END
+CODING
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/CODING
+END
+ChangeLog.OLD
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/ChangeLog.OLD
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/TODO
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/INSTALL
+END
+pisi-spec.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/uludag/!svn/ver/38437/trunk/playground/memre/pisi/pisi-spec.dtd
+END
+pisi.xml.in
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/38437/trunk/playground/memre/pisi/pisi.xml.in
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/COPYING
+END
+pisi-cli
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/pisi-cli
+END
+MANIFEST.in
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/38439/trunk/playground/memre/pisi/MANIFEST.in
+END

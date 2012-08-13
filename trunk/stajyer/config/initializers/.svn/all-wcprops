@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/uludag/!svn/ver/22399/trunk/stajyer/config/initializers
+END
+inflections.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/uludag/!svn/ver/22399/trunk/stajyer/config/initializers/inflections.rb
+END
+session_store.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/uludag/!svn/ver/22399/trunk/stajyer/config/initializers/session_store.rb
+END
+site_keys.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/uludag/!svn/ver/22399/trunk/stajyer/config/initializers/site_keys.rb
+END
+backtrace_silencers.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/22399/trunk/stajyer/config/initializers/backtrace_silencers.rb
+END
+new_rails_defaults.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/22399/trunk/stajyer/config/initializers/new_rails_defaults.rb
+END
+mime_types.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/uludag/!svn/ver/22399/trunk/stajyer/config/initializers/mime_types.rb
+END

@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/uludag/!svn/ver/38516/trunk/pisi/pisi
+END
+comariface.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/uludag/!svn/ver/34791/trunk/pisi/pisi/comariface.py
+END
+specfile.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/uludag/!svn/ver/36567/trunk/pisi/pisi/specfile.py
+END
+package.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/uludag/!svn/ver/38212/trunk/pisi/pisi/package.py
+END
+group.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/uludag/!svn/ver/29486/trunk/pisi/pisi/group.py
+END
+mirrors.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/uludag/!svn/ver/26218/trunk/pisi/pisi/mirrors.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/uludag/!svn/ver/37901/trunk/pisi/pisi/__init__.py
+END
+history.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/uludag/!svn/ver/33050/trunk/pisi/pisi/history.py
+END
+files.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/uludag/!svn/ver/26344/trunk/pisi/pisi/files.py
+END
+config.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/uludag/!svn/ver/32065/trunk/pisi/pisi/config.py
+END
+index.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/uludag/!svn/ver/37865/trunk/pisi/pisi/index.py
+END
+api.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/uludag/!svn/ver/37357/trunk/pisi/pisi/api.py
+END
+signalhandler.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/uludag/!svn/ver/26218/trunk/pisi/pisi/signalhandler.py
+END
+util.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/uludag/!svn/ver/38339/trunk/pisi/pisi/util.py
+END
+ui.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/uludag/!svn/ver/37180/trunk/pisi/pisi/ui.py
+END
+relation.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/uludag/!svn/ver/29486/trunk/pisi/pisi/relation.py
+END
+oo.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/uludag/!svn/ver/26218/trunk/pisi/pisi/oo.py
+END
+dependency.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/uludag/!svn/ver/26218/trunk/pisi/pisi/dependency.py
+END
+metadata.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/uludag/!svn/ver/32235/trunk/pisi/pisi/metadata.py
+END
+atomicoperations.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/uludag/!svn/ver/32220/trunk/pisi/pisi/atomicoperations.py
+END
+pgraph.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/uludag/!svn/ver/29486/trunk/pisi/pisi/pgraph.py
+END
+context.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/uludag/!svn/ver/26218/trunk/pisi/pisi/context.py
+END
+uri.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/uludag/!svn/ver/29486/trunk/pisi/pisi/uri.py
+END
+graph.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/uludag/!svn/ver/37221/trunk/pisi/pisi/graph.py
+END
+conflict.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/uludag/!svn/ver/26218/trunk/pisi/pisi/conflict.py
+END
+component.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/uludag/!svn/ver/29486/trunk/pisi/pisi/component.py
+END
+sourcearchive.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/uludag/!svn/ver/38212/trunk/pisi/pisi/sourcearchive.py
+END
+configfile.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/uludag/!svn/ver/38339/trunk/pisi/pisi/configfile.py
+END
+blacklist.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/uludag/!svn/ver/26218/trunk/pisi/pisi/blacklist.py
+END
+replace.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/uludag/!svn/ver/26218/trunk/pisi/pisi/replace.py
+END
+constants.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/uludag/!svn/ver/33848/trunk/pisi/pisi/constants.py
+END
+errors.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/uludag/!svn/ver/26218/trunk/pisi/pisi/errors.py
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/uludag/!svn/ver/26218/trunk/pisi/pisi/.gitignore
+END
+file.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/uludag/!svn/ver/33962/trunk/pisi/pisi/file.py
+END
+fetcher.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/uludag/!svn/ver/35750/trunk/pisi/pisi/fetcher.py
+END
+archive.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/uludag/!svn/ver/38220/trunk/pisi/pisi/archive.py
+END
+version.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/uludag/!svn/ver/28030/trunk/pisi/pisi/version.py
+END

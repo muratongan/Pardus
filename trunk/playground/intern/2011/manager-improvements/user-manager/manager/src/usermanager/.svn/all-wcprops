@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/uludag/!svn/ver/37613/trunk/playground/intern/2011/manager-improvements/user-manager/manager/src/usermanager
+END
+about.py
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/uludag/!svn/ver/37537/trunk/playground/intern/2011/manager-improvements/user-manager/manager/src/usermanager/about.py
+END
+item.py
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/uludag/!svn/ver/37537/trunk/playground/intern/2011/manager-improvements/user-manager/manager/src/usermanager/item.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/uludag/!svn/ver/37537/trunk/playground/intern/2011/manager-improvements/user-manager/manager/src/usermanager/__init__.py
+END
+utility.py
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/uludag/!svn/ver/37537/trunk/playground/intern/2011/manager-improvements/user-manager/manager/src/usermanager/utility.py
+END
+main.py
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/uludag/!svn/ver/37586/trunk/playground/intern/2011/manager-improvements/user-manager/manager/src/usermanager/main.py
+END
+config.py
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/uludag/!svn/ver/37537/trunk/playground/intern/2011/manager-improvements/user-manager/manager/src/usermanager/config.py
+END
+edit.py
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/uludag/!svn/ver/37613/trunk/playground/intern/2011/manager-improvements/user-manager/manager/src/usermanager/edit.py
+END
+backend.py
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/uludag/!svn/ver/37537/trunk/playground/intern/2011/manager-improvements/user-manager/manager/src/usermanager/backend.py
+END
+question.py
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/uludag/!svn/ver/37537/trunk/playground/intern/2011/manager-improvements/user-manager/manager/src/usermanager/question.py
+END

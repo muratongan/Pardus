@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/uludag/!svn/ver/33442/trunk/kde/migration
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/uludag/!svn/ver/27505/trunk/kde/migration/AUTHORS
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/uludag/!svn/ver/26234/trunk/kde/migration/INSTALL
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/uludag/!svn/ver/27502/trunk/kde/migration/setup.py
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/uludag/!svn/ver/26234/trunk/kde/migration/COPYING
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/uludag/!svn/ver/26234/trunk/kde/migration/README
+END

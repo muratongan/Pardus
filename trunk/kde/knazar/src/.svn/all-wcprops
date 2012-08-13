@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/uludag/!svn/ver/26103/trunk/kde/knazar/src
+END
+knazardcop.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/uludag/!svn/ver/26103/trunk/kde/knazar/src/knazardcop.h
+END
+knazarballoon.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/uludag/!svn/ver/26103/trunk/kde/knazar/src/knazarballoon.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/uludag/!svn/ver/26103/trunk/kde/knazar/src/main.cpp
+END
+SConscript
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/uludag/!svn/ver/26103/trunk/kde/knazar/src/SConscript
+END
+knazar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/uludag/!svn/ver/26103/trunk/kde/knazar/src/knazar.cpp
+END
+knazar.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/uludag/!svn/ver/26103/trunk/kde/knazar/src/knazar.h
+END
+knazar.desktop
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/uludag/!svn/ver/26103/trunk/kde/knazar/src/knazar.desktop
+END
+knazarballoon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/uludag/!svn/ver/26103/trunk/kde/knazar/src/knazarballoon.cpp
+END

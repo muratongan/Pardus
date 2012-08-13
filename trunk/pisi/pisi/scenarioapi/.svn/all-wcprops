@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/uludag/!svn/ver/31018/trunk/pisi/pisi/scenarioapi
+END
+pspec.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/uludag/!svn/ver/31018/trunk/pisi/pisi/scenarioapi/pspec.py
+END
+package.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/uludag/!svn/ver/27897/trunk/pisi/pisi/scenarioapi/package.py
+END
+constants.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/uludag/!svn/ver/31017/trunk/pisi/pisi/scenarioapi/constants.py
+END
+withops.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/uludag/!svn/ver/26654/trunk/pisi/pisi/scenarioapi/withops.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/26218/trunk/pisi/pisi/scenarioapi/__init__.py
+END
+actions.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/uludag/!svn/ver/26218/trunk/pisi/pisi/scenarioapi/actions.py
+END
+scenario.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/26218/trunk/pisi/pisi/scenarioapi/scenario.py
+END
+pisiops.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/uludag/!svn/ver/26218/trunk/pisi/pisi/scenarioapi/pisiops.py
+END
+repoops.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/uludag/!svn/ver/26218/trunk/pisi/pisi/scenarioapi/repoops.py
+END

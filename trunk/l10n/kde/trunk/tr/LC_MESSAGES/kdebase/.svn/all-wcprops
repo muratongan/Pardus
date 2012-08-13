@@ -1,0 +1,1415 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/33154/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase
+END
+kcmnotify.po
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kcmnotify.po
+END
+kde-menu.po
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kde-menu.po
+END
+display.po
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/display.po
+END
+klipper.po
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/klipper.po
+END
+kdialog.po
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kdialog.po
+END
+kcmbackground.po
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kcmbackground.po
+END
+kcmkwinscreenedges.po
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kcmkwinscreenedges.po
+END
+kreadconfig.po
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kreadconfig.po
+END
+kio_man.po
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kio_man.po
+END
+kcmkwincompositing.po
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kcmkwincompositing.po
+END
+kcmcomponentchooser.po
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kcmcomponentchooser.po
+END
+libplasmaclock.po
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/libplasmaclock.po
+END
+plasma_applet_dig_clock.po
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/plasma_applet_dig_clock.po
+END
+krandr.po
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/krandr.po
+END
+plasma_engine_weather.po
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/plasma_engine_weather.po
+END
+kio_archive.po
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kio_archive.po
+END
+kcm_solid_actions.po
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kcm_solid_actions.po
+END
+kdepasswd.po
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kdepasswd.po
+END
+kcmhtmlsearch.po
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kcmhtmlsearch.po
+END
+khotnewstuff.po
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/khotnewstuff.po
+END
+desktop_kdebase.po
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/desktop_kdebase.po
+END
+plasma_applet_tasks.po
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/plasma_applet_tasks.po
+END
+kio_nfs.po
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kio_nfs.po
+END
+kblankscrn.po
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kblankscrn.po
+END
+khtmlkttsd.po
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/khtmlkttsd.po
+END
+kcm_emoticons.po
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kcm_emoticons.po
+END
+plasma_engine_calendar.po
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/plasma_engine_calendar.po
+END
+kmimetypefinder.po
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kmimetypefinder.po
+END
+kcmcgi.po
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kcmcgi.po
+END
+solid-powermanagement.po
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/solid-powermanagement.po
+END
+plasmagenericshell.po
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/plasmagenericshell.po
+END
+kpasswdserver.po
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kpasswdserver.po
+END
+plasma_applet_launcher.po
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/plasma_applet_launcher.po
+END
+kcm_solid.po
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kcm_solid.po
+END
+solid-hardware.po
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/solid-hardware.po
+END
+plasma_runner_services.po
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/plasma_runner_services.po
+END
+kcmscreensaver.po
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kcmscreensaver.po
+END
+kwinstartmenu.po
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kwinstartmenu.po
+END
+plasma_engine_network.po
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/plasma_engine_network.po
+END
+kio_finger.po
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kio_finger.po
+END
+plasma-netbook.po
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/plasma-netbook.po
+END
+processui.po
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/processui.po
+END
+kdesud.po
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kdesud.po
+END
+kio_thumbnail.po
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kio_thumbnail.po
+END
+kfile.po
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kfile.po
+END
+kscreensaver.po
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kscreensaver.po
+END
+kiconfinder.po
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kiconfinder.po
+END
+kcmstyle.po
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kcmstyle.po
+END
+kcm_phonon.po
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kcm_phonon.po
+END
+kcm_device_automounter.po
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kcm_device_automounter.po
+END
+ktraderclient.po
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/ktraderclient.po
+END
+plasma-windowed.po
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/plasma-windowed.po
+END
+plasma_containmentactions_switchactivity.po
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/plasma_containmentactions_switchactivity.po
+END
+plasma_engine_notifications.po
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/plasma_engine_notifications.po
+END
+dolphin.po
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/dolphin.po
+END
+freespacenotifier.po
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/freespacenotifier.po
+END
+plasma_runner_windowedwidgets.po
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/plasma_runner_windowedwidgets.po
+END
+joystick.po
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/joystick.po
+END
+nsplugin.po
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/nsplugin.po
+END
+libkworkspace.po
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/libkworkspace.po
+END
+khotkeys.po
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/khotkeys.po
+END
+kcmshell.po
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kcmshell.po
+END
+kcmkonq.po
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kcmkonq.po
+END
+kstyle_keramik_config.po
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kstyle_keramik_config.po
+END
+kglobalaccel.po
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kglobalaccel.po
+END
+filetypes.po
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/filetypes.po
+END
+kcm_pci.po
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kcm_pci.po
+END
+kwrite.po
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kwrite.po
+END
+kcmkeys.po
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kcmkeys.po
+END
+knotify4.po
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/knotify4.po
+END
+kwin_effects.po
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kwin_effects.po
+END
+plasmawallpaperviewer.po
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/plasmawallpaperviewer.po
+END
+plasma_containmentactions_switchdesktop.po
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/plasma_containmentactions_switchdesktop.po
+END
+kcmbell.po
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kcmbell.po
+END
+plasma_runner_calculatorrunner.po
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/plasma_runner_calculatorrunner.po
+END
+kcm_standard_actions.po
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kcm_standard_actions.po
+END
+plasma_engine_keystate.po
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/plasma_engine_keystate.po
+END
+plasma_appletscriptengine_qedjescripts.po
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/plasma_appletscriptengine_qedjescripts.po
+END
+nepomuk.po
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/nepomuk.po
+END
+kcmopengl.po
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kcmopengl.po
+END
+plasma_runner_windows.po
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/plasma_runner_windows.po
+END
+kio_smb.po
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kio_smb.po
+END
+plasma_applet_webbrowser.po
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/plasma_applet_webbrowser.po
+END
+kcmkurifilt.po
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kcmkurifilt.po
+END
+kcminfo.po
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kcminfo.po
+END
+plasma_wallpaper_image.po
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/plasma_wallpaper_image.po
+END
+kioexec.po
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kioexec.po
+END
+processcore.po
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/processcore.po
+END
+plasma_engine_rss.po
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/plasma_engine_rss.po
+END
+kcmaccess.po
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kcmaccess.po
+END
+kquitapp.po
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kquitapp.po
+END
+kcmkclock.po
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kcmkclock.po
+END
+kcm_memory.po
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kcm_memory.po
+END
+kcm_kwintabbox.po
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kcm_kwintabbox.po
+END
+plasma_engine_metadata.po
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/plasma_engine_metadata.po
+END
+plasma_appletscriptengine_dashboard.po
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/plasma_appletscriptengine_dashboard.po
+END
+plasma_applet_windowlist.po
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/plasma_applet_windowlist.po
+END
+plasma_applet_newspaper.po
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/plasma_applet_newspaper.po
+END
+kthememanager.po
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kthememanager.po
+END
+plasma_engine_nowplaying.po
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/plasma_engine_nowplaying.po
+END
+kio_floppy.po
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kio_floppy.po
+END
+kfmclient.po
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kfmclient.po
+END
+kaccess.po
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kaccess.po
+END
+ksysguard.po
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/ksysguard.po
+END
+kcmkio.po
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/uludag/!svn/ver/33154/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kcmkio.po
+END
+kcm_phononxine.po
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kcm_phononxine.po
+END
+kcm_autostart.po
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kcm_autostart.po
+END
+kurifilter.po
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kurifilter.po
+END
+kioclient.po
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kioclient.po
+END
+krdb.po
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/krdb.po
+END
+plasma_applet_lockout.po
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/plasma_applet_lockout.po
+END
+plasma_runner_webshortcuts.po
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/plasma_runner_webshortcuts.po
+END
+plasma_wallpaper_color.po
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/plasma_wallpaper_color.po
+END
+plasma_applet_trash.po
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/plasma_applet_trash.po
+END
+kcmfonts.po
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kcmfonts.po
+END
+phonon_kde.po
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/phonon_kde.po
+END
+plasma_applet_systemtray.po
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/plasma_applet_systemtray.po
+END
+kcmkonqhtml.po
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kcmkonqhtml.po
+END
+plasma_runner_recentdocuments.po
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/plasma_runner_recentdocuments.po
+END
+kcminput.po
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kcminput.po
+END
+kio_fish.po
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kio_fish.po
+END
+kcm_kwindesktop.po
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kcm_kwindesktop.po
+END
+kcmcolors.po
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kcmcolors.po
+END
+kdmconfig.po
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kdmconfig.po
+END
+solid-network.po
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/solid-network.po
+END
+kcm_desktoppaths.po
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kcm_desktoppaths.po
+END
+khelpcenter.po
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/khelpcenter.po
+END
+drkonqi.po
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/drkonqi.po
+END
+kio_timeline.po
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kio_timeline.po
+END
+plasma_runner_bookmarksrunner.po
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/plasma_runner_bookmarksrunner.po
+END
+ksplashthemes.po
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/ksplashthemes.po
+END
+kcmkwindecoration.po
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kcmkwindecoration.po
+END
+kcmsmartcard.po
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kcmsmartcard.po
+END
+solidcontrol.po
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/solidcontrol.po
+END
+kgreet_generic.po
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kgreet_generic.po
+END
+kcm_platform.po
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kcm_platform.po
+END
+plasma_runner_placesrunner.po
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/plasma_runner_placesrunner.po
+END
+attica_kde.po
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/attica_kde.po
+END
+imagerename_plugin.po
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/imagerename_plugin.po
+END
+kwin_clients.po
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kwin_clients.po
+END
+kio_bookmarks.po
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kio_bookmarks.po
+END
+kcmlocale.po
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kcmlocale.po
+END
+kgreet_winbind.po
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kgreet_winbind.po
+END
+plasma_applet_panelspacer_internal.po
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/plasma_applet_panelspacer_internal.po
+END
+kcm_desktopthemedetails.po
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kcm_desktopthemedetails.po
+END
+kcmperformance.po
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kcmperformance.po
+END
+plasma-overlay.po
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/plasma-overlay.po
+END
+plasma_runner_sessions.po
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/plasma_runner_sessions.po
+END
+kio_remote.po
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kio_remote.po
+END
+plasma_applet_pager.po
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/plasma_applet_pager.po
+END
+kcmlaunch.po
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kcmlaunch.po
+END
+systemsettings.po
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/systemsettings.po
+END
+kcmicons.po
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kcmicons.po
+END
+plasma_containmentactions_switchwindow.po
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/plasma_containmentactions_switchwindow.po
+END
+plasma_runner_powerdevil.po
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/plasma_runner_powerdevil.po
+END
+audiorename_plugin.po
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/audiorename_plugin.po
+END
+kwalletd.po
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kwalletd.po
+END
+kwin.po
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kwin.po
+END
+konsole.po
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/konsole.po
+END
+plasma_runner_plasma-desktop.po
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/plasma_runner_plasma-desktop.po
+END
+plasma_applet_saverdesktop.po
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/plasma_applet_saverdesktop.po
+END
+plasmapkg.po
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/plasmapkg.po
+END
+kio_nepomuk.po
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kio_nepomuk.po
+END
+kcmkdnssd.po
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kcmkdnssd.po
+END
+kfindpart.po
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kfindpart.po
+END
+libkscreensaver.po
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/libkscreensaver.po
+END
+kio_trash.po
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kio_trash.po
+END
+plasma_runner_nepomuksearchrunner.po
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/plasma_runner_nepomuksearchrunner.po
+END
+konqueror.po
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/konqueror.po
+END
+plasma_containmentactions_contextmenu.po
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/plasma_containmentactions_contextmenu.po
+END
+kcmkwm.po
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kcmkwm.po
+END
+plasmoidviewer.po
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/plasmoidviewer.po
+END
+kwriteconfig.po
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kwriteconfig.po
+END
+kcminit.po
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kcminit.po
+END
+kwin_lib.po
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kwin_lib.po
+END
+kxkb.po
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kxkb.po
+END
+libkonq.po
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/libkonq.po
+END
+soliduiserver.po
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/soliduiserver.po
+END
+kcmsmserver.po
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kcmsmserver.po
+END
+plasma_applet_devicenotifier.po
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/plasma_applet_devicenotifier.po
+END
+plasma_applet_panel.po
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/plasma_applet_panel.po
+END
+kio_nepomuksearch.po
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kio_nepomuksearch.po
+END
+kinfocenter.po
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kinfocenter.po
+END
+plasma_applet_folderview.po
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/plasma_applet_folderview.po
+END
+policykit-kde.po
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/policykit-kde.po
+END
+keditbookmarks.po
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/keditbookmarks.po
+END
+plasma_applet_quicklaunch.po
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/plasma_applet_quicklaunch.po
+END
+kdesu.po
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kdesu.po
+END
+ksystraycmd.po
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/ksystraycmd.po
+END
+solid-bluetooth.po
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/solid-bluetooth.po
+END
+kcmsamba.po
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kcmsamba.po
+END
+kuiserver.po
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kuiserver.po
+END
+plasma_applet_searchbox.po
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/plasma_applet_searchbox.po
+END
+powerdevil.po
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/powerdevil.po
+END
+ksmserver.po
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/ksmserver.po
+END
+kdebugdialog.po
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kdebugdialog.po
+END
+plasma_applet_sal.po
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/plasma_applet_sal.po
+END
+plasma_runner_locations.po
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/plasma_runner_locations.po
+END
+kgreet_classic.po
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kgreet_classic.po
+END
+krunner.po
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/krunner.po
+END
+kcmusb.po
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kcmusb.po
+END
+libtaskmanager.po
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/libtaskmanager.po
+END
+plasma-desktop.po
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/plasma-desktop.po
+END
+knetattach.po
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/knetattach.po
+END
+plasma_applet_currentappcontrol.po
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/plasma_applet_currentappcontrol.po
+END
+kio_applications.po
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kio_applications.po
+END
+phononserver.po
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/phononserver.po
+END
+htmlsearch.po
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/htmlsearch.po
+END
+kcmkeyboard.po
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kcmkeyboard.po
+END
+useraccount.po
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/useraccount.po
+END
+plasma_scriptengine_qscript.po
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/plasma_scriptengine_qscript.po
+END
+plasma_applet_clock.po
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/plasma_applet_clock.po
+END
+kcmxinerama.po
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kcmxinerama.po
+END
+plasma_engine_kuiserver.po
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/plasma_engine_kuiserver.po
+END
+polkit-kde-authorization.po
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/polkit-kde-authorization.po
+END
+kdmgreet.po
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kdmgreet.po
+END
+kcmkded.po
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kcmkded.po
+END
+kcmworkspaceoptions.po
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kcmworkspaceoptions.po
+END
+kstart.po
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kstart.po
+END
+plasma_applet_netpanel.po
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/plasma_applet_netpanel.po
+END
+plasma_applet_system-monitor.po
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/plasma_applet_system-monitor.po
+END
+plasma_applet_battery.po
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/plasma_applet_battery.po
+END
+kio_sftp.po
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kio_sftp.po
+END
+kcmkwinrules.po
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kcmkwinrules.po
+END
+kfontinst.po
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kfontinst.po
+END
+plasma_runner_kill.po
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/plasma_runner_kill.po
+END
+plasmaengineexplorer.po
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/plasmaengineexplorer.po
+END
+kmenuedit.po
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kmenuedit.po
+END
+kcmview1394.po
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kcmview1394.po
+END
+ksysguardlsofwidgets.po
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/ksysguardlsofwidgets.po
+END
+plasma_applet_icon.po
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/plasma_applet_icon.po
+END
+kio_info.po
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kio_info.po
+END
+plasma_runner_shell.po
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/plasma_runner_shell.po
+END
+kshorturifilter.po
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kshorturifilter.po
+END
+kstyle_config.po
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/30980/trunk/l10n/kde/trunk/tr/LC_MESSAGES/kdebase/kstyle_config.po
+END

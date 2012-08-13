@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uludag/!svn/ver/33418/trunk/playground/caglar.kilimci/ahenk/ajan/ahenk/agent
+END
+workers.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/uludag/!svn/ver/33418/trunk/playground/caglar.kilimci/ahenk/ajan/ahenk/agent/workers.py
+END
+pam.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/33418/trunk/playground/caglar.kilimci/ahenk/ajan/ahenk/agent/pam.py
+END
+mainloop.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/uludag/!svn/ver/33418/trunk/playground/caglar.kilimci/ahenk/ajan/ahenk/agent/mainloop.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/uludag/!svn/ver/33418/trunk/playground/caglar.kilimci/ahenk/ajan/ahenk/agent/__init__.py
+END
+bck_ldap.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/uludag/!svn/ver/33418/trunk/playground/caglar.kilimci/ahenk/ajan/ahenk/agent/bck_ldap.py
+END
+utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/uludag/!svn/ver/33418/trunk/playground/caglar.kilimci/ahenk/ajan/ahenk/agent/utils.py
+END
+nsswitch.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/uludag/!svn/ver/33418/trunk/playground/caglar.kilimci/ahenk/ajan/ahenk/agent/nsswitch.py
+END
+bck_xmpp.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/uludag/!svn/ver/33418/trunk/playground/caglar.kilimci/ahenk/ajan/ahenk/agent/bck_xmpp.py
+END
+daemon.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/33418/trunk/playground/caglar.kilimci/ahenk/ajan/ahenk/agent/daemon.py
+END

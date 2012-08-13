@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/uludag/!svn/ver/32223/trunk/pisi/tests/database
+END
+componentdbtest.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/uludag/!svn/ver/30925/trunk/pisi/tests/database/componentdbtest.py
+END
+filesdbtest.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/uludag/!svn/ver/26218/trunk/pisi/tests/database/filesdbtest.py
+END
+repodbtest.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/30960/trunk/pisi/tests/database/repodbtest.py
+END
+testcase.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/uludag/!svn/ver/32223/trunk/pisi/tests/database/testcase.py
+END
+installdbtest.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/uludag/!svn/ver/31015/trunk/pisi/tests/database/installdbtest.py
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/uludag/!svn/ver/26218/trunk/pisi/tests/database/.gitignore
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/uludag/!svn/ver/26218/trunk/pisi/tests/database/__init__.py
+END
+itembyrepotest.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/30925/trunk/pisi/tests/database/itembyrepotest.py
+END
+packagedbtest.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/uludag/!svn/ver/30925/trunk/pisi/tests/database/packagedbtest.py
+END
+lazydbtest.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/30925/trunk/pisi/tests/database/lazydbtest.py
+END
+sourcedbtest.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/uludag/!svn/ver/30925/trunk/pisi/tests/database/sourcedbtest.py
+END

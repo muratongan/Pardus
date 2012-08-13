@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pulseaudio-ui/integrator
+END
+QtPulseAudioIntegrator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pulseaudio-ui/integrator/QtPulseAudioIntegrator.cpp
+END
+QtPulseAudioTimeEvent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pulseaudio-ui/integrator/QtPulseAudioTimeEvent.cpp
+END
+QtPulseAudioIntegrator.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pulseaudio-ui/integrator/QtPulseAudioIntegrator.h
+END
+QtPulseAudioTimeEvent_p.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pulseaudio-ui/integrator/QtPulseAudioTimeEvent_p.h
+END
+QtPulseAudioDeferEvent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pulseaudio-ui/integrator/QtPulseAudioDeferEvent.cpp
+END
+QtPulseAudioIOEvent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pulseaudio-ui/integrator/QtPulseAudioIOEvent.cpp
+END
+QtPulseAudioDeferEvent_p.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pulseaudio-ui/integrator/QtPulseAudioDeferEvent_p.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pulseaudio-ui/integrator/CMakeLists.txt
+END
+QtPulseAudioIOEvent_p.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pulseaudio-ui/integrator/QtPulseAudioIOEvent_p.h
+END

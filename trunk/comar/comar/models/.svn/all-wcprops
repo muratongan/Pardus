@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/uludag/!svn/ver/35754/trunk/comar/comar/models
+END
+Net.Link.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/uludag/!svn/ver/23076/trunk/comar/comar/models/Net.Link.xml
+END
+Disk.Manager.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/uludag/!svn/ver/25685/trunk/comar/comar/models/Disk.Manager.xml
+END
+System.Service.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/23076/trunk/comar/comar/models/System.Service.xml
+END
+System.Settings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/uludag/!svn/ver/23804/trunk/comar/comar/models/System.Settings.xml
+END
+Xorg.Display.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/uludag/!svn/ver/24657/trunk/comar/comar/models/Xorg.Display.xml
+END
+Network.Link.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/uludag/!svn/ver/31156/trunk/comar/comar/models/Network.Link.xml
+END
+User.Manager.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/uludag/!svn/ver/23076/trunk/comar/comar/models/User.Manager.xml
+END
+Boot.Loader.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/uludag/!svn/ver/23076/trunk/comar/comar/models/Boot.Loader.xml
+END
+Core.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/uludag/!svn/ver/24041/trunk/comar/comar/models/Core.xml
+END
+Time.Clock.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/23076/trunk/comar/comar/models/Time.Clock.xml
+END
+Boot.Modules.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/uludag/!svn/ver/27410/trunk/comar/comar/models/Boot.Modules.xml
+END
+Network.Firewall.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/uludag/!svn/ver/23076/trunk/comar/comar/models/Network.Firewall.xml
+END
+System.Manager.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/35754/trunk/comar/comar/models/System.Manager.xml
+END
+System.Package.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/23076/trunk/comar/comar/models/System.Package.xml
+END

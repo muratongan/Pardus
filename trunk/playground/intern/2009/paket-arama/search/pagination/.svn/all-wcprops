@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/paket-arama/search/pagination
+END
+middleware.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/paket-arama/search/pagination/middleware.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/paket-arama/search/pagination/__init__.py
+END
+tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/paket-arama/search/pagination/tests.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/paket-arama/search/pagination/models.py
+END

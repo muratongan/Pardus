@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/uludag/!svn/ver/36544/trunk/buildfarm/data
+END
+auth.conf
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/uludag/!svn/ver/32447/trunk/buildfarm/data/auth.conf
+END
+buildfarm.conf
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/uludag/!svn/ver/36544/trunk/buildfarm/data/buildfarm.conf
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/uludag/!svn/ver/22452/trunk/buildfarm/data/README
+END

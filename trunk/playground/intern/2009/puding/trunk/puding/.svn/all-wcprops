@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/puding/trunk/puding
+END
+common.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/puding/trunk/puding/common.py
+END
+resources.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/puding/trunk/puding/resources.py
+END
+constants.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/puding/trunk/puding/constants.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/puding/trunk/puding/__init__.py
+END
+pardusTools.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/puding/trunk/puding/pardusTools.py
+END
+releases.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/puding/trunk/puding/releases.py
+END
+main.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/puding/trunk/puding/main.py
+END

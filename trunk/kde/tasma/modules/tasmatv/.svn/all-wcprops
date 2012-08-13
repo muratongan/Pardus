@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/uludag/!svn/ver/26157/trunk/kde/tasma/modules/tasmatv
+END
+tuners-db.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/uludag/!svn/ver/26157/trunk/kde/tasma/modules/tasmatv/tuners-db.cpp
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/26157/trunk/kde/tasma/modules/tasmatv/AUTHORS
+END
+tasmatv.desktop
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/uludag/!svn/ver/26157/trunk/kde/tasma/modules/tasmatv/tasmatv.desktop
+END
+tvconfigui.ui
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/uludag/!svn/ver/26157/trunk/kde/tasma/modules/tasmatv/tvconfigui.ui
+END
+tuners-db.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/26157/trunk/kde/tasma/modules/tasmatv/tuners-db.h
+END
+bttv-cards.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/uludag/!svn/ver/26157/trunk/kde/tasma/modules/tasmatv/bttv-cards.h
+END
+tvconfig.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/uludag/!svn/ver/26157/trunk/kde/tasma/modules/tasmatv/tvconfig.cpp
+END
+tasmatv.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/26157/trunk/kde/tasma/modules/tasmatv/tasmatv.cpp
+END
+cards-db.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/uludag/!svn/ver/26157/trunk/kde/tasma/modules/tasmatv/cards-db.cpp
+END
+saa7134-cards.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/uludag/!svn/ver/26157/trunk/kde/tasma/modules/tasmatv/saa7134-cards.h
+END
+tvconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/uludag/!svn/ver/26157/trunk/kde/tasma/modules/tasmatv/tvconfig.h
+END
+tasmatv.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/uludag/!svn/ver/26157/trunk/kde/tasma/modules/tasmatv/tasmatv.h
+END
+cards-db.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/uludag/!svn/ver/26157/trunk/kde/tasma/modules/tasmatv/cards-db.h
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/uludag/!svn/ver/26157/trunk/kde/tasma/modules/tasmatv/TODO
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/uludag/!svn/ver/26157/trunk/kde/tasma/modules/tasmatv/CMakeLists.txt
+END

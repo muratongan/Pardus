@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/uludag/!svn/ver/38474/trunk/yali/yali
+END
+_sysutils.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/uludag/!svn/ver/31500/trunk/yali/yali/_sysutils.c
+END
+localedata.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/uludag/!svn/ver/35293/trunk/yali/yali/localedata.py
+END
+timezone.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/uludag/!svn/ver/31516/trunk/yali/yali/timezone.py
+END
+pisiiface.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/uludag/!svn/ver/38454/trunk/yali/yali/pisiiface.py
+END
+flags.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/uludag/!svn/ver/36885/trunk/yali/yali/flags.py
+END
+kahya.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/uludag/!svn/ver/33270/trunk/yali/yali/kahya.py
+END
+baseudev.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/uludag/!svn/ver/31521/trunk/yali/yali/baseudev.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/uludag/!svn/ver/32978/trunk/yali/yali/__init__.py
+END
+sysutils.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/uludag/!svn/ver/38474/trunk/yali/yali/sysutils.py
+END
+installdata.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/uludag/!svn/ver/36818/trunk/yali/yali/installdata.py
+END
+users.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/uludag/!svn/ver/36830/trunk/yali/yali/users.py
+END
+data.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/uludag/!svn/ver/32418/trunk/yali/yali/data.qrc
+END
+pyudev.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/uludag/!svn/ver/31055/trunk/yali/yali/pyudev.py
+END
+postinstall.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/uludag/!svn/ver/36896/trunk/yali/yali/postinstall.py
+END
+constants.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/uludag/!svn/ver/38379/trunk/yali/yali/constants.py
+END
+util.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/uludag/!svn/ver/38412/trunk/yali/yali/util.py
+END
+yalireadpiks.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/uludag/!svn/ver/30624/trunk/yali/yali/yalireadpiks.py
+END
+main.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/uludag/!svn/ver/38417/trunk/yali/yali/main.py
+END
+context.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/uludag/!svn/ver/38412/trunk/yali/yali/context.py
+END

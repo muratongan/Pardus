@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/uludag/!svn/ver/36387/trunk/scripts/testing
+END
+find-updated-packages
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/36387/trunk/scripts/testing/find-updated-packages
+END
+find-updated-packages-2009
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/uludag/!svn/ver/36387/trunk/scripts/testing/find-updated-packages-2009
+END
+create-repo-for-test-team
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/uludag/!svn/ver/36378/trunk/scripts/testing/create-repo-for-test-team
+END
+find-broken-links
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/36378/trunk/scripts/testing/find-broken-links
+END
+group-ack-list-as-components.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/uludag/!svn/ver/36379/trunk/scripts/testing/group-ack-list-as-components.py
+END

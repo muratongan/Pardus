@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/uludag/!svn/ver/31635/trunk/kde/kaptan/src/kaptan/tools
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/uludag/!svn/ver/31421/trunk/kde/kaptan/src/kaptan/tools/__init__.py
+END
+tools.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/uludag/!svn/ver/31635/trunk/kde/kaptan/src/kaptan/tools/tools.py
+END
+progress_pie.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/uludag/!svn/ver/31419/trunk/kde/kaptan/src/kaptan/tools/progress_pie.py
+END
+kaptan_menu.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/uludag/!svn/ver/31419/trunk/kde/kaptan/src/kaptan/tools/kaptan_menu.py
+END
+desktop_parser.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/uludag/!svn/ver/31419/trunk/kde/kaptan/src/kaptan/tools/desktop_parser.py
+END

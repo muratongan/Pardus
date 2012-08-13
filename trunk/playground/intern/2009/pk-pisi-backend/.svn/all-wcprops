@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/pk-pisi-backend
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/pk-pisi-backend/Makefile.in
+END
+pk-backend-pisi.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/pk-pisi-backend/pk-backend-pisi.c
+END
+pisiBackend.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/pk-pisi-backend/pisiBackend.py
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/pk-pisi-backend/Makefile.am
+END

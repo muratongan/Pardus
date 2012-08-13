@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/uludag/!svn/ver/26102/trunk/kde/kio-to-local
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/uludag/!svn/ver/26102/trunk/kde/kio-to-local/main.cpp
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/uludag/!svn/ver/26102/trunk/kde/kio-to-local/COPYING
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/uludag/!svn/ver/26102/trunk/kde/kio-to-local/CMakeLists.txt
+END

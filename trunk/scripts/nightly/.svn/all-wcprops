@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/uludag/!svn/ver/36764/trunk/scripts/nightly
+END
+sample.conf
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/uludag/!svn/ver/35943/trunk/scripts/nightly/sample.conf
+END
+nightly.sh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/uludag/!svn/ver/36764/trunk/scripts/nightly/nightly.sh
+END

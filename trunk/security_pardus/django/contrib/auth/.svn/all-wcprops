@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/uludag/!svn/ver/22532/trunk/security_pardus/django/contrib/auth
+END
+backends.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/uludag/!svn/ver/22532/trunk/security_pardus/django/contrib/auth/backends.py
+END
+management.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/22532/trunk/security_pardus/django/contrib/auth/management.py
+END
+middleware.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/22532/trunk/security_pardus/django/contrib/auth/middleware.py
+END
+views.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/uludag/!svn/ver/22532/trunk/security_pardus/django/contrib/auth/views.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/uludag/!svn/ver/22532/trunk/security_pardus/django/contrib/auth/__init__.py
+END
+create_superuser.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/22532/trunk/security_pardus/django/contrib/auth/create_superuser.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/uludag/!svn/ver/22532/trunk/security_pardus/django/contrib/auth/models.py
+END
+decorators.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/22532/trunk/security_pardus/django/contrib/auth/decorators.py
+END
+forms.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/uludag/!svn/ver/22532/trunk/security_pardus/django/contrib/auth/forms.py
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uludag/!svn/ver/37308/trunk/kde/firewall-manager/manager/src/firewallmanager
+END
+about.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/uludag/!svn/ver/37307/trunk/kde/firewall-manager/manager/src/firewallmanager/about.py
+END
+pagedialog.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/uludag/!svn/ver/37307/trunk/kde/firewall-manager/manager/src/firewallmanager/pagedialog.py
+END
+item.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/37307/trunk/kde/firewall-manager/manager/src/firewallmanager/item.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/uludag/!svn/ver/30505/trunk/kde/firewall-manager/manager/src/firewallmanager/__init__.py
+END
+settingsitem.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/uludag/!svn/ver/37307/trunk/kde/firewall-manager/manager/src/firewallmanager/settingsitem.py
+END
+service.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/uludag/!svn/ver/37308/trunk/kde/firewall-manager/manager/src/firewallmanager/service.py
+END
+kcmodule.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/uludag/!svn/ver/37307/trunk/kde/firewall-manager/manager/src/firewallmanager/kcmodule.py
+END
+context.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/uludag/!svn/ver/37307/trunk/kde/firewall-manager/manager/src/firewallmanager/context.py
+END
+main.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/37307/trunk/kde/firewall-manager/manager/src/firewallmanager/main.py
+END
+config.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/37307/trunk/kde/firewall-manager/manager/src/firewallmanager/config.py
+END
+backend.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/uludag/!svn/ver/30505/trunk/kde/firewall-manager/manager/src/firewallmanager/backend.py
+END

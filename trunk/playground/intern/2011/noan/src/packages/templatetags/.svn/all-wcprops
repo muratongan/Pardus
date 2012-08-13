@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/38200/trunk/playground/intern/2011/noan/src/packages/templatetags
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/uludag/!svn/ver/38200/trunk/playground/intern/2011/noan/src/packages/templatetags/__init__.py
+END
+package_extras.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/uludag/!svn/ver/38200/trunk/playground/intern/2011/noan/src/packages/templatetags/package_extras.py
+END
+cdn.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/uludag/!svn/ver/38200/trunk/playground/intern/2011/noan/src/packages/templatetags/cdn.py
+END

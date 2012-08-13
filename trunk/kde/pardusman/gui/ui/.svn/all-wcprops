@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/uludag/!svn/ver/36785/trunk/kde/pardusman/gui/ui
+END
+main.ui
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/uludag/!svn/ver/36784/trunk/kde/pardusman/gui/ui/main.ui
+END
+packagecollection.ui
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/uludag/!svn/ver/36785/trunk/kde/pardusman/gui/ui/packagecollection.ui
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/uludag/!svn/ver/26099/trunk/kde/pardusman/gui/ui/__init__.py
+END
+icons.ui
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/uludag/!svn/ver/26575/trunk/kde/pardusman/gui/ui/icons.ui
+END
+packages.ui
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/uludag/!svn/ver/29492/trunk/kde/pardusman/gui/ui/packages.ui
+END
+rawlanguages.ui
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/uludag/!svn/ver/26374/trunk/kde/pardusman/gui/ui/rawlanguages.ui
+END
+raw.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/uludag/!svn/ver/27925/trunk/kde/pardusman/gui/ui/raw.qrc
+END

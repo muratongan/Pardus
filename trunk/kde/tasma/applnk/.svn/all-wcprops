@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/uludag/!svn/ver/29177/trunk/kde/tasma/applnk
+END
+tasma-desktop.directory
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/uludag/!svn/ver/26157/trunk/kde/tasma/applnk/tasma-desktop.directory
+END
+tasma-network.directory
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/uludag/!svn/ver/29176/trunk/kde/tasma/applnk/tasma-network.directory
+END
+tasma-useraccount.directory
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/uludag/!svn/ver/26157/trunk/kde/tasma/applnk/tasma-useraccount.directory
+END
+kde-settings.menu
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/uludag/!svn/ver/29177/trunk/kde/tasma/applnk/kde-settings.menu
+END
+tasma-looknfeel.directory
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/uludag/!svn/ver/26157/trunk/kde/tasma/applnk/tasma-looknfeel.directory
+END
+tasma-peripherals.directory
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/uludag/!svn/ver/26157/trunk/kde/tasma/applnk/tasma-peripherals.directory
+END
+tasma.directory
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/uludag/!svn/ver/26157/trunk/kde/tasma/applnk/tasma.directory
+END
+tasma-system.directory
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/uludag/!svn/ver/26157/trunk/kde/tasma/applnk/tasma-system.directory
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/uludag/!svn/ver/26157/trunk/kde/tasma/applnk/CMakeLists.txt
+END
+tasma-localization.directory
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/uludag/!svn/ver/26157/trunk/kde/tasma/applnk/tasma-localization.directory
+END
+tasma-sound.directory
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/uludag/!svn/ver/26157/trunk/kde/tasma/applnk/tasma-sound.directory
+END

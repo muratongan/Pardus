@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/uludag/!svn/ver/35721/trunk/kde/package-manager/manager/ui
+END
+pminstall.ui
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/uludag/!svn/ver/34470/trunk/kde/package-manager/manager/ui/pminstall.ui
+END
+message.ui
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/uludag/!svn/ver/33053/trunk/kde/package-manager/manager/ui/message.ui
+END
+repodialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/uludag/!svn/ver/32966/trunk/kde/package-manager/manager/ui/repodialog.ui
+END
+basketdialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/uludag/!svn/ver/35317/trunk/kde/package-manager/manager/ui/basketdialog.ui
+END
+mainwindow.ui
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/uludag/!svn/ver/31186/trunk/kde/package-manager/manager/ui/mainwindow.ui
+END
+progressdialog_v4.ui
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/34682/trunk/kde/package-manager/manager/ui/progressdialog_v4.ui
+END
+summarydialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/uludag/!svn/ver/34470/trunk/kde/package-manager/manager/ui/summarydialog.ui
+END
+webdialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/uludag/!svn/ver/35089/trunk/kde/package-manager/manager/ui/webdialog.ui
+END
+appitem.ui
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/uludag/!svn/ver/29056/trunk/kde/package-manager/manager/ui/appitem.ui
+END
+mainwidget_v3.ui
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/uludag/!svn/ver/35028/trunk/kde/package-manager/manager/ui/mainwidget_v3.ui
+END
+settingsdialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uludag/!svn/ver/35721/trunk/kde/package-manager/manager/ui/settingsdialog.ui
+END
+preview.ui
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/uludag/!svn/ver/35117/trunk/kde/package-manager/manager/ui/preview.ui
+END

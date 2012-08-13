@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/uludag/!svn/ver/30261/trunk/playground/gsoc/yali-live/tools
+END
+convert
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/uludag/!svn/ver/30261/trunk/playground/gsoc/yali-live/tools/convert
+END
+po-stat.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/uludag/!svn/ver/30261/trunk/playground/gsoc/yali-live/tools/po-stat.sh
+END
+show_screen.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/uludag/!svn/ver/30261/trunk/playground/gsoc/yali-live/tools/show_screen.py
+END
+update-po.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/uludag/!svn/ver/30261/trunk/playground/gsoc/yali-live/tools/update-po.sh
+END

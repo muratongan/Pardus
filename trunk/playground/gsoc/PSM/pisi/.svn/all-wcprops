@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi
+END
+comariface.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/comariface.py
+END
+specfile.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/specfile.py
+END
+package.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/package.py
+END
+mirrors.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/mirrors.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/__init__.py
+END
+history.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/history.py
+END
+files.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/files.py
+END
+config.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/config.py
+END
+index.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/index.py
+END
+api.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/api.py
+END
+signalhandler.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/signalhandler.py
+END
+util.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/util.py
+END
+ui.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/ui.py
+END
+oo.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/oo.py
+END
+relation.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/relation.py
+END
+dependency.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/dependency.py
+END
+metadata.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/metadata.py
+END
+atomicoperations.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/atomicoperations.py
+END
+pgraph.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/pgraph.py
+END
+context.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/context.py
+END
+uri.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/uri.py
+END
+graph.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/graph.py
+END
+conflict.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/conflict.py
+END
+component.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/component.py
+END
+sourcearchive.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/sourcearchive.py
+END
+configfile.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/configfile.py
+END
+blacklist.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/blacklist.py
+END
+replace.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/replace.py
+END
+constants.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/constants.py
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/.gitignore
+END
+file.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/file.py
+END
+fetcher.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/fetcher.py
+END
+archive.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/archive.py
+END
+version.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/version.py
+END

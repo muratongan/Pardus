@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/uludag/!svn/ver/36464/trunk/scripts/tex
+END
+create-tex-collection-tarball.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/uludag/!svn/ver/36463/trunk/scripts/tex/create-tex-collection-tarball.py
+END
+texlive_packaging
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/uludag/!svn/ver/36464/trunk/scripts/tex/texlive_packaging
+END
+create-map-files.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/uludag/!svn/ver/36429/trunk/scripts/tex/create-map-files.py
+END
+create-bin-source-tarballs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/uludag/!svn/ver/35650/trunk/scripts/tex/create-bin-source-tarballs
+END
+rsyncls
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/uludag/!svn/ver/36455/trunk/scripts/tex/rsyncls
+END

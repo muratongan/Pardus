@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/uludag/!svn/ver/29178/trunk/kde/tasma/src
+END
+cr16-app-tasma.png
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/uludag/!svn/ver/26157/trunk/kde/tasma/src/cr16-app-tasma.png
+END
+cr64-app-tasma.png
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/uludag/!svn/ver/26157/trunk/kde/tasma/src/cr64-app-tasma.png
+END
+tcategoryview.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/uludag/!svn/ver/26157/trunk/kde/tasma/src/tcategoryview.h
+END
+descriptions.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/uludag/!svn/ver/29178/trunk/kde/tasma/src/descriptions.txt
+END
+cr48-app-tasma.png
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/uludag/!svn/ver/26157/trunk/kde/tasma/src/cr48-app-tasma.png
+END
+tmodulecategorylist.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/26157/trunk/kde/tasma/src/tmodulecategorylist.cpp
+END
+tmoduleview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/uludag/!svn/ver/26157/trunk/kde/tasma/src/tmoduleview.cpp
+END
+aboutview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/uludag/!svn/ver/26157/trunk/kde/tasma/src/aboutview.cpp
+END
+tlistviewtooltip.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/uludag/!svn/ver/26157/trunk/kde/tasma/src/tlistviewtooltip.cpp
+END
+ticonview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/uludag/!svn/ver/26157/trunk/kde/tasma/src/ticonview.cpp
+END
+tmodulecategorylist.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/uludag/!svn/ver/26157/trunk/kde/tasma/src/tmodulecategorylist.h
+END
+tmoduleview.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/uludag/!svn/ver/26157/trunk/kde/tasma/src/tmoduleview.h
+END
+aboutview.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/uludag/!svn/ver/26157/trunk/kde/tasma/src/aboutview.h
+END
+tlistviewtooltip.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/uludag/!svn/ver/26157/trunk/kde/tasma/src/tlistviewtooltip.h
+END
+ticonview.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/uludag/!svn/ver/26157/trunk/kde/tasma/src/ticonview.h
+END
+cr128-app-tasma.png
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/26157/trunk/kde/tasma/src/cr128-app-tasma.png
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/uludag/!svn/ver/26157/trunk/kde/tasma/src/main.cpp
+END
+tasmaui.rc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/uludag/!svn/ver/26157/trunk/kde/tasma/src/tasmaui.rc
+END
+tmodulegroup.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/uludag/!svn/ver/26157/trunk/kde/tasma/src/tmodulegroup.cpp
+END
+tasmamainwin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/uludag/!svn/ver/26157/trunk/kde/tasma/src/tasmamainwin.cpp
+END
+main.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/uludag/!svn/ver/26157/trunk/kde/tasma/src/main.h
+END
+cr22-app-tasma.png
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/uludag/!svn/ver/26157/trunk/kde/tasma/src/cr22-app-tasma.png
+END
+tmodulegroup.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/uludag/!svn/ver/26157/trunk/kde/tasma/src/tmodulegroup.h
+END
+tasma.desktop
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/uludag/!svn/ver/26157/trunk/kde/tasma/src/tasma.desktop
+END
+cr32-app-tasma.png
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/uludag/!svn/ver/26157/trunk/kde/tasma/src/cr32-app-tasma.png
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/uludag/!svn/ver/26157/trunk/kde/tasma/src/CMakeLists.txt
+END
+tcategoryview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/uludag/!svn/ver/26157/trunk/kde/tasma/src/tcategoryview.cpp
+END
+tasmamainwin.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/uludag/!svn/ver/26157/trunk/kde/tasma/src/tasmamainwin.h
+END

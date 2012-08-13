@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/uludag/!svn/ver/31758/trunk/baselayout/root/etc/skel
+END
+.bashrc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/uludag/!svn/ver/31758/trunk/baselayout/root/etc/skel/.bashrc
+END
+.bash_logout
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/31576/trunk/baselayout/root/etc/skel/.bash_logout
+END
+.bash_profile
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/uludag/!svn/ver/31576/trunk/baselayout/root/etc/skel/.bash_profile
+END
+.gdbinit
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/31576/trunk/baselayout/root/etc/skel/.gdbinit
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/uludag/!svn/ver/30936/trunk/pisi/tests/repos/repo1/system/base/openssl
+END
+actions.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/30936/trunk/pisi/tests/repos/repo1/system/base/openssl/actions.py
+END
+pspec.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/30936/trunk/pisi/tests/repos/repo1/system/base/openssl/pspec.xml
+END

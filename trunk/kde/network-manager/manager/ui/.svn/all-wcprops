@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/uludag/!svn/ver/29071/trunk/kde/network-manager/manager/ui
+END
+main.ui
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/uludag/!svn/ver/29071/trunk/kde/network-manager/manager/ui/main.ui
+END
+securityitem.ui
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/uludag/!svn/ver/26099/trunk/kde/network-manager/manager/ui/securityitem.ui
+END
+nameserver.ui
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/uludag/!svn/ver/26099/trunk/kde/network-manager/manager/ui/nameserver.ui
+END
+security.ui
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/uludag/!svn/ver/29071/trunk/kde/network-manager/manager/ui/security.ui
+END
+nmwizard.ui
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/uludag/!svn/ver/26886/trunk/kde/network-manager/manager/ui/nmwizard.ui
+END
+item.ui
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/uludag/!svn/ver/26859/trunk/kde/network-manager/manager/ui/item.ui
+END
+ap.ui
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/uludag/!svn/ver/26886/trunk/kde/network-manager/manager/ui/ap.ui
+END

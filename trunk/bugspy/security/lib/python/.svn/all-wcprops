@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/uludag/!svn/ver/28326/trunk/bugspy/security/lib/python
+END
+cvetools.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/uludag/!svn/ver/28326/trunk/bugspy/security/lib/python/cvetools.py
+END
+configobj.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/uludag/!svn/ver/28311/trunk/bugspy/security/lib/python/configobj.py
+END
+assign.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/uludag/!svn/ver/28310/trunk/bugspy/security/lib/python/assign.py
+END
+nvd.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/28310/trunk/bugspy/security/lib/python/nvd.py
+END
+securityini.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/uludag/!svn/ver/28324/trunk/bugspy/security/lib/python/securityini.py
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/uludag/!svn/ver/22532/trunk/security_pardus/django/conf/app_template
+END
+views.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/22532/trunk/security_pardus/django/conf/app_template/views.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/22532/trunk/security_pardus/django/conf/app_template/__init__.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/22532/trunk/security_pardus/django/conf/app_template/models.py
+END

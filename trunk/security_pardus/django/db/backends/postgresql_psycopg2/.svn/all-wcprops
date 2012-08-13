@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/22532/trunk/security_pardus/django/db/backends/postgresql_psycopg2
+END
+base.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/uludag/!svn/ver/22532/trunk/security_pardus/django/db/backends/postgresql_psycopg2/base.py
+END
+client.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/uludag/!svn/ver/22532/trunk/security_pardus/django/db/backends/postgresql_psycopg2/client.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/uludag/!svn/ver/22532/trunk/security_pardus/django/db/backends/postgresql_psycopg2/__init__.py
+END
+introspection.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/uludag/!svn/ver/22532/trunk/security_pardus/django/db/backends/postgresql_psycopg2/introspection.py
+END
+creation.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/uludag/!svn/ver/22532/trunk/security_pardus/django/db/backends/postgresql_psycopg2/creation.py
+END

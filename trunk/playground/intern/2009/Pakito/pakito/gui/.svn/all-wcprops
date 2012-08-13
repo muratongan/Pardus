@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/Pakito/pakito/gui
+END
+editors.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/Pakito/pakito/gui/editors.py
+END
+optionsDialogUI.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/Pakito/pakito/gui/optionsDialogUI.py
+END
+optionsDialog.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/Pakito/pakito/gui/optionsDialog.py
+END
+mainwindow.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/Pakito/pakito/gui/mainwindow.py
+END
+optionsDialogUI.ui
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/Pakito/pakito/gui/optionsDialogUI.ui
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/Pakito/pakito/gui/__init__.py
+END
+actionsWidget.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/Pakito/pakito/gui/actionsWidget.py
+END
+multitabwidget.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/Pakito/pakito/gui/multitabwidget.py
+END
+componentWidget.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/Pakito/pakito/gui/componentWidget.py
+END

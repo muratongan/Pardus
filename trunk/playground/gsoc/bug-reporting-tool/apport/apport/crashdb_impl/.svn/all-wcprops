@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/uludag/!svn/ver/26096/trunk/playground/gsoc/bug-reporting-tool/apport/apport/crashdb_impl
+END
+memory.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/uludag/!svn/ver/26096/trunk/playground/gsoc/bug-reporting-tool/apport/apport/crashdb_impl/memory.py
+END
+bugzilla.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/uludag/!svn/ver/26096/trunk/playground/gsoc/bug-reporting-tool/apport/apport/crashdb_impl/bugzilla.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/uludag/!svn/ver/26096/trunk/playground/gsoc/bug-reporting-tool/apport/apport/crashdb_impl/__init__.py
+END
+launchpad.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/uludag/!svn/ver/26096/trunk/playground/gsoc/bug-reporting-tool/apport/apport/crashdb_impl/launchpad.py
+END
+multipartpost_handler.py
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/uludag/!svn/ver/26096/trunk/playground/gsoc/bug-reporting-tool/apport/apport/crashdb_impl/multipartpost_handler.py
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/uludag/!svn/ver/37986/trunk/kde/panda-kde
+END
+helper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/uludag/!svn/ver/35038/trunk/kde/panda-kde/helper.cpp
+END
+panda_parser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/uludag/!svn/ver/34313/trunk/kde/panda-kde/panda_parser.cpp
+END
+panda.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/uludag/!svn/ver/35743/trunk/kde/panda-kde/panda.cpp
+END
+helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/uludag/!svn/ver/34313/trunk/kde/panda-kde/helper.h
+END
+panda.desktop.template
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/uludag/!svn/ver/34438/trunk/kde/panda-kde/panda.desktop.template
+END
+panda_parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/uludag/!svn/ver/34313/trunk/kde/panda-kde/panda_parser.h
+END
+panda.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/uludag/!svn/ver/34438/trunk/kde/panda-kde/panda.h
+END
+panda.desktop
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/uludag/!svn/ver/34438/trunk/kde/panda-kde/panda.desktop
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/uludag/!svn/ver/34388/trunk/kde/panda-kde/CMakeLists.txt
+END
+kcmpanda.actions
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/uludag/!svn/ver/34325/trunk/kde/panda-kde/kcmpanda.actions
+END

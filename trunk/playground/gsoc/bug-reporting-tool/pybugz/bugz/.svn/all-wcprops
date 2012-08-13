@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/uludag/!svn/ver/26096/trunk/playground/gsoc/bug-reporting-tool/pybugz/bugz
+END
+bugzilla.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/26096/trunk/playground/gsoc/bug-reporting-tool/pybugz/bugz/bugzilla.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/26096/trunk/playground/gsoc/bug-reporting-tool/pybugz/bugz/__init__.py
+END
+config.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/26096/trunk/playground/gsoc/bug-reporting-tool/pybugz/bugz/config.py
+END
+cli.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/26096/trunk/playground/gsoc/bug-reporting-tool/pybugz/bugz/cli.py
+END

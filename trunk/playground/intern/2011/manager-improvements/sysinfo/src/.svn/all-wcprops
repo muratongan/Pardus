@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/37841/trunk/playground/intern/2011/manager-improvements/sysinfo/src
+END
+sysinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/uludag/!svn/ver/37841/trunk/playground/intern/2011/manager-improvements/sysinfo/src/sysinfo.h
+END
+Messages.sh
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/uludag/!svn/ver/37840/trunk/playground/intern/2011/manager-improvements/sysinfo/src/Messages.sh
+END
+ksysinfopart.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/uludag/!svn/ver/37840/trunk/playground/intern/2011/manager-improvements/sysinfo/src/ksysinfopart.h
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/uludag/!svn/ver/37840/trunk/playground/intern/2011/manager-improvements/sysinfo/src/AUTHORS
+END
+sysinfo.protocol
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/uludag/!svn/ver/37840/trunk/playground/intern/2011/manager-improvements/sysinfo/src/sysinfo.protocol
+END
+configure.in.in
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/uludag/!svn/ver/37840/trunk/playground/intern/2011/manager-improvements/sysinfo/src/configure.in.in
+END
+x-sysinfo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/uludag/!svn/ver/37840/trunk/playground/intern/2011/manager-improvements/sysinfo/src/x-sysinfo.xml
+END
+kfmclient_sysinfo.desktop
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/uludag/!svn/ver/37840/trunk/playground/intern/2011/manager-improvements/sysinfo/src/kfmclient_sysinfo.desktop
+END
+sysinfo.desktop
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/uludag/!svn/ver/37840/trunk/playground/intern/2011/manager-improvements/sysinfo/src/sysinfo.desktop
+END
+ksysinfopart.desktop
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/uludag/!svn/ver/37840/trunk/playground/intern/2011/manager-improvements/sysinfo/src/ksysinfopart.desktop
+END
+x-sysinfo.desktop
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/uludag/!svn/ver/37840/trunk/playground/intern/2011/manager-improvements/sysinfo/src/x-sysinfo.desktop
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/uludag/!svn/ver/37840/trunk/playground/intern/2011/manager-improvements/sysinfo/src/Makefile.am
+END
+sysinfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/uludag/!svn/ver/37841/trunk/playground/intern/2011/manager-improvements/sysinfo/src/sysinfo.cpp
+END
+ksysinfopart.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/uludag/!svn/ver/37840/trunk/playground/intern/2011/manager-improvements/sysinfo/src/ksysinfopart.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/uludag/!svn/ver/37840/trunk/playground/intern/2011/manager-improvements/sysinfo/src/CMakeLists.txt
+END

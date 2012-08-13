@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/uludag/!svn/ver/31339/trunk/playground/gsoc/pardusman-yali-live/gui/ui
+END
+main.ui
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/31339/trunk/playground/gsoc/pardusman-yali-live/gui/ui/main.ui
+END
+packagecollection.ui
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/uludag/!svn/ver/31339/trunk/playground/gsoc/pardusman-yali-live/gui/ui/packagecollection.ui
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/31339/trunk/playground/gsoc/pardusman-yali-live/gui/ui/__init__.py
+END
+icons.ui
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/31339/trunk/playground/gsoc/pardusman-yali-live/gui/ui/icons.ui
+END
+packages.ui
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/31339/trunk/playground/gsoc/pardusman-yali-live/gui/ui/packages.ui
+END
+rawlanguages.ui
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/31339/trunk/playground/gsoc/pardusman-yali-live/gui/ui/rawlanguages.ui
+END
+raw.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/31339/trunk/playground/gsoc/pardusman-yali-live/gui/ui/raw.qrc
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/uludag/!svn/ver/26103/trunk/kde/knazar
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/uludag/!svn/ver/26103/trunk/kde/knazar/AUTHORS
+END
+VERSION
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/uludag/!svn/ver/26103/trunk/kde/knazar/VERSION
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/uludag/!svn/ver/26103/trunk/kde/knazar/ChangeLog
+END
+SConstruct
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/uludag/!svn/ver/26103/trunk/kde/knazar/SConstruct
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/uludag/!svn/ver/26103/trunk/kde/knazar/COPYING
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/uludag/!svn/ver/26103/trunk/kde/knazar/CMakeLists.txt
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/uludag/!svn/ver/26103/trunk/kde/knazar/README
+END

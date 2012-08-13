@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/uludag/!svn/ver/34595/trunk/pardus-python/pardus
+END
+shellutils.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/uludag/!svn/ver/30649/trunk/pardus-python/pardus/shellutils.py
+END
+filelock.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/uludag/!svn/ver/30649/trunk/pardus-python/pardus/filelock.py
+END
+strutils.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/uludag/!svn/ver/30649/trunk/pardus-python/pardus/strutils.py
+END
+localedata.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/uludag/!svn/ver/34595/trunk/pardus-python/pardus/localedata.py
+END
+csapi.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/uludag/!svn/ver/26137/trunk/pardus-python/pardus/csapi.c
+END
+sysutils.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/uludag/!svn/ver/30649/trunk/pardus-python/pardus/sysutils.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/uludag/!svn/ver/33849/trunk/pardus-python/pardus/__init__.py
+END
+iniutils.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/uludag/!svn/ver/30649/trunk/pardus-python/pardus/iniutils.py
+END
+fileutils.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/30649/trunk/pardus-python/pardus/fileutils.py
+END
+netutils.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/uludag/!svn/ver/30649/trunk/pardus-python/pardus/netutils.py
+END
+diskutils.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/33849/trunk/pardus-python/pardus/diskutils.py
+END
+netfilterutils.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/uludag/!svn/ver/30649/trunk/pardus-python/pardus/netfilterutils.py
+END
+grubutils.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/30649/trunk/pardus-python/pardus/grubutils.py
+END
+fstabutils.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/uludag/!svn/ver/33792/trunk/pardus-python/pardus/fstabutils.py
+END
+deviceutils.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/uludag/!svn/ver/30649/trunk/pardus-python/pardus/deviceutils.py
+END
+procutils.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/30649/trunk/pardus-python/pardus/procutils.py
+END

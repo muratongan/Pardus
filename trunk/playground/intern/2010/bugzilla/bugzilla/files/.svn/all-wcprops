@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/uludag/!svn/ver/37512/trunk/playground/intern/2010/bugzilla/bugzilla/files
+END
+fallback-to-text-plain-if-octet-stream-detected.patch
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/uludag/!svn/ver/37512/trunk/playground/intern/2010/bugzilla/bugzilla/files/fallback-to-text-plain-if-octet-stream-detected.patch
+END
+template-en.patch
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/uludag/!svn/ver/37512/trunk/playground/intern/2010/bugzilla/bugzilla/files/template-en.patch
+END
+template-tr.patch
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/uludag/!svn/ver/37512/trunk/playground/intern/2010/bugzilla/bugzilla/files/template-tr.patch
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/37512/trunk/playground/intern/2010/bugzilla/bugzilla/files/README
+END
+assignedto.patch
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/uludag/!svn/ver/37512/trunk/playground/intern/2010/bugzilla/bugzilla/files/assignedto.patch
+END

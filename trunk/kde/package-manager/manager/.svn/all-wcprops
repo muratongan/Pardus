@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/uludag/!svn/ver/38452/trunk/kde/package-manager/manager
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/uludag/!svn/ver/34277/trunk/kde/package-manager/manager/AUTHORS
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/uludag/!svn/ver/34598/trunk/kde/package-manager/manager/TODO
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/37489/trunk/kde/package-manager/manager/ChangeLog
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/uludag/!svn/ver/37551/trunk/kde/package-manager/manager/setup.py
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/uludag/!svn/ver/29058/trunk/kde/package-manager/manager/COPYING
+END
+MANIFEST.in
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/uludag/!svn/ver/32634/trunk/kde/package-manager/manager/MANIFEST.in
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/uludag/!svn/ver/34598/trunk/kde/package-manager/manager/README
+END

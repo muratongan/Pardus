@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/uludag/!svn/ver/37878/trunk/kde/package-manager/manager/src
+END
+basketdialog.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/uludag/!svn/ver/35082/trunk/kde/package-manager/manager/src/basketdialog.py
+END
+localedata.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/uludag/!svn/ver/31695/trunk/kde/package-manager/manager/src/localedata.py
+END
+pmutils.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/uludag/!svn/ver/37878/trunk/kde/package-manager/manager/src/pmutils.py
+END
+packageproxy.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/uludag/!svn/ver/33047/trunk/kde/package-manager/manager/src/packageproxy.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/uludag/!svn/ver/30372/trunk/kde/package-manager/manager/src/__init__.py
+END
+rowanimator.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/uludag/!svn/ver/32914/trunk/kde/package-manager/manager/src/rowanimator.py
+END
+config.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/uludag/!svn/ver/35655/trunk/kde/package-manager/manager/src/config.py
+END
+helpdialog.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/uludag/!svn/ver/32619/trunk/kde/package-manager/manager/src/helpdialog.py
+END
+package-manager.notifyrc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/29056/trunk/kde/package-manager/manager/src/package-manager.notifyrc
+END
+statemanager.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/uludag/!svn/ver/36299/trunk/kde/package-manager/manager/src/statemanager.py
+END
+summarydialog.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uludag/!svn/ver/34892/trunk/kde/package-manager/manager/src/summarydialog.py
+END
+pm-install.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/uludag/!svn/ver/34415/trunk/kde/package-manager/manager/src/pm-install.py
+END
+progressdialog.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/35237/trunk/kde/package-manager/manager/src/progressdialog.py
+END
+context.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/uludag/!svn/ver/31696/trunk/kde/package-manager/manager/src/context.py
+END
+main.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/uludag/!svn/ver/35713/trunk/kde/package-manager/manager/src/main.py
+END
+grouplist.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/uludag/!svn/ver/35101/trunk/kde/package-manager/manager/src/grouplist.py
+END
+mainwidget.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/uludag/!svn/ver/36299/trunk/kde/package-manager/manager/src/mainwidget.py
+END
+operationmanager.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/37486/trunk/kde/package-manager/manager/src/operationmanager.py
+END
+webdialog.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/uludag/!svn/ver/35713/trunk/kde/package-manager/manager/src/webdialog.py
+END
+pmwindow.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/uludag/!svn/ver/37486/trunk/kde/package-manager/manager/src/pmwindow.py
+END
+statusupdater.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uludag/!svn/ver/31768/trunk/kde/package-manager/manager/src/statusupdater.py
+END
+about.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/uludag/!svn/ver/35788/trunk/kde/package-manager/manager/src/about.py
+END
+packagemodel.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/uludag/!svn/ver/35988/trunk/kde/package-manager/manager/src/packagemodel.py
+END
+mainwindow.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/uludag/!svn/ver/35171/trunk/kde/package-manager/manager/src/mainwindow.py
+END
+pdswidgets.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/uludag/!svn/ver/33569/trunk/kde/package-manager/manager/src/pdswidgets.py
+END
+tray.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/uludag/!svn/ver/35800/trunk/kde/package-manager/manager/src/tray.py
+END
+settingsdialog.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/35798/trunk/kde/package-manager/manager/src/settingsdialog.py
+END
+pmlogging.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/uludag/!svn/ver/29056/trunk/kde/package-manager/manager/src/pmlogging.py
+END
+repodialog.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/uludag/!svn/ver/32966/trunk/kde/package-manager/manager/src/repodialog.py
+END
+packagedelegate.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/37293/trunk/kde/package-manager/manager/src/packagedelegate.py
+END
+packageview.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/uludag/!svn/ver/36299/trunk/kde/package-manager/manager/src/packageview.py
+END
+desktopparser.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uludag/!svn/ver/29056/trunk/kde/package-manager/manager/src/desktopparser.py
+END

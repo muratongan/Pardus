@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/yali4-password/yali4
+END
+_sysutils.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/yali4-password/yali4/_sysutils.c
+END
+localedata.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/yali4-password/yali4/localedata.py
+END
+bootloader.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/yali4-password/yali4/bootloader.py
+END
+options.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/yali4-password/yali4/options.py
+END
+pisiiface.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/yali4-password/yali4/pisiiface.py
+END
+kahya.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/yali4-password/yali4/kahya.py
+END
+installer.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/yali4-password/yali4/installer.py
+END
+exception.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/yali4-password/yali4/exception.py
+END
+fstab.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/yali4-password/yali4/fstab.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/yali4-password/yali4/__init__.py
+END
+sysutils.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/yali4-password/yali4/sysutils.py
+END
+users.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/yali4-password/yali4/users.py
+END
+storage.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/yali4-password/yali4/storage.py
+END
+data.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/yali4-password/yali4/data.qrc
+END
+partition.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/yali4-password/yali4/partition.py
+END
+parteddata.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/yali4-password/yali4/parteddata.py
+END
+partitiontype.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/yali4-password/yali4/partitiontype.py
+END
+constants.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/yali4-password/yali4/constants.py
+END
+postinstall.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/yali4-password/yali4/postinstall.py
+END
+localeutils.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/yali4-password/yali4/localeutils.py
+END
+yalireadpiks.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/yali4-password/yali4/yalireadpiks.py
+END
+partitionrequest.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/yali4-password/yali4/partitionrequest.py
+END
+filesystem.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/yali4-password/yali4/filesystem.py
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/uludag/!svn/ver/38123/trunk/upgrade-manager/ui
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/uludag/!svn/ver/37879/trunk/upgrade-manager/ui/__init__.py
+END
+ui_screen_1.ui
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/37959/trunk/upgrade-manager/ui/ui_screen_1.ui
+END
+ui_screen_2.ui
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/37879/trunk/upgrade-manager/ui/ui_screen_2.ui
+END
+ui_screen_3.ui
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/37879/trunk/upgrade-manager/ui/ui_screen_3.ui
+END
+ui_screen_4.ui
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/37879/trunk/upgrade-manager/ui/ui_screen_4.ui
+END
+ui_screen_5.ui
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/37879/trunk/upgrade-manager/ui/ui_screen_5.ui
+END
+ui_main.ui
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/uludag/!svn/ver/37879/trunk/upgrade-manager/ui/ui_main.ui
+END
+ui_mainscreen.ui
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/uludag/!svn/ver/38123/trunk/upgrade-manager/ui/ui_mainscreen.ui
+END

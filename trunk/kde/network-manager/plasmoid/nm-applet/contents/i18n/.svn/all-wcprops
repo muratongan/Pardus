@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/33974/trunk/kde/network-manager/plasmoid/nm-applet/contents/i18n
+END
+tr.po
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/29105/trunk/kde/network-manager/plasmoid/nm-applet/contents/i18n/tr.po
+END
+pt_BR.po
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/uludag/!svn/ver/29411/trunk/kde/network-manager/plasmoid/nm-applet/contents/i18n/pt_BR.po
+END
+ru.po
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/32514/trunk/kde/network-manager/plasmoid/nm-applet/contents/i18n/ru.po
+END
+es.po
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/26099/trunk/kde/network-manager/plasmoid/nm-applet/contents/i18n/es.po
+END
+fr.po
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/27349/trunk/kde/network-manager/plasmoid/nm-applet/contents/i18n/fr.po
+END
+de.po
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/30073/trunk/kde/network-manager/plasmoid/nm-applet/contents/i18n/de.po
+END
+sv.po
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/26099/trunk/kde/network-manager/plasmoid/nm-applet/contents/i18n/sv.po
+END
+nl.po
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/26099/trunk/kde/network-manager/plasmoid/nm-applet/contents/i18n/nl.po
+END
+hu.po
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/33541/trunk/kde/network-manager/plasmoid/nm-applet/contents/i18n/hu.po
+END
+it.po
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/33974/trunk/kde/network-manager/plasmoid/nm-applet/contents/i18n/it.po
+END
+create-pot.sh
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/uludag/!svn/ver/26099/trunk/kde/network-manager/plasmoid/nm-applet/contents/i18n/create-pot.sh
+END
+nm-applet.pot
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/uludag/!svn/ver/29105/trunk/kde/network-manager/plasmoid/nm-applet/contents/i18n/nm-applet.pot
+END

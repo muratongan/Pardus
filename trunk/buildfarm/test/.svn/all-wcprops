@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/uludag/!svn/ver/36168/trunk/buildfarm/test
+END
+circular-nokernel
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/uludag/!svn/ver/22452/trunk/buildfarm/test/circular-nokernel
+END
+circular-2
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/uludag/!svn/ver/22452/trunk/buildfarm/test/circular-2
+END
+circular-12
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/uludag/!svn/ver/22452/trunk/buildfarm/test/circular-12
+END
+runtime-dep-check
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/uludag/!svn/ver/22452/trunk/buildfarm/test/runtime-dep-check
+END
+circular-23
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/uludag/!svn/ver/22452/trunk/buildfarm/test/circular-23
+END
+circular-no-gambas
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/22452/trunk/buildfarm/test/circular-no-gambas
+END
+circular-7
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/uludag/!svn/ver/22452/trunk/buildfarm/test/circular-7
+END
+pylint.sh
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/uludag/!svn/ver/36168/trunk/buildfarm/test/pylint.sh
+END
+queue-test.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/uludag/!svn/ver/22452/trunk/buildfarm/test/queue-test.py
+END
+correct-order
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/uludag/!svn/ver/22452/trunk/buildfarm/test/correct-order
+END
+simple-queue
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/uludag/!svn/ver/32305/trunk/buildfarm/test/simple-queue
+END
+circular-case
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/uludag/!svn/ver/22452/trunk/buildfarm/test/circular-case
+END

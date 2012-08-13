@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/uludag/!svn/ver/22399/trunk/stajyer/vendor/plugins/restful_authentication/lib/authentication
+END
+by_cookie_token.rb
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/uludag/!svn/ver/22399/trunk/stajyer/vendor/plugins/restful_authentication/lib/authentication/by_cookie_token.rb
+END
+by_password.rb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/uludag/!svn/ver/22399/trunk/stajyer/vendor/plugins/restful_authentication/lib/authentication/by_password.rb
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/tests/history
+END
+004_snapshot.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/tests/history/004_snapshot.xml
+END
+001_upgrade.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/tests/history/001_upgrade.xml
+END
+003_install.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/tests/history/003_install.xml
+END
+002_remove.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/tests/history/002_remove.xml
+END

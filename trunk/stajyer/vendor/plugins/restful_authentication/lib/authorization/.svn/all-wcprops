@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/uludag/!svn/ver/22399/trunk/stajyer/vendor/plugins/restful_authentication/lib/authorization
+END
+aasm_roles.rb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/uludag/!svn/ver/22399/trunk/stajyer/vendor/plugins/restful_authentication/lib/authorization/aasm_roles.rb
+END
+stateful_roles.rb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/uludag/!svn/ver/22399/trunk/stajyer/vendor/plugins/restful_authentication/lib/authorization/stateful_roles.rb
+END

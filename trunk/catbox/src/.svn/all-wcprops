@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/uludag/!svn/ver/31809/trunk/catbox/src
+END
+paths.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/uludag/!svn/ver/26136/trunk/catbox/src/paths.c
+END
+catbox.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/uludag/!svn/ver/26136/trunk/catbox/src/catbox.c
+END
+catbox.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/uludag/!svn/ver/26582/trunk/catbox/src/catbox.h
+END
+core.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/uludag/!svn/ver/26593/trunk/catbox/src/core.c
+END
+syscall.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/uludag/!svn/ver/31809/trunk/catbox/src/syscall.c
+END
+retval.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/uludag/!svn/ver/26136/trunk/catbox/src/retval.c
+END

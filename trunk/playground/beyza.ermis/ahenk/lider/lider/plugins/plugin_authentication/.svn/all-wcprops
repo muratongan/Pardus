@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/uludag/!svn/ver/33452/trunk/playground/beyza.ermis/ahenk/lider/lider/plugins/plugin_authentication
+END
+authentication.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/uludag/!svn/ver/33452/trunk/playground/beyza.ermis/ahenk/lider/lider/plugins/plugin_authentication/authentication.qrc
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/uludag/!svn/ver/33452/trunk/playground/beyza.ermis/ahenk/lider/lider/plugins/plugin_authentication/__init__.py
+END
+authentication.ui
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/uludag/!svn/ver/33452/trunk/playground/beyza.ermis/ahenk/lider/lider/plugins/plugin_authentication/authentication.ui
+END
+main.py
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/uludag/!svn/ver/33452/trunk/playground/beyza.ermis/ahenk/lider/lider/plugins/plugin_authentication/main.py
+END

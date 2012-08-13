@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/uludag/!svn/ver/30832/trunk/rasta/rasta_lib
+END
+icons.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/uludag/!svn/ver/30172/trunk/rasta/rasta_lib/icons.qrc
+END
+rasta.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/uludag/!svn/ver/30467/trunk/rasta/rasta_lib/rasta.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/uludag/!svn/ver/30179/trunk/rasta/rasta_lib/__init__.py
+END
+qrstedit.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/uludag/!svn/ver/30832/trunk/rasta/rasta_lib/qrstedit.py
+END
+model.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/uludag/!svn/ver/30466/trunk/rasta/rasta_lib/model.py
+END
+utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/uludag/!svn/ver/30447/trunk/rasta/rasta_lib/utils.py
+END

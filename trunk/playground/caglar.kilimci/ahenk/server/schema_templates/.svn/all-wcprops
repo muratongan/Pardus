@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/33418/trunk/playground/caglar.kilimci/ahenk/server/schema_templates
+END
+firewall.txt
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/uludag/!svn/ver/33418/trunk/playground/caglar.kilimci/ahenk/server/schema_templates/firewall.txt
+END
+software.txt
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/uludag/!svn/ver/33418/trunk/playground/caglar.kilimci/ahenk/server/schema_templates/software.txt
+END
+authentication.txt
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/uludag/!svn/ver/33418/trunk/playground/caglar.kilimci/ahenk/server/schema_templates/authentication.txt
+END

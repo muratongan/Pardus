@@ -1,0 +1,37 @@
+10
+
+dir
+38525
+http://svn.pardus.org.tr/uludag/trunk/playground/intern/2009/paketler/askin
+http://svn.pardus.org.tr/uludag
+
+
+
+2009-08-26T13:05:31.044315Z
+25490
+askin.yollu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+26e1f6f6-46e4-0310-a0b7-a8a415fd4c45
+
+PackageKit
+dir
+
+gnome-packagekit
+dir
+
+PolicyKit-gnome
+dir
+

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/tools
+END
+svndist.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/tools/svndist.py
+END
+pygettext.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/tools/pygettext.py
+END
+update-po.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/tools/update-po.sh
+END

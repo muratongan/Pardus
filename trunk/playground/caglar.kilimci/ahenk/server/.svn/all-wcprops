@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/uludag/!svn/ver/33418/trunk/playground/caglar.kilimci/ahenk/server
+END
+ahenk_schema
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/33418/trunk/playground/caglar.kilimci/ahenk/server/ahenk_schema
+END
+ahenk_setup
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/33418/trunk/playground/caglar.kilimci/ahenk/server/ahenk_setup
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/uludag/!svn/ver/33418/trunk/playground/caglar.kilimci/ahenk/server/setup.py
+END
+MANIFEST.in
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/33418/trunk/playground/caglar.kilimci/ahenk/server/MANIFEST.in
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/uludag/!svn/ver/33418/trunk/playground/caglar.kilimci/ahenk/server/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/uludag/!svn/ver/33418/trunk/playground/caglar.kilimci/ahenk/server/README
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/uludag/!svn/ver/26137/trunk/pardus-python/tools
+END
+pygettext.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/uludag/!svn/ver/26137/trunk/pardus-python/tools/pygettext.py
+END
+update-po.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/uludag/!svn/ver/26137/trunk/pardus-python/tools/update-po.sh
+END
+gen_docs.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/uludag/!svn/ver/26137/trunk/pardus-python/tools/gen_docs.py
+END

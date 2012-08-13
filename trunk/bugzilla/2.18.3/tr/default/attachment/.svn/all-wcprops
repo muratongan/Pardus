@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/uludag/!svn/ver/6631/trunk/bugzilla/2.18.3/tr/default/attachment
+END
+create.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/6631/trunk/bugzilla/2.18.3/tr/default/attachment/create.html.tmpl
+END
+diff-footer.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/6631/trunk/bugzilla/2.18.3/tr/default/attachment/diff-footer.html.tmpl
+END
+diff-file.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/6631/trunk/bugzilla/2.18.3/tr/default/attachment/diff-file.html.tmpl
+END
+edit.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/6631/trunk/bugzilla/2.18.3/tr/default/attachment/edit.html.tmpl
+END
+updated.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/6631/trunk/bugzilla/2.18.3/tr/default/attachment/updated.html.tmpl
+END
+created.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/6631/trunk/bugzilla/2.18.3/tr/default/attachment/created.html.tmpl
+END
+show-multiple.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/uludag/!svn/ver/6631/trunk/bugzilla/2.18.3/tr/default/attachment/show-multiple.html.tmpl
+END
+list.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/6631/trunk/bugzilla/2.18.3/tr/default/attachment/list.html.tmpl
+END
+content-types.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/uludag/!svn/ver/6631/trunk/bugzilla/2.18.3/tr/default/attachment/content-types.html.tmpl
+END
+diff-header.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/6631/trunk/bugzilla/2.18.3/tr/default/attachment/diff-header.html.tmpl
+END
+choose.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/6631/trunk/bugzilla/2.18.3/tr/default/attachment/choose.html.tmpl
+END

@@ -1,0 +1,76 @@
+10
+
+dir
+38525
+http://svn.pardus.org.tr/uludag/trunk/baselayout/root
+http://svn.pardus.org.tr/uludag
+
+
+
+2011-06-01T10:53:55.134828Z
+37114
+ozan.caglayan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+26e1f6f6-46e4-0310-a0b7-a8a415fd4c45
+
+media
+dir
+
+var
+dir
+
+home
+dir
+
+sbin
+dir
+
+mnt
+dir
+
+tmp
+dir
+
+opt
+dir
+
+proc
+dir
+
+boot
+dir
+
+lib
+dir
+
+bin
+dir
+
+usr
+dir
+
+srv
+dir
+
+etc
+dir
+
+dev
+dir
+
+sys
+dir
+

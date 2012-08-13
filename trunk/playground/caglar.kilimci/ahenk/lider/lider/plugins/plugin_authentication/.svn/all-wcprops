@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/uludag/!svn/ver/33418/trunk/playground/caglar.kilimci/ahenk/lider/lider/plugins/plugin_authentication
+END
+authentication.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/uludag/!svn/ver/33418/trunk/playground/caglar.kilimci/ahenk/lider/lider/plugins/plugin_authentication/authentication.qrc
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/uludag/!svn/ver/33418/trunk/playground/caglar.kilimci/ahenk/lider/lider/plugins/plugin_authentication/__init__.py
+END
+authentication.ui
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/uludag/!svn/ver/33418/trunk/playground/caglar.kilimci/ahenk/lider/lider/plugins/plugin_authentication/authentication.ui
+END
+main.py
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/uludag/!svn/ver/33418/trunk/playground/caglar.kilimci/ahenk/lider/lider/plugins/plugin_authentication/main.py
+END

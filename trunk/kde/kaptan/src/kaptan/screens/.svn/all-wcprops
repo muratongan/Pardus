@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/uludag/!svn/ver/36031/trunk/kde/kaptan/src/kaptan/screens
+END
+scrKeyboard.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/uludag/!svn/ver/31419/trunk/kde/kaptan/src/kaptan/screens/scrKeyboard.py
+END
+scrStyle.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/uludag/!svn/ver/33623/trunk/kde/kaptan/src/kaptan/screens/scrStyle.py
+END
+scrMenu.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/uludag/!svn/ver/31419/trunk/kde/kaptan/src/kaptan/screens/scrMenu.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/uludag/!svn/ver/31419/trunk/kde/kaptan/src/kaptan/screens/__init__.py
+END
+scrWallpaper.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/uludag/!svn/ver/31632/trunk/kde/kaptan/src/kaptan/screens/scrWallpaper.py
+END
+styleItem.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/uludag/!svn/ver/31632/trunk/kde/kaptan/src/kaptan/screens/styleItem.py
+END
+scrGoodbye.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/uludag/!svn/ver/31703/trunk/kde/kaptan/src/kaptan/screens/scrGoodbye.py
+END
+scrMouse.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/uludag/!svn/ver/36028/trunk/kde/kaptan/src/kaptan/screens/scrMouse.py
+END
+scrPackage.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/uludag/!svn/ver/36031/trunk/kde/kaptan/src/kaptan/screens/scrPackage.py
+END
+scrWelcome.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/uludag/!svn/ver/31632/trunk/kde/kaptan/src/kaptan/screens/scrWelcome.py
+END
+scrSummary.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/uludag/!svn/ver/36028/trunk/kde/kaptan/src/kaptan/screens/scrSummary.py
+END
+scrAvatar.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/uludag/!svn/ver/35124/trunk/kde/kaptan/src/kaptan/screens/scrAvatar.py
+END
+scrSmolt.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/uludag/!svn/ver/32696/trunk/kde/kaptan/src/kaptan/screens/scrSmolt.py
+END
+wallpaperItem.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/uludag/!svn/ver/31632/trunk/kde/kaptan/src/kaptan/screens/wallpaperItem.py
+END

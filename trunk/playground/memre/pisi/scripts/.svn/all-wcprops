@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/uludag/!svn/ver/38437/trunk/playground/memre/pisi/scripts
+END
+sync-licenses
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/scripts/sync-licenses
+END
+svndist.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/scripts/svndist.py
+END
+convert_history.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/scripts/convert_history.py
+END
+make-changelog.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/scripts/make-changelog.py
+END
+newpisipackage
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/scripts/newpisipackage
+END
+fix_old_metadata_files.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/scripts/fix_old_metadata_files.py
+END
+cleanCache.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/scripts/cleanCache.py
+END
+cleanArchives.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/scripts/cleanArchives.py
+END
+pisi-sandbox
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/uludag/!svn/ver/38437/trunk/playground/memre/pisi/scripts/pisi-sandbox
+END
+lspisi
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/scripts/lspisi
+END
+svndist-v0.2.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/scripts/svndist-v0.2.py
+END
+createdelta.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/scripts/createdelta.py
+END
+check-newconfigs.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/scripts/check-newconfigs.py
+END
+unpisi
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/scripts/unpisi
+END
+revdep-rebuild
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/scripts/revdep-rebuild
+END
+pisisdr
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/scripts/pisisdr
+END

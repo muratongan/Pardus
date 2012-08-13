@@ -1,0 +1,126 @@
+10
+
+dir
+38525
+http://svn.pardus.org.tr/uludag/trunk/gfxtheme/pardus
+http://svn.pardus.org.tr/uludag
+
+
+
+2011-01-20T08:13:16.822109Z
+35302
+onur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+26e1f6f6-46e4-0310-a0b7-a8a415fd4c45
+
+config
+file
+
+
+
+
+2012-08-13T16:29:58.031945Z
+4cd0755116c6349bd699395e4f05e46e
+2008-06-03T14:59:13.840679Z
+18529
+onur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+25
+
+src
+dir
+
+fonts
+dir
+
+help-boot
+dir
+
+keymaps
+dir
+
+data-boot
+dir
+
+talk
+dir
+
+help-install
+dir
+
+penguin_src
+dir
+
+data-install
+dir
+
+Makefile
+file
+
+
+
+
+2012-08-13T16:29:58.032945Z
+690cc0c838b0d467c1f5919e186af595
+2008-08-27T13:12:57.367294Z
+19795
+onur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2301
+
+po
+dir
+

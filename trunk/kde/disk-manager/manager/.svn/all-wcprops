@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/uludag/!svn/ver/38240/trunk/kde/disk-manager/manager
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/uludag/!svn/ver/26099/trunk/kde/disk-manager/manager/TODO
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/uludag/!svn/ver/35138/trunk/kde/disk-manager/manager/ChangeLog
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/36603/trunk/kde/disk-manager/manager/setup.py
+END
+MANIFEST.in
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/uludag/!svn/ver/30492/trunk/kde/disk-manager/manager/MANIFEST.in
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/uludag/!svn/ver/35140/trunk/kde/disk-manager/manager/README
+END

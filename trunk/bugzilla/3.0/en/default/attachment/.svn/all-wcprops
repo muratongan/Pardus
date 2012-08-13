@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/uludag/!svn/ver/13744/trunk/bugzilla/3.0/en/default/attachment
+END
+create.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/13239/trunk/bugzilla/3.0/en/default/attachment/create.html.tmpl
+END
+delete_reason.txt.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/uludag/!svn/ver/13239/trunk/bugzilla/3.0/en/default/attachment/delete_reason.txt.tmpl
+END
+diff-footer.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/13239/trunk/bugzilla/3.0/en/default/attachment/diff-footer.html.tmpl
+END
+createformcontents.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/uludag/!svn/ver/13239/trunk/bugzilla/3.0/en/default/attachment/createformcontents.html.tmpl
+END
+diff-file.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/13239/trunk/bugzilla/3.0/en/default/attachment/diff-file.html.tmpl
+END
+edit.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/13744/trunk/bugzilla/3.0/en/default/attachment/edit.html.tmpl
+END
+updated.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/13239/trunk/bugzilla/3.0/en/default/attachment/updated.html.tmpl
+END
+created.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/13239/trunk/bugzilla/3.0/en/default/attachment/created.html.tmpl
+END
+show-multiple.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/13239/trunk/bugzilla/3.0/en/default/attachment/show-multiple.html.tmpl
+END
+list.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/13239/trunk/bugzilla/3.0/en/default/attachment/list.html.tmpl
+END
+content-types.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/13239/trunk/bugzilla/3.0/en/default/attachment/content-types.html.tmpl
+END
+confirm-delete.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/uludag/!svn/ver/13239/trunk/bugzilla/3.0/en/default/attachment/confirm-delete.html.tmpl
+END
+diff-header.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/13239/trunk/bugzilla/3.0/en/default/attachment/diff-header.html.tmpl
+END
+choose.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/13239/trunk/bugzilla/3.0/en/default/attachment/choose.html.tmpl
+END

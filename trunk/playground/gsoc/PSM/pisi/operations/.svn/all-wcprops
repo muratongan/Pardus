@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/operations
+END
+delta.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/operations/delta.py
+END
+remove.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/operations/remove.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/operations/__init__.py
+END
+build.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/operations/build.py
+END
+helper.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/operations/helper.py
+END
+history.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/operations/history.py
+END
+emerge.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/operations/emerge.py
+END
+install.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/operations/install.py
+END
+upgrade.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/operations/upgrade.py
+END

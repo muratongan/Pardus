@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/uludag/!svn/ver/26138/trunk/piksemel/tests
+END
+generate.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/uludag/!svn/ver/26138/trunk/piksemel/tests/generate.py
+END
+traverse.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/uludag/!svn/ver/26138/trunk/piksemel/tests/traverse.py
+END
+iteration.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/uludag/!svn/ver/26138/trunk/piksemel/tests/iteration.py
+END
+root.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/uludag/!svn/ver/26138/trunk/piksemel/tests/root.py
+END
+attributes.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/uludag/!svn/ver/26138/trunk/piksemel/tests/attributes.py
+END

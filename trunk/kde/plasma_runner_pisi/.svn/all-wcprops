@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/uludag/!svn/ver/38214/trunk/kde/plasma_runner_pisi
+END
+pisirunner.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/30052/trunk/kde/plasma_runner_pisi/pisirunner.cpp
+END
+pisirunner.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/uludag/!svn/ver/29140/trunk/kde/plasma_runner_pisi/pisirunner.h
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/uludag/!svn/ver/28905/trunk/kde/plasma_runner_pisi/COPYING
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/28892/trunk/kde/plasma_runner_pisi/CMakeLists.txt
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/uludag/!svn/ver/28905/trunk/kde/plasma_runner_pisi/README
+END
+plasma-runner-pisi.desktop
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/28885/trunk/kde/plasma_runner_pisi/plasma-runner-pisi.desktop
+END

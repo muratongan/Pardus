@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/uludag/!svn/ver/37605/trunk/playground/intern/2011/yali-netinstall/yali/yali/storage/formats
+END
+dmraidmember.py
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/uludag/!svn/ver/37605/trunk/playground/intern/2011/yali-netinstall/yali/yali/storage/formats/dmraidmember.py
+END
+disklabel.py
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/uludag/!svn/ver/37605/trunk/playground/intern/2011/yali-netinstall/yali/yali/storage/formats/disklabel.py
+END
+swap.py
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/uludag/!svn/ver/37605/trunk/playground/intern/2011/yali-netinstall/yali/yali/storage/formats/swap.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/uludag/!svn/ver/37605/trunk/playground/intern/2011/yali-netinstall/yali/yali/storage/formats/__init__.py
+END
+filesystem.py
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/uludag/!svn/ver/37605/trunk/playground/intern/2011/yali-netinstall/yali/yali/storage/formats/filesystem.py
+END
+physicalvolume.py
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/uludag/!svn/ver/37605/trunk/playground/intern/2011/yali-netinstall/yali/yali/storage/formats/physicalvolume.py
+END
+raidmember.py
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/uludag/!svn/ver/37605/trunk/playground/intern/2011/yali-netinstall/yali/yali/storage/formats/raidmember.py
+END

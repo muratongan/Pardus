@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/27739/trunk/bugzilla/3.4.4/en/default/account
+END
+create.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/27731/trunk/bugzilla/3.4.4/en/default/account/create.html.tmpl
+END
+created.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/27731/trunk/bugzilla/3.4.4/en/default/account/created.html.tmpl
+END
+profile-activity.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/uludag/!svn/ver/27731/trunk/bugzilla/3.4.4/en/default/account/profile-activity.html.tmpl
+END
+cancel-token.txt.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/27731/trunk/bugzilla/3.4.4/en/default/account/cancel-token.txt.tmpl
+END

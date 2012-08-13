@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/uludag/!svn/ver/14222/trunk/ptsp/server/ltspfs
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/uludag/!svn/ver/14222/trunk/ptsp/server/ltspfs/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/uludag/!svn/ver/14222/trunk/ptsp/server/ltspfs/Makefile.in
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/uludag/!svn/ver/14222/trunk/ptsp/server/ltspfs/AUTHORS
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/uludag/!svn/ver/14222/trunk/ptsp/server/ltspfs/depcomp
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/uludag/!svn/ver/14222/trunk/ptsp/server/ltspfs/ChangeLog
+END
+compile
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/uludag/!svn/ver/14222/trunk/ptsp/server/ltspfs/compile
+END
+ltspfs.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/uludag/!svn/ver/14222/trunk/ptsp/server/ltspfs/ltspfs.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/uludag/!svn/ver/14222/trunk/ptsp/server/ltspfs/README
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/uludag/!svn/ver/14222/trunk/ptsp/server/ltspfs/config.h.in
+END
+ltspfs.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/uludag/!svn/ver/14222/trunk/ptsp/server/ltspfs/ltspfs.h
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/uludag/!svn/ver/14222/trunk/ptsp/server/ltspfs/configure.ac
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/uludag/!svn/ver/14222/trunk/ptsp/server/ltspfs/INSTALL
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/uludag/!svn/ver/14222/trunk/ptsp/server/ltspfs/COPYING
+END
+common.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/uludag/!svn/ver/14222/trunk/ptsp/server/ltspfs/common.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/uludag/!svn/ver/14222/trunk/ptsp/server/ltspfs/Makefile.am
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/uludag/!svn/ver/14222/trunk/ptsp/server/ltspfs/missing
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/uludag/!svn/ver/14222/trunk/ptsp/server/ltspfs/NEWS
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/uludag/!svn/ver/14222/trunk/ptsp/server/ltspfs/aclocal.m4
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/uludag/!svn/ver/14222/trunk/ptsp/server/ltspfs/common.h
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/uludag/!svn/ver/14222/trunk/ptsp/server/ltspfs/install-sh
+END

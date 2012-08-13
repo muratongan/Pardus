@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/uludag/!svn/ver/26097/trunk/playground/pypoppler-qt4
+END
+poppler-qt4.sip
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/uludag/!svn/ver/26097/trunk/playground/pypoppler-qt4/poppler-qt4.sip
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/uludag/!svn/ver/26097/trunk/playground/pypoppler-qt4/LICENSE
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/uludag/!svn/ver/26097/trunk/playground/pypoppler-qt4/AUTHORS
+END
+pypopplerqt4config.py.in
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/26097/trunk/playground/pypoppler-qt4/pypopplerqt4config.py.in
+END
+test-poppler.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/uludag/!svn/ver/26097/trunk/playground/pypoppler-qt4/test-poppler.py
+END
+configure.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/26097/trunk/playground/pypoppler-qt4/configure.py
+END

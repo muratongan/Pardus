@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/uludag/!svn/ver/38309/trunk/ahenk/ajan/utils
+END
+ahenk_software_update
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/uludag/!svn/ver/38309/trunk/ahenk/ajan/utils/ahenk_software_update
+END
+ahenk_authentication
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/38309/trunk/ahenk/ajan/utils/ahenk_authentication
+END
+ahenk_firewall
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/uludag/!svn/ver/38309/trunk/ahenk/ajan/utils/ahenk_firewall
+END
+ahenk_firewall_reset
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/38309/trunk/ahenk/ajan/utils/ahenk_firewall_reset
+END

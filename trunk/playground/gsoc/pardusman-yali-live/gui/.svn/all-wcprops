@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/uludag/!svn/ver/31339/trunk/playground/gsoc/pardusman-yali-live/gui
+END
+packages.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/31339/trunk/playground/gsoc/pardusman-yali-live/gui/packages.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/31339/trunk/playground/gsoc/pardusman-yali-live/gui/__init__.py
+END
+main.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/uludag/!svn/ver/31339/trunk/playground/gsoc/pardusman-yali-live/gui/main.py
+END
+progress.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/31339/trunk/playground/gsoc/pardusman-yali-live/gui/progress.py
+END
+languages.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/31339/trunk/playground/gsoc/pardusman-yali-live/gui/languages.py
+END
+packagecollection.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/uludag/!svn/ver/31339/trunk/playground/gsoc/pardusman-yali-live/gui/packagecollection.py
+END

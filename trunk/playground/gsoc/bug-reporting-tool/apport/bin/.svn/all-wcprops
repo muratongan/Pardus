@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/uludag/!svn/ver/26096/trunk/playground/gsoc/bug-reporting-tool/apport/bin
+END
+apport-checkreports
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/uludag/!svn/ver/26096/trunk/playground/gsoc/bug-reporting-tool/apport/bin/apport-checkreports
+END
+crash-digger
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/26096/trunk/playground/gsoc/bug-reporting-tool/apport/bin/crash-digger
+END
+kernel_oops
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/uludag/!svn/ver/26096/trunk/playground/gsoc/bug-reporting-tool/apport/bin/kernel_oops
+END
+apport-unpack
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/uludag/!svn/ver/26096/trunk/playground/gsoc/bug-reporting-tool/apport/bin/apport-unpack
+END
+apportcheckresume
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/uludag/!svn/ver/26096/trunk/playground/gsoc/bug-reporting-tool/apport/bin/apportcheckresume
+END
+dupdb-admin
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/uludag/!svn/ver/26096/trunk/playground/gsoc/bug-reporting-tool/apport/bin/dupdb-admin
+END
+apport
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/26096/trunk/playground/gsoc/bug-reporting-tool/apport/bin/apport
+END
+kernel_crashdump
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/uludag/!svn/ver/26096/trunk/playground/gsoc/bug-reporting-tool/apport/bin/kernel_crashdump
+END
+apport-retrace
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/uludag/!svn/ver/26096/trunk/playground/gsoc/bug-reporting-tool/apport/bin/apport-retrace
+END
+package_hook
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/26096/trunk/playground/gsoc/bug-reporting-tool/apport/bin/package_hook
+END
+gcc_ice_hook
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/26096/trunk/playground/gsoc/bug-reporting-tool/apport/bin/gcc_ice_hook
+END

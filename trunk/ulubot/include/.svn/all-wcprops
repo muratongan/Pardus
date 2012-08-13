@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/uludag/!svn/ver/40/trunk/ulubot/include
+END
+i18n.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/uludag/!svn/ver/40/trunk/ulubot/include/i18n.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/uludag/!svn/ver/40/trunk/ulubot/include/Makefile.am
+END
+dict.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/uludag/!svn/ver/40/trunk/ulubot/include/dict.h
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/uludag/!svn/ver/40/trunk/ulubot/include/common.h
+END

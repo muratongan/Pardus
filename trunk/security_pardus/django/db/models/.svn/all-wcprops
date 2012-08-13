@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/uludag/!svn/ver/22532/trunk/security_pardus/django/db/models
+END
+base.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/uludag/!svn/ver/22532/trunk/security_pardus/django/db/models/base.py
+END
+manager.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/uludag/!svn/ver/22532/trunk/security_pardus/django/db/models/manager.py
+END
+options.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/uludag/!svn/ver/22532/trunk/security_pardus/django/db/models/options.py
+END
+loading.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/uludag/!svn/ver/22532/trunk/security_pardus/django/db/models/loading.py
+END
+manipulators.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uludag/!svn/ver/22532/trunk/security_pardus/django/db/models/manipulators.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/uludag/!svn/ver/22532/trunk/security_pardus/django/db/models/__init__.py
+END
+related.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/uludag/!svn/ver/22532/trunk/security_pardus/django/db/models/related.py
+END
+signals.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/uludag/!svn/ver/22532/trunk/security_pardus/django/db/models/signals.py
+END
+query.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/uludag/!svn/ver/22532/trunk/security_pardus/django/db/models/query.py
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/uludag/!svn/ver/25351/trunk/bugzilla/3.2/en/default/bug/create
+END
+create-guided.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/25351/trunk/bugzilla/3.2/en/default/bug/create/create-guided.html.tmpl
+END
+create.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/21377/trunk/bugzilla/3.2/en/default/bug/create/create.html.tmpl
+END
+make-template.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/21334/trunk/bugzilla/3.2/en/default/bug/create/make-template.html.tmpl
+END
+created.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/21334/trunk/bugzilla/3.2/en/default/bug/create/created.html.tmpl
+END
+confirm-create-dupe.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/uludag/!svn/ver/21334/trunk/bugzilla/3.2/en/default/bug/create/confirm-create-dupe.html.tmpl
+END
+comment-guided.txt.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/21377/trunk/bugzilla/3.2/en/default/bug/create/comment-guided.txt.tmpl
+END
+comment.txt.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/21334/trunk/bugzilla/3.2/en/default/bug/create/comment.txt.tmpl
+END
+user-message.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/uludag/!svn/ver/21334/trunk/bugzilla/3.2/en/default/bug/create/user-message.html.tmpl
+END

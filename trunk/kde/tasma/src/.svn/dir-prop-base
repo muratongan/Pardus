@@ -1,0 +1,17 @@
+K 10
+svn:ignore
+V 138
+tmoduleview.moc
+Makefile.in
+ticonview.moc
+tasmamainwin.moc
+tasma
+.libs
+.deps
+Makefile
+tmodulecategorylist.moc
+main.moc
+tcategoryview.moc
+
+
+END

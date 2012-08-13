@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/uludag/!svn/ver/22502/trunk/stajyer/app/models
+END
+document.rb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/uludag/!svn/ver/22399/trunk/stajyer/app/models/document.rb
+END
+user.rb
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/uludag/!svn/ver/22399/trunk/stajyer/app/models/user.rb
+END
+comment.rb
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/uludag/!svn/ver/22399/trunk/stajyer/app/models/comment.rb
+END
+student.rb
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/uludag/!svn/ver/22502/trunk/stajyer/app/models/student.rb
+END

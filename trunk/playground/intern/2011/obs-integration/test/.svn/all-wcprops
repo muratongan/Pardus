@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/test
+END
+testbuild.sles9-i386
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/test/testbuild.sles9-i386
+END
+Fedora_11.conf
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/test/Fedora_11.conf
+END
+Fedora_12.conf
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/test/Fedora_12.conf
+END
+testbuild.Fedora11-i386
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/test/testbuild.Fedora11-i386
+END
+testbuild.Fedora12-i386
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/test/testbuild.Fedora12-i386
+END
+common
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/test/common
+END
+testbuild.8.1-i386
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/test/testbuild.8.1-i386
+END
+testbuild.sles10-i386
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/test/testbuild.sles10-i386
+END
+testbuild.Fedora11-x86_64
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/test/testbuild.Fedora11-x86_64
+END
+libdummy1.spec
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/test/libdummy1.spec
+END
+testbuild.Fedora12-x86_64
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/test/testbuild.Fedora12-x86_64
+END
+testbuild.sles10-x86_64
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/test/testbuild.sles10-x86_64
+END
+testbuild.11.0-i386
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/test/testbuild.11.0-i386
+END
+testbuild.11.1-i386
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/test/testbuild.11.1-i386
+END
+config
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/test/config
+END
+testbuild.11.2-i386
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/test/testbuild.11.2-i386
+END
+baselibs.conf
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/test/baselibs.conf
+END
+testbuild.11.0-x86_64
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/test/testbuild.11.0-x86_64
+END

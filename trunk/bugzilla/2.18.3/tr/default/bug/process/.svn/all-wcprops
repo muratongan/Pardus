@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/6631/trunk/bugzilla/2.18.3/tr/default/bug/process
+END
+results.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/6631/trunk/bugzilla/2.18.3/tr/default/bug/process/results.html.tmpl
+END
+confirm-duplicate.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/uludag/!svn/ver/6631/trunk/bugzilla/2.18.3/tr/default/bug/process/confirm-duplicate.html.tmpl
+END
+midair.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/6631/trunk/bugzilla/2.18.3/tr/default/bug/process/midair.html.tmpl
+END
+header.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/6631/trunk/bugzilla/2.18.3/tr/default/bug/process/header.html.tmpl
+END
+verify-new-product.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/uludag/!svn/ver/6631/trunk/bugzilla/2.18.3/tr/default/bug/process/verify-new-product.html.tmpl
+END
+next.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/6631/trunk/bugzilla/2.18.3/tr/default/bug/process/next.html.tmpl
+END
+bugmail.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/6631/trunk/bugzilla/2.18.3/tr/default/bug/process/bugmail.html.tmpl
+END

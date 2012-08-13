@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/31680/trunk/kde/migration/src/migration/utils
+END
+registry.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/uludag/!svn/ver/26234/trunk/kde/migration/src/migration/utils/registry.py
+END
+partition.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/uludag/!svn/ver/26234/trunk/kde/migration/src/migration/utils/partition.py
+END
+info.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/uludag/!svn/ver/26234/trunk/kde/migration/src/migration/utils/info.py
+END
+account.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/uludag/!svn/ver/27502/trunk/kde/migration/src/migration/utils/account.py
+END
+migration_menu.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/31678/trunk/kde/migration/src/migration/utils/migration_menu.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/uludag/!svn/ver/26234/trunk/kde/migration/src/migration/utils/__init__.py
+END
+tools.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/uludag/!svn/ver/31679/trunk/kde/migration/src/migration/utils/tools.py
+END
+progress_pie.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/31680/trunk/kde/migration/src/migration/utils/progress_pie.py
+END
+files.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/uludag/!svn/ver/26234/trunk/kde/migration/src/migration/utils/files.py
+END
+bookmark.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/uludag/!svn/ver/27502/trunk/kde/migration/src/migration/utils/bookmark.py
+END
+wallpaper.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/uludag/!svn/ver/26234/trunk/kde/migration/src/migration/utils/wallpaper.py
+END

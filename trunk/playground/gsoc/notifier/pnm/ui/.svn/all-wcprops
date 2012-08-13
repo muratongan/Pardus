@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/uludag/!svn/ver/26096/trunk/playground/gsoc/notifier/pnm/ui
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/uludag/!svn/ver/26096/trunk/playground/gsoc/notifier/pnm/ui/__init__.py
+END
+default_notif_window.ui
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/26096/trunk/playground/gsoc/notifier/pnm/ui/default_notif_window.ui
+END
+configurator.ui
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/uludag/!svn/ver/26096/trunk/playground/gsoc/notifier/pnm/ui/configurator.ui
+END

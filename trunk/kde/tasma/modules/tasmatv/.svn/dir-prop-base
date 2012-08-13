@@ -1,0 +1,15 @@
+K 10
+svn:ignore
+V 106
+Makefile.in
+tvconfigui.moc
+tasmatv.moc
+tvconfigui.cpp
+tvconfigui.h
+.libs
+.deps
+Makefile
+tvconfig.moc.cpp
+
+
+END

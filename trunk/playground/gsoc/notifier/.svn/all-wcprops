@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/uludag/!svn/ver/26096/trunk/playground/gsoc/notifier
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/uludag/!svn/ver/26096/trunk/playground/gsoc/notifier/AUTHORS
+END
+MANIFEST
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/26096/trunk/playground/gsoc/notifier/MANIFEST
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/26096/trunk/playground/gsoc/notifier/setup.py
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/uludag/!svn/ver/26096/trunk/playground/gsoc/notifier/COPYING
+END
+MANIFEST.in
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/uludag/!svn/ver/26096/trunk/playground/gsoc/notifier/MANIFEST.in
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/uludag/!svn/ver/26096/trunk/playground/gsoc/notifier/README
+END

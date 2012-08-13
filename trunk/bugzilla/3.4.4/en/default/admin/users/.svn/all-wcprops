@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/27739/trunk/bugzilla/3.4.4/en/default/admin/users
+END
+create.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/27731/trunk/bugzilla/3.4.4/en/default/admin/users/create.html.tmpl
+END
+edit.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/27731/trunk/bugzilla/3.4.4/en/default/admin/users/edit.html.tmpl
+END
+search.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/27731/trunk/bugzilla/3.4.4/en/default/admin/users/search.html.tmpl
+END
+listselectvars.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/uludag/!svn/ver/27731/trunk/bugzilla/3.4.4/en/default/admin/users/listselectvars.html.tmpl
+END
+responsibilities.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/uludag/!svn/ver/27731/trunk/bugzilla/3.4.4/en/default/admin/users/responsibilities.html.tmpl
+END
+userdata.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/27731/trunk/bugzilla/3.4.4/en/default/admin/users/userdata.html.tmpl
+END
+list.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/27731/trunk/bugzilla/3.4.4/en/default/admin/users/list.html.tmpl
+END
+confirm-delete.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/uludag/!svn/ver/27731/trunk/bugzilla/3.4.4/en/default/admin/users/confirm-delete.html.tmpl
+END

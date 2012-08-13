@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/uludag/!svn/ver/21334/trunk/bugzilla/3.2/en/default/admin/classifications
+END
+del.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/uludag/!svn/ver/21334/trunk/bugzilla/3.2/en/default/admin/classifications/del.html.tmpl
+END
+reclassify.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/uludag/!svn/ver/21334/trunk/bugzilla/3.2/en/default/admin/classifications/reclassify.html.tmpl
+END
+edit.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/uludag/!svn/ver/21334/trunk/bugzilla/3.2/en/default/admin/classifications/edit.html.tmpl
+END
+add.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/uludag/!svn/ver/21334/trunk/bugzilla/3.2/en/default/admin/classifications/add.html.tmpl
+END
+select.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/uludag/!svn/ver/21334/trunk/bugzilla/3.2/en/default/admin/classifications/select.html.tmpl
+END

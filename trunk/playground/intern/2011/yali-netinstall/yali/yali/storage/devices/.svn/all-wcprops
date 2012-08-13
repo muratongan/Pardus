@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/uludag/!svn/ver/37605/trunk/playground/intern/2011/yali-netinstall/yali/yali/storage/devices
+END
+partition.py
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/uludag/!svn/ver/37605/trunk/playground/intern/2011/yali-netinstall/yali/yali/storage/devices/partition.py
+END
+disk.py
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/uludag/!svn/ver/37605/trunk/playground/intern/2011/yali-netinstall/yali/yali/storage/devices/disk.py
+END
+opticaldevice.py
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/uludag/!svn/ver/37605/trunk/playground/intern/2011/yali-netinstall/yali/yali/storage/devices/opticaldevice.py
+END
+nodevice.py
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/uludag/!svn/ver/37605/trunk/playground/intern/2011/yali-netinstall/yali/yali/storage/devices/nodevice.py
+END
+raidarray.py
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/uludag/!svn/ver/37605/trunk/playground/intern/2011/yali-netinstall/yali/yali/storage/devices/raidarray.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/uludag/!svn/ver/37605/trunk/playground/intern/2011/yali-netinstall/yali/yali/storage/devices/__init__.py
+END
+device.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/uludag/!svn/ver/37605/trunk/playground/intern/2011/yali-netinstall/yali/yali/storage/devices/device.py
+END
+dmraidarray.py
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/uludag/!svn/ver/37605/trunk/playground/intern/2011/yali-netinstall/yali/yali/storage/devices/dmraidarray.py
+END
+filedevice.py
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/uludag/!svn/ver/37605/trunk/playground/intern/2011/yali-netinstall/yali/yali/storage/devices/filedevice.py
+END
+logicalvolume.py
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/uludag/!svn/ver/37605/trunk/playground/intern/2011/yali-netinstall/yali/yali/storage/devices/logicalvolume.py
+END
+devicemapper.py
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/uludag/!svn/ver/37605/trunk/playground/intern/2011/yali-netinstall/yali/yali/storage/devices/devicemapper.py
+END
+directorydevice.py
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/uludag/!svn/ver/37605/trunk/playground/intern/2011/yali-netinstall/yali/yali/storage/devices/directorydevice.py
+END
+volumegroup.py
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/uludag/!svn/ver/37605/trunk/playground/intern/2011/yali-netinstall/yali/yali/storage/devices/volumegroup.py
+END

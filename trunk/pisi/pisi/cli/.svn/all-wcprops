@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/uludag/!svn/ver/37974/trunk/pisi/pisi/cli
+END
+delta.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/uludag/!svn/ver/37175/trunk/pisi/pisi/cli/delta.py
+END
+remove.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/uludag/!svn/ver/26218/trunk/pisi/pisi/cli/remove.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/uludag/!svn/ver/37974/trunk/pisi/pisi/cli/__init__.py
+END
+build.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/uludag/!svn/ver/37175/trunk/pisi/pisi/cli/build.py
+END
+listnewest.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/uludag/!svn/ver/29486/trunk/pisi/pisi/cli/listnewest.py
+END
+history.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/uludag/!svn/ver/32223/trunk/pisi/pisi/cli/history.py
+END
+emerge.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/uludag/!svn/ver/26218/trunk/pisi/pisi/cli/emerge.py
+END
+searchfile.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/uludag/!svn/ver/26218/trunk/pisi/pisi/cli/searchfile.py
+END
+index.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/uludag/!svn/ver/32010/trunk/pisi/pisi/cli/index.py
+END
+updaterepo.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/uludag/!svn/ver/26218/trunk/pisi/pisi/cli/updaterepo.py
+END
+listinstalled.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/uludag/!svn/ver/32238/trunk/pisi/pisi/cli/listinstalled.py
+END
+enablerepo.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/uludag/!svn/ver/29486/trunk/pisi/pisi/cli/enablerepo.py
+END
+addrepo.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/uludag/!svn/ver/37316/trunk/pisi/pisi/cli/addrepo.py
+END
+command.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/uludag/!svn/ver/29486/trunk/pisi/pisi/cli/command.py
+END
+listpending.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/uludag/!svn/ver/26218/trunk/pisi/pisi/cli/listpending.py
+END
+blame.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/uludag/!svn/ver/29506/trunk/pisi/pisi/cli/blame.py
+END
+clean.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/uludag/!svn/ver/26218/trunk/pisi/pisi/cli/clean.py
+END
+deletecache.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/uludag/!svn/ver/26218/trunk/pisi/pisi/cli/deletecache.py
+END
+help.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/uludag/!svn/ver/26218/trunk/pisi/pisi/cli/help.py
+END
+disablerepo.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/uludag/!svn/ver/29486/trunk/pisi/pisi/cli/disablerepo.py
+END
+fetch.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/uludag/!svn/ver/26218/trunk/pisi/pisi/cli/fetch.py
+END
+info.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/uludag/!svn/ver/36568/trunk/pisi/pisi/cli/info.py
+END
+rebuilddb.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/uludag/!svn/ver/26218/trunk/pisi/pisi/cli/rebuilddb.py
+END
+pisicli.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/uludag/!svn/ver/26218/trunk/pisi/pisi/cli/pisicli.py
+END
+listrepo.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/uludag/!svn/ver/26218/trunk/pisi/pisi/cli/listrepo.py
+END
+graph.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/uludag/!svn/ver/32674/trunk/pisi/pisi/cli/graph.py
+END
+search.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/uludag/!svn/ver/37291/trunk/pisi/pisi/cli/search.py
+END
+listupgrades.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/uludag/!svn/ver/32238/trunk/pisi/pisi/cli/listupgrades.py
+END
+install.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/uludag/!svn/ver/32223/trunk/pisi/pisi/cli/install.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/uludag/!svn/ver/26218/trunk/pisi/pisi/cli/README
+END
+listavailable.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/uludag/!svn/ver/36635/trunk/pisi/pisi/cli/listavailable.py
+END
+check.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/uludag/!svn/ver/37354/trunk/pisi/pisi/cli/check.py
+END
+listsources.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/uludag/!svn/ver/26218/trunk/pisi/pisi/cli/listsources.py
+END
+listcomponents.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/uludag/!svn/ver/26218/trunk/pisi/pisi/cli/listcomponents.py
+END
+removerepo.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/uludag/!svn/ver/26218/trunk/pisi/pisi/cli/removerepo.py
+END
+configurepending.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/26218/trunk/pisi/pisi/cli/configurepending.py
+END
+upgrade.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/uludag/!svn/ver/32223/trunk/pisi/pisi/cli/upgrade.py
+END

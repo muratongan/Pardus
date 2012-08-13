@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/uludag/!svn/ver/37584/trunk/playground/intern/2011/yali-live/yali/storage
+END
+bootloader.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/yali/storage/bootloader.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/uludag/!svn/ver/37584/trunk/playground/intern/2011/yali-live/yali/storage/__init__.py
+END
+devicetree.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/yali/storage/devicetree.py
+END
+storageBackendHelpers.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/yali/storage/storageBackendHelpers.py
+END
+storageset.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/uludag/!svn/ver/37584/trunk/playground/intern/2011/yali-live/yali/storage/storageset.py
+END
+operations.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/yali/storage/operations.py
+END
+udev.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/yali/storage/udev.py
+END
+partitioning.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/yali/storage/partitioning.py
+END

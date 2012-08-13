@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/uludag/!svn/ver/37407/trunk/initramfs
+END
+initramfs.conf
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/uludag/!svn/ver/33958/trunk/initramfs/initramfs.conf
+END
+hotplug
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/uludag/!svn/ver/27580/trunk/initramfs/hotplug
+END
+init
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/uludag/!svn/ver/37407/trunk/initramfs/init
+END
+profile.rc
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/uludag/!svn/ver/27668/trunk/initramfs/profile.rc
+END
+mkinitramfs
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/uludag/!svn/ver/37377/trunk/initramfs/mkinitramfs
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/uludag/!svn/ver/25250/trunk/initramfs/TODO
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/uludag/!svn/ver/37384/trunk/initramfs/ChangeLog
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/uludag/!svn/ver/31901/trunk/initramfs/README
+END

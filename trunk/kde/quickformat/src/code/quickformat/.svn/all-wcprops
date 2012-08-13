@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/uludag/!svn/ver/37657/trunk/kde/quickformat/src/code/quickformat
+END
+about.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/uludag/!svn/ver/37657/trunk/kde/quickformat/src/code/quickformat/about.py
+END
+disktools.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/37063/trunk/kde/quickformat/src/code/quickformat/disktools.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uludag/!svn/ver/34171/trunk/kde/quickformat/src/code/quickformat/__init__.py
+END
+notifier.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uludag/!svn/ver/37657/trunk/kde/quickformat/src/code/quickformat/notifier.py
+END
+formatter.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/37657/trunk/kde/quickformat/src/code/quickformat/formatter.py
+END
+notifier_backend.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/36606/trunk/kde/quickformat/src/code/quickformat/notifier_backend.py
+END

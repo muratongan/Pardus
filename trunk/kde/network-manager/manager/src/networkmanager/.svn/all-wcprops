@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/uludag/!svn/ver/30501/trunk/kde/network-manager/manager/src/networkmanager
+END
+standalone.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/uludag/!svn/ver/30501/trunk/kde/network-manager/manager/src/networkmanager/standalone.py
+END
+about.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/30501/trunk/kde/network-manager/manager/src/networkmanager/about.py
+END
+base.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/30501/trunk/kde/network-manager/manager/src/networkmanager/base.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/30501/trunk/kde/network-manager/manager/src/networkmanager/__init__.py
+END
+kcmodule.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/30501/trunk/kde/network-manager/manager/src/networkmanager/kcmodule.py
+END
+widgets.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/uludag/!svn/ver/30501/trunk/kde/network-manager/manager/src/networkmanager/widgets.py
+END
+backend.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/uludag/!svn/ver/30501/trunk/kde/network-manager/manager/src/networkmanager/backend.py
+END

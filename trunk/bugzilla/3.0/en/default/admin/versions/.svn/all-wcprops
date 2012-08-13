@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/uludag/!svn/ver/13744/trunk/bugzilla/3.0/en/default/admin/versions
+END
+create.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/13239/trunk/bugzilla/3.0/en/default/admin/versions/create.html.tmpl
+END
+edit.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/13239/trunk/bugzilla/3.0/en/default/admin/versions/edit.html.tmpl
+END
+deleted.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/13239/trunk/bugzilla/3.0/en/default/admin/versions/deleted.html.tmpl
+END
+updated.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/13239/trunk/bugzilla/3.0/en/default/admin/versions/updated.html.tmpl
+END
+created.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/13239/trunk/bugzilla/3.0/en/default/admin/versions/created.html.tmpl
+END
+list.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/13239/trunk/bugzilla/3.0/en/default/admin/versions/list.html.tmpl
+END
+confirm-delete.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/uludag/!svn/ver/13239/trunk/bugzilla/3.0/en/default/admin/versions/confirm-delete.html.tmpl
+END
+select-product.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/uludag/!svn/ver/13239/trunk/bugzilla/3.0/en/default/admin/versions/select-product.html.tmpl
+END
+footer.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/13239/trunk/bugzilla/3.0/en/default/admin/versions/footer.html.tmpl
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/uludag/!svn/ver/35873/trunk/noan/noan/repository
+END
+admin.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/uludag/!svn/ver/25391/trunk/noan/noan/repository/admin.py
+END
+views.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/uludag/!svn/ver/35873/trunk/noan/noan/repository/views.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/uludag/!svn/ver/20811/trunk/noan/noan/repository/__init__.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/uludag/!svn/ver/34036/trunk/noan/noan/repository/models.py
+END
+urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/uludag/!svn/ver/30773/trunk/noan/noan/repository/urls.py
+END
+forms.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/uludag/!svn/ver/30614/trunk/noan/noan/repository/forms.py
+END

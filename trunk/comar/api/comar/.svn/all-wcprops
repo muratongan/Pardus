@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/uludag/!svn/ver/33514/trunk/comar/api/comar
+END
+network.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/uludag/!svn/ver/25352/trunk/comar/api/comar/network.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/uludag/!svn/ver/33085/trunk/comar/api/comar/__init__.py
+END
+service.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/uludag/!svn/ver/33514/trunk/comar/api/comar/service.py
+END
+utility.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/uludag/!svn/ver/33085/trunk/comar/api/comar/utility.py
+END

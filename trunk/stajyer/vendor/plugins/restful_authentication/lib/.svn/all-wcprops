@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/22399/trunk/stajyer/vendor/plugins/restful_authentication/lib
+END
+authentication.rb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/uludag/!svn/ver/22399/trunk/stajyer/vendor/plugins/restful_authentication/lib/authentication.rb
+END
+authorization.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/uludag/!svn/ver/22399/trunk/stajyer/vendor/plugins/restful_authentication/lib/authorization.rb
+END
+trustification.rb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/uludag/!svn/ver/22399/trunk/stajyer/vendor/plugins/restful_authentication/lib/trustification.rb
+END

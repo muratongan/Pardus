@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/uludag/!svn/ver/36502/trunk/playground/fatih.arslan/kauth_kcmkeyboard
+END
+helper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/34028/trunk/playground/fatih.arslan/kauth_kcmkeyboard/helper.cpp
+END
+kcm_keyboard.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/34028/trunk/playground/fatih.arslan/kauth_kcmkeyboard/kcm_keyboard.h
+END
+0001-KAuth-implementation-for-settings-preferencies-of-la.patch
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/uludag/!svn/ver/34028/trunk/playground/fatih.arslan/kauth_kcmkeyboard/0001-KAuth-implementation-for-settings-preferencies-of-la.patch
+END
+helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/34028/trunk/playground/fatih.arslan/kauth_kcmkeyboard/helper.h
+END
+keyboard_config.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/uludag/!svn/ver/34028/trunk/playground/fatih.arslan/kauth_kcmkeyboard/keyboard_config.cpp
+END
+kcmkeyboard.actions
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/uludag/!svn/ver/35643/trunk/playground/fatih.arslan/kauth_kcmkeyboard/kcmkeyboard.actions
+END
+kcm_keyboard.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/36502/trunk/playground/fatih.arslan/kauth_kcmkeyboard/kcm_keyboard.cpp
+END
+keyboard_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/uludag/!svn/ver/34028/trunk/playground/fatih.arslan/kauth_kcmkeyboard/keyboard_config.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/34028/trunk/playground/fatih.arslan/kauth_kcmkeyboard/CMakeLists.txt
+END

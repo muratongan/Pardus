@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/uludag/!svn/ver/37108/trunk/baselayout/root/etc
+END
+profile
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/uludag/!svn/ver/31576/trunk/baselayout/root/etc/profile
+END
+inputrc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/uludag/!svn/ver/31576/trunk/baselayout/root/etc/inputrc
+END
+issue.logo
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/uludag/!svn/ver/31951/trunk/baselayout/root/etc/issue.logo
+END
+filesystems
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/uludag/!svn/ver/31956/trunk/baselayout/root/etc/filesystems
+END
+issue
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/uludag/!svn/ver/31951/trunk/baselayout/root/etc/issue
+END
+shells
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/uludag/!svn/ver/31576/trunk/baselayout/root/etc/shells
+END
+inittab
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/uludag/!svn/ver/37097/trunk/baselayout/root/etc/inittab
+END
+networks
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/uludag/!svn/ver/31576/trunk/baselayout/root/etc/networks
+END

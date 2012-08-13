@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/uludag/!svn/ver/27739/trunk/bugzilla/3.4.4/en/default/account/auth
+END
+login.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/27731/trunk/bugzilla/3.4.4/en/default/account/auth/login.html.tmpl
+END
+login-small.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/uludag/!svn/ver/27731/trunk/bugzilla/3.4.4/en/default/account/auth/login-small.html.tmpl
+END

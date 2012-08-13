@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/uludag/!svn/ver/37722/trunk/playground/intern/2011/manager-improvements/package-manager/src
+END
+basketdialog.py
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/uludag/!svn/ver/37707/trunk/playground/intern/2011/manager-improvements/package-manager/src/basketdialog.py
+END
+localedata.py
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/uludag/!svn/ver/37707/trunk/playground/intern/2011/manager-improvements/package-manager/src/localedata.py
+END
+pmutils.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/uludag/!svn/ver/37707/trunk/playground/intern/2011/manager-improvements/package-manager/src/pmutils.py
+END
+packageproxy.py
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/uludag/!svn/ver/37707/trunk/playground/intern/2011/manager-improvements/package-manager/src/packageproxy.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/uludag/!svn/ver/37707/trunk/playground/intern/2011/manager-improvements/package-manager/src/__init__.py
+END
+rowanimator.py
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/uludag/!svn/ver/37707/trunk/playground/intern/2011/manager-improvements/package-manager/src/rowanimator.py
+END
+config.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/uludag/!svn/ver/37707/trunk/playground/intern/2011/manager-improvements/package-manager/src/config.py
+END
+helpdialog.py
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/uludag/!svn/ver/37707/trunk/playground/intern/2011/manager-improvements/package-manager/src/helpdialog.py
+END
+package-manager.notifyrc
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/uludag/!svn/ver/37707/trunk/playground/intern/2011/manager-improvements/package-manager/src/package-manager.notifyrc
+END
+statemanager.py
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/uludag/!svn/ver/37707/trunk/playground/intern/2011/manager-improvements/package-manager/src/statemanager.py
+END
+summarydialog.py
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/uludag/!svn/ver/37707/trunk/playground/intern/2011/manager-improvements/package-manager/src/summarydialog.py
+END
+pm-install.py
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/uludag/!svn/ver/37707/trunk/playground/intern/2011/manager-improvements/package-manager/src/pm-install.py
+END
+progressdialog.py
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/uludag/!svn/ver/37707/trunk/playground/intern/2011/manager-improvements/package-manager/src/progressdialog.py
+END
+main.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/uludag/!svn/ver/37707/trunk/playground/intern/2011/manager-improvements/package-manager/src/main.py
+END
+mainwidget.py
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/uludag/!svn/ver/37707/trunk/playground/intern/2011/manager-improvements/package-manager/src/mainwidget.py
+END
+grouplist.py
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/uludag/!svn/ver/37707/trunk/playground/intern/2011/manager-improvements/package-manager/src/grouplist.py
+END
+operationmanager.py
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/uludag/!svn/ver/37707/trunk/playground/intern/2011/manager-improvements/package-manager/src/operationmanager.py
+END
+webdialog.py
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/uludag/!svn/ver/37707/trunk/playground/intern/2011/manager-improvements/package-manager/src/webdialog.py
+END
+pmwindow.py
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/uludag/!svn/ver/37707/trunk/playground/intern/2011/manager-improvements/package-manager/src/pmwindow.py
+END
+statusupdater.py
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/uludag/!svn/ver/37707/trunk/playground/intern/2011/manager-improvements/package-manager/src/statusupdater.py
+END
+about.py
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/uludag/!svn/ver/37707/trunk/playground/intern/2011/manager-improvements/package-manager/src/about.py
+END
+mainwindow.py
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/uludag/!svn/ver/37707/trunk/playground/intern/2011/manager-improvements/package-manager/src/mainwindow.py
+END
+packagemodel.py
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/uludag/!svn/ver/37707/trunk/playground/intern/2011/manager-improvements/package-manager/src/packagemodel.py
+END
+pdswidgets.py
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/uludag/!svn/ver/37707/trunk/playground/intern/2011/manager-improvements/package-manager/src/pdswidgets.py
+END
+tray.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/uludag/!svn/ver/37707/trunk/playground/intern/2011/manager-improvements/package-manager/src/tray.py
+END
+settingsdialog.py
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/uludag/!svn/ver/37707/trunk/playground/intern/2011/manager-improvements/package-manager/src/settingsdialog.py
+END
+pmlogging.py
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/uludag/!svn/ver/37707/trunk/playground/intern/2011/manager-improvements/package-manager/src/pmlogging.py
+END
+repodialog.py
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/uludag/!svn/ver/37707/trunk/playground/intern/2011/manager-improvements/package-manager/src/repodialog.py
+END
+packageview.py
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/uludag/!svn/ver/37707/trunk/playground/intern/2011/manager-improvements/package-manager/src/packageview.py
+END
+desktopparser.py
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/uludag/!svn/ver/37707/trunk/playground/intern/2011/manager-improvements/package-manager/src/desktopparser.py
+END
+packagedelegate.py
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/uludag/!svn/ver/37722/trunk/playground/intern/2011/manager-improvements/package-manager/src/packagedelegate.py
+END

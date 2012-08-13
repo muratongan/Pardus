@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/uludag/!svn/ver/22532/trunk/security_pardus/django/contrib/sites
+END
+management.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/22532/trunk/security_pardus/django/contrib/sites/management.py
+END
+managers.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uludag/!svn/ver/22532/trunk/security_pardus/django/contrib/sites/managers.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uludag/!svn/ver/22532/trunk/security_pardus/django/contrib/sites/__init__.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/uludag/!svn/ver/22532/trunk/security_pardus/django/contrib/sites/models.py
+END

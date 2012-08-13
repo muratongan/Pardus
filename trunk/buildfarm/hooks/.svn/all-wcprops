@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/uludag/!svn/ver/36196/trunk/buildfarm/hooks
+END
+20-create-latest-repositories
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/uludag/!svn/ver/36196/trunk/buildfarm/hooks/20-create-latest-repositories
+END
+30-conflict-detector
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/uludag/!svn/ver/35772/trunk/buildfarm/hooks/30-conflict-detector
+END

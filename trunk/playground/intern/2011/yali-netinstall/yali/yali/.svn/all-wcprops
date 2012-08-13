@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uludag/!svn/ver/37843/trunk/playground/intern/2011/yali-netinstall/yali/yali
+END
+_sysutils.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/uludag/!svn/ver/37605/trunk/playground/intern/2011/yali-netinstall/yali/yali/_sysutils.c
+END
+localedata.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/uludag/!svn/ver/37605/trunk/playground/intern/2011/yali-netinstall/yali/yali/localedata.py
+END
+timezone.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/uludag/!svn/ver/37605/trunk/playground/intern/2011/yali-netinstall/yali/yali/timezone.py
+END
+pisiiface.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/uludag/!svn/ver/37843/trunk/playground/intern/2011/yali-netinstall/yali/yali/pisiiface.py
+END
+flags.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/uludag/!svn/ver/37605/trunk/playground/intern/2011/yali-netinstall/yali/yali/flags.py
+END
+kahya.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/uludag/!svn/ver/37605/trunk/playground/intern/2011/yali-netinstall/yali/yali/kahya.py
+END
+baseudev.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/uludag/!svn/ver/37605/trunk/playground/intern/2011/yali-netinstall/yali/yali/baseudev.py
+END
+sysutils.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/uludag/!svn/ver/37605/trunk/playground/intern/2011/yali-netinstall/yali/yali/sysutils.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/uludag/!svn/ver/37605/trunk/playground/intern/2011/yali-netinstall/yali/yali/__init__.py
+END
+installdata.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/uludag/!svn/ver/37605/trunk/playground/intern/2011/yali-netinstall/yali/yali/installdata.py
+END
+users.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/uludag/!svn/ver/37605/trunk/playground/intern/2011/yali-netinstall/yali/yali/users.py
+END
+data.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/uludag/!svn/ver/37605/trunk/playground/intern/2011/yali-netinstall/yali/yali/data.qrc
+END
+pyudev.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/37605/trunk/playground/intern/2011/yali-netinstall/yali/yali/pyudev.py
+END
+postinstall.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/uludag/!svn/ver/37605/trunk/playground/intern/2011/yali-netinstall/yali/yali/postinstall.py
+END
+constants.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/uludag/!svn/ver/37843/trunk/playground/intern/2011/yali-netinstall/yali/yali/constants.py
+END
+util.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/37605/trunk/playground/intern/2011/yali-netinstall/yali/yali/util.py
+END
+yalireadpiks.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/uludag/!svn/ver/37605/trunk/playground/intern/2011/yali-netinstall/yali/yali/yalireadpiks.py
+END
+context.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/uludag/!svn/ver/37605/trunk/playground/intern/2011/yali-netinstall/yali/yali/context.py
+END

@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/uludag/!svn/ver/38439/trunk/playground/memre/pisi/pisi
+END
+comariface.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/uludag/!svn/ver/35891/trunk/playground/memre/pisi/pisi/comariface.py
+END
+specfile.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/uludag/!svn/ver/36737/trunk/playground/memre/pisi/pisi/specfile.py
+END
+package.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/38439/trunk/playground/memre/pisi/pisi/package.py
+END
+group.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/pisi/group.py
+END
+mirrors.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/pisi/mirrors.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/uludag/!svn/ver/38439/trunk/playground/memre/pisi/pisi/__init__.py
+END
+history.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/pisi/history.py
+END
+files.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/pisi/files.py
+END
+config.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/uludag/!svn/ver/36080/trunk/playground/memre/pisi/pisi/config.py
+END
+index.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/uludag/!svn/ver/38439/trunk/playground/memre/pisi/pisi/index.py
+END
+api.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/38439/trunk/playground/memre/pisi/pisi/api.py
+END
+signalhandler.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/pisi/signalhandler.py
+END
+util.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/uludag/!svn/ver/38439/trunk/playground/memre/pisi/pisi/util.py
+END
+ui.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/pisi/ui.py
+END
+relation.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/pisi/relation.py
+END
+oo.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/pisi/oo.py
+END
+dependency.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/pisi/dependency.py
+END
+metadata.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/pisi/metadata.py
+END
+atomicoperations.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/pisi/atomicoperations.py
+END
+pgraph.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/pisi/pgraph.py
+END
+context.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/pisi/context.py
+END
+uri.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/pisi/uri.py
+END
+graph.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/uludag/!svn/ver/38437/trunk/playground/memre/pisi/pisi/graph.py
+END
+conflict.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/pisi/conflict.py
+END
+component.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/pisi/component.py
+END
+sourcearchive.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/uludag/!svn/ver/38439/trunk/playground/memre/pisi/pisi/sourcearchive.py
+END
+configfile.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/uludag/!svn/ver/38439/trunk/playground/memre/pisi/pisi/configfile.py
+END
+blacklist.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/pisi/blacklist.py
+END
+replace.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/pisi/replace.py
+END
+constants.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/uludag/!svn/ver/34004/trunk/playground/memre/pisi/pisi/constants.py
+END
+errors.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/pisi/errors.py
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/pisi/.gitignore
+END
+file.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/uludag/!svn/ver/34001/trunk/playground/memre/pisi/pisi/file.py
+END
+fetcher.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/35891/trunk/playground/memre/pisi/pisi/fetcher.py
+END
+archive.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/38439/trunk/playground/memre/pisi/pisi/archive.py
+END
+version.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/pisi/version.py
+END

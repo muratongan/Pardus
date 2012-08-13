@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/13744/trunk/bugzilla/3.0/en/default/admin/products/groupcontrol
+END
+edit.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/uludag/!svn/ver/13239/trunk/bugzilla/3.0/en/default/admin/products/groupcontrol/edit.html.tmpl
+END
+updated.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/uludag/!svn/ver/13239/trunk/bugzilla/3.0/en/default/admin/products/groupcontrol/updated.html.tmpl
+END
+confirm-edit.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/uludag/!svn/ver/13239/trunk/bugzilla/3.0/en/default/admin/products/groupcontrol/confirm-edit.html.tmpl
+END

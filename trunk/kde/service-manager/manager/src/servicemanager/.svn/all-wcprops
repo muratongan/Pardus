@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/uludag/!svn/ver/37579/trunk/kde/service-manager/manager/src/servicemanager
+END
+standalone.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/uludag/!svn/ver/30498/trunk/kde/service-manager/manager/src/servicemanager/standalone.py
+END
+about.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/37579/trunk/kde/service-manager/manager/src/servicemanager/about.py
+END
+base.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/36520/trunk/kde/service-manager/manager/src/servicemanager/base.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/30498/trunk/kde/service-manager/manager/src/servicemanager/__init__.py
+END
+kcmodule.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/30498/trunk/kde/service-manager/manager/src/servicemanager/kcmodule.py
+END
+context.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/uludag/!svn/ver/36521/trunk/kde/service-manager/manager/src/servicemanager/context.py
+END
+widgets.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/uludag/!svn/ver/37579/trunk/kde/service-manager/manager/src/servicemanager/widgets.py
+END
+backend.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/uludag/!svn/ver/33454/trunk/kde/service-manager/manager/src/servicemanager/backend.py
+END

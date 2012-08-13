@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/uludag/!svn/ver/26096/trunk/playground/gsoc/notifier/pnm
+END
+notman.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/uludag/!svn/ver/26096/trunk/playground/gsoc/notifier/pnm/notman.py
+END
+notdisplayer.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/uludag/!svn/ver/26096/trunk/playground/gsoc/notifier/pnm/notdisplayer.py
+END
+client.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/uludag/!svn/ver/26096/trunk/playground/gsoc/notifier/pnm/client.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/uludag/!svn/ver/26096/trunk/playground/gsoc/notifier/pnm/__init__.py
+END
+notclient.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/uludag/!svn/ver/26096/trunk/playground/gsoc/notifier/pnm/notclient.py
+END
+config.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/uludag/!svn/ver/26096/trunk/playground/gsoc/notifier/pnm/config.py
+END
+notification.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/uludag/!svn/ver/26096/trunk/playground/gsoc/notifier/pnm/notification.py
+END

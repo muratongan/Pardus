@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/migration/migration/utility
+END
+registry.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/migration/migration/utility/registry.py
+END
+partition.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/migration/migration/utility/partition.py
+END
+info.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/migration/migration/utility/info.py
+END
+account.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/migration/migration/utility/account.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/migration/migration/utility/__init__.py
+END
+wall.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/migration/migration/utility/wall.py
+END
+files.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/migration/migration/utility/files.py
+END
+bookmark.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/migration/migration/utility/bookmark.py
+END

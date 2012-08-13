@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/uludag/!svn/ver/34844/trunk/security_pardus/security
+END
+manage.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/uludag/!svn/ver/13002/trunk/security_pardus/security/manage.py
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/uludag/!svn/ver/26325/trunk/security_pardus/security/TODO
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/uludag/!svn/ver/13002/trunk/security_pardus/security/__init__.py
+END
+settings.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/uludag/!svn/ver/19511/trunk/security_pardus/security/settings.py
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/uludag/!svn/ver/13002/trunk/security_pardus/security/.htaccess
+END
+urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/uludag/!svn/ver/13045/trunk/security_pardus/security/urls.py
+END

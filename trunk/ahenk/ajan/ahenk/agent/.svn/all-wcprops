@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/uludag/!svn/ver/38514/trunk/ahenk/ajan/ahenk/agent
+END
+workers.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/38309/trunk/ahenk/ajan/ahenk/agent/workers.py
+END
+pam.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/uludag/!svn/ver/38309/trunk/ahenk/ajan/ahenk/agent/pam.py
+END
+mainloop.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/uludag/!svn/ver/38309/trunk/ahenk/ajan/ahenk/agent/mainloop.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/uludag/!svn/ver/38309/trunk/ahenk/ajan/ahenk/agent/__init__.py
+END
+bck_ldap.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/uludag/!svn/ver/38309/trunk/ahenk/ajan/ahenk/agent/bck_ldap.py
+END
+utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/uludag/!svn/ver/38309/trunk/ahenk/ajan/ahenk/agent/utils.py
+END
+nsswitch.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/uludag/!svn/ver/38309/trunk/ahenk/ajan/ahenk/agent/nsswitch.py
+END
+bck_xmpp.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/uludag/!svn/ver/38514/trunk/ahenk/ajan/ahenk/agent/bck_xmpp.py
+END
+daemon.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/uludag/!svn/ver/38309/trunk/ahenk/ajan/ahenk/agent/daemon.py
+END

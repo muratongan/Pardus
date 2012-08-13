@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/uludag/!svn/ver/38201/trunk/playground/intern/2011/pxeboot/client/initramfs
+END
+initramfs.conf
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/uludag/!svn/ver/37704/trunk/playground/intern/2011/pxeboot/client/initramfs/initramfs.conf
+END
+hotplug
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/37704/trunk/playground/intern/2011/pxeboot/client/initramfs/hotplug
+END
+init
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/38201/trunk/playground/intern/2011/pxeboot/client/initramfs/init
+END
+profile.rc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/37704/trunk/playground/intern/2011/pxeboot/client/initramfs/profile.rc
+END
+mkinitramfs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/uludag/!svn/ver/38158/trunk/playground/intern/2011/pxeboot/client/initramfs/mkinitramfs
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/37704/trunk/playground/intern/2011/pxeboot/client/initramfs/TODO
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/uludag/!svn/ver/37704/trunk/playground/intern/2011/pxeboot/client/initramfs/ChangeLog
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/37704/trunk/playground/intern/2011/pxeboot/client/initramfs/README
+END

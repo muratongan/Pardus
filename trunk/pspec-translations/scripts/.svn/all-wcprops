@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/uludag/!svn/ver/28007/trunk/pspec-translations/scripts
+END
+extract-all-languages
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uludag/!svn/ver/27576/trunk/pspec-translations/scripts/extract-all-languages
+END
+pspec2po
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/uludag/!svn/ver/28007/trunk/pspec-translations/scripts/pspec2po
+END
+update-all-languages
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/uludag/!svn/ver/27576/trunk/pspec-translations/scripts/update-all-languages
+END

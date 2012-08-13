@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/uludag/!svn/ver/10688/trunk/bugzilla/2.18.3/tr/default/list
+END
+quips.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/uludag/!svn/ver/6631/trunk/bugzilla/2.18.3/tr/default/list/quips.html.tmpl
+END
+list-simple.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/6631/trunk/bugzilla/2.18.3/tr/default/list/list-simple.html.tmpl
+END
+list.csv.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/uludag/!svn/ver/6631/trunk/bugzilla/2.18.3/tr/default/list/list.csv.tmpl
+END
+list.rdf.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/uludag/!svn/ver/6631/trunk/bugzilla/2.18.3/tr/default/list/list.rdf.tmpl
+END
+change-columns.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/6631/trunk/bugzilla/2.18.3/tr/default/list/change-columns.html.tmpl
+END
+list.js.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/uludag/!svn/ver/6631/trunk/bugzilla/2.18.3/tr/default/list/list.js.tmpl
+END
+server-push.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/6631/trunk/bugzilla/2.18.3/tr/default/list/server-push.html.tmpl
+END
+list.ics.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/uludag/!svn/ver/6631/trunk/bugzilla/2.18.3/tr/default/list/list.ics.tmpl
+END
+table.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/uludag/!svn/ver/6631/trunk/bugzilla/2.18.3/tr/default/list/table.html.tmpl
+END
+list.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/uludag/!svn/ver/6631/trunk/bugzilla/2.18.3/tr/default/list/list.html.tmpl
+END
+edit-multiple.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/10688/trunk/bugzilla/2.18.3/tr/default/list/edit-multiple.html.tmpl
+END

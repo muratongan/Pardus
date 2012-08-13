@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/uludag/!svn/ver/38141/trunk/playground/intern/2011/quickformat-for-KDE3/code/quickformat
+END
+about.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/uludag/!svn/ver/37781/trunk/playground/intern/2011/quickformat-for-KDE3/code/quickformat/about.py
+END
+disktools.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/uludag/!svn/ver/37736/trunk/playground/intern/2011/quickformat-for-KDE3/code/quickformat/disktools.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/uludag/!svn/ver/37736/trunk/playground/intern/2011/quickformat-for-KDE3/code/quickformat/__init__.py
+END
+i18n.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/uludag/!svn/ver/37736/trunk/playground/intern/2011/quickformat-for-KDE3/code/quickformat/i18n.py
+END
+notifier.py
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/uludag/!svn/ver/37736/trunk/playground/intern/2011/quickformat-for-KDE3/code/quickformat/notifier.py
+END
+volume_ui_item.py
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/uludag/!svn/ver/37736/trunk/playground/intern/2011/quickformat-for-KDE3/code/quickformat/volume_ui_item.py
+END
+formatter.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/uludag/!svn/ver/37780/trunk/playground/intern/2011/quickformat-for-KDE3/code/quickformat/formatter.py
+END
+storage_notifier.py
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/uludag/!svn/ver/37736/trunk/playground/intern/2011/quickformat-for-KDE3/code/quickformat/storage_notifier.py
+END
+notifier_backend.py
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/uludag/!svn/ver/37736/trunk/playground/intern/2011/quickformat-for-KDE3/code/quickformat/notifier_backend.py
+END
+volume.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/uludag/!svn/ver/38141/trunk/playground/intern/2011/quickformat-for-KDE3/code/quickformat/volume.py
+END

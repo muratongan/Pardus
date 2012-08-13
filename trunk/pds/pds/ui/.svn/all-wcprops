@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/uludag/!svn/ver/34967/trunk/pds/pds/ui
+END
+gui.ui
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/uludag/!svn/ver/34794/trunk/pds/pds/ui/gui.ui
+END
+ui_connectionitem.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/uludag/!svn/ver/34967/trunk/pds/pds/ui/ui_connectionitem.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/uludag/!svn/ver/34967/trunk/pds/pds/ui/__init__.py
+END
+connectionitem.ui
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/uludag/!svn/ver/34799/trunk/pds/pds/ui/connectionitem.ui
+END

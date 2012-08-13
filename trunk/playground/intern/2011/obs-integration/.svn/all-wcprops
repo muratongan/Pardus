@@ -1,0 +1,275 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/uludag/!svn/ver/38205/trunk/playground/intern/2011/obs-integration
+END
+getoptflags
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/getoptflags
+END
+getmacros
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/getmacros
+END
+changelog2spec
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/changelog2spec
+END
+spec2changelog
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/spec2changelog
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/AUTHORS
+END
+debtransform
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/debtransform
+END
+createrepomddeps
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/createrepomddeps
+END
+baselibs_global.conf
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/baselibs_global.conf
+END
+spectool
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/spectool
+END
+expanddeps
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/expanddeps
+END
+build_kiwi.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/build_kiwi.sh
+END
+getchangetarget
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/getchangetarget
+END
+build.1
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/build.1
+END
+getbinaryid
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/getbinaryid
+END
+download
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/download
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/uludag/!svn/ver/38205/trunk/playground/intern/2011/obs-integration/COPYING
+END
+vc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/vc
+END
+debtransformzip
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/debtransformzip
+END
+Build.pm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/Build.pm
+END
+killchroot
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/killchroot
+END
+lxc.conf
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/lxc.conf
+END
+mkbaselibs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/mkbaselibs
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/Makefile
+END
+createyastdeps
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/createyastdeps
+END
+baselibs_global-deb.conf
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/baselibs_global-deb.conf
+END
+common_functions
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/common_functions
+END
+initscript_qemu_vm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/initscript_qemu_vm
+END
+spec_add_patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/spec_add_patch
+END
+qemu-reg
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/qemu-reg
+END
+substitutedeps
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/substitutedeps
+END
+initvm.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/initvm.c
+END
+init_buildsystem
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/init_buildsystem
+END
+extractbuild
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/extractbuild
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/README
+END
+createrpmdeps
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/createrpmdeps
+END
+build
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/build
+END
+unrpm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/unrpm
+END
+debtransformbz2
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/debtransformbz2
+END
+createpisideps
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/createpisideps
+END
+COPYING~
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/uludag/!svn/ver/38205/trunk/playground/intern/2011/obs-integration/COPYING~
+END
+computeblocklists
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/computeblocklists
+END
+baselibs_global-sle.conf
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/baselibs_global-sle.conf
+END
+order
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/order
+END
+signdummy
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/signdummy
+END
+mkdrpms
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/mkdrpms
+END

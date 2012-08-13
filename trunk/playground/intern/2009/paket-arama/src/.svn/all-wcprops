@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/paket-arama/src
+END
+sqlgen.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/paket-arama/src/sqlgen.py
+END
+drop.sql
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/paket-arama/src/drop.sql
+END
+index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/paket-arama/src/index.sql
+END
+importer.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/paket-arama/src/importer.py
+END
+old-sqlgen.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/paket-arama/src/old-sqlgen.py
+END

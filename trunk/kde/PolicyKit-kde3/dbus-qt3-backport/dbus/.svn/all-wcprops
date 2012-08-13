@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/uludag/!svn/ver/26100/trunk/kde/PolicyKit-kde3/dbus-qt3-backport/dbus
+END
+qdbusconnection.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/uludag/!svn/ver/26100/trunk/kde/PolicyKit-kde3/dbus-qt3-backport/dbus/qdbusconnection.h
+END
+qdbusdataconverter.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/uludag/!svn/ver/26100/trunk/kde/PolicyKit-kde3/dbus-qt3-backport/dbus/qdbusdataconverter.h
+END
+qdbusproxy.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/26100/trunk/kde/PolicyKit-kde3/dbus-qt3-backport/dbus/qdbusproxy.h
+END
+qdbusobjectpath.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/uludag/!svn/ver/26100/trunk/kde/PolicyKit-kde3/dbus-qt3-backport/dbus/qdbusobjectpath.h
+END
+qdbusmacros.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/26100/trunk/kde/PolicyKit-kde3/dbus-qt3-backport/dbus/qdbusmacros.h
+END
+qdbusmessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/26100/trunk/kde/PolicyKit-kde3/dbus-qt3-backport/dbus/qdbusmessage.h
+END
+qdbusvariant.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/26100/trunk/kde/PolicyKit-kde3/dbus-qt3-backport/dbus/qdbusvariant.h
+END
+qdbusdatalist.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/uludag/!svn/ver/26100/trunk/kde/PolicyKit-kde3/dbus-qt3-backport/dbus/qdbusdatalist.h
+END
+qdbusobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/26100/trunk/kde/PolicyKit-kde3/dbus-qt3-backport/dbus/qdbusobject.h
+END
+qdbusserver.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/26100/trunk/kde/PolicyKit-kde3/dbus-qt3-backport/dbus/qdbusserver.h
+END
+qdbusdatamap.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/26100/trunk/kde/PolicyKit-kde3/dbus-qt3-backport/dbus/qdbusdatamap.h
+END
+qdbusdata.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/26100/trunk/kde/PolicyKit-kde3/dbus-qt3-backport/dbus/qdbusdata.h
+END
+qdbuserror.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/26100/trunk/kde/PolicyKit-kde3/dbus-qt3-backport/dbus/qdbuserror.h
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/uludag/!svn/ver/38322/trunk/doc/en/developer.pardus.org.tr/source/guides/releasing/repository_concepts
+END
+software_repository.rst
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/uludag/!svn/ver/35663/trunk/doc/en/developer.pardus.org.tr/source/guides/releasing/repository_concepts/software_repository.rst
+END
+sourcecode_repository.rst
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/uludag/!svn/ver/36887/trunk/doc/en/developer.pardus.org.tr/source/guides/releasing/repository_concepts/sourcecode_repository.rst
+END
+git_workflow.rst
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/uludag/!svn/ver/38322/trunk/doc/en/developer.pardus.org.tr/source/guides/releasing/repository_concepts/git_workflow.rst
+END
+subversion_usage.rst
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/uludag/!svn/ver/32939/trunk/doc/en/developer.pardus.org.tr/source/guides/releasing/repository_concepts/subversion_usage.rst
+END
+version_control_system_rules.rst
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/uludag/!svn/ver/36887/trunk/doc/en/developer.pardus.org.tr/source/guides/releasing/repository_concepts/version_control_system_rules.rst
+END
+index.rst
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/uludag/!svn/ver/38322/trunk/doc/en/developer.pardus.org.tr/source/guides/releasing/repository_concepts/index.rst
+END

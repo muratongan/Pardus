@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/uludag/!svn/ver/32381/trunk/bugzilla/3.4.4/en/custom/bug/create
+END
+create.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/32381/trunk/bugzilla/3.4.4/en/custom/bug/create/create.html.tmpl
+END
+comment.txt.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/28323/trunk/bugzilla/3.4.4/en/custom/bug/create/comment.txt.tmpl
+END

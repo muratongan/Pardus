@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/uludag/!svn/ver/37888/trunk/appinfo/appinfo
+END
+base.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/uludag/!svn/ver/35577/trunk/appinfo/appinfo/base.py
+END
+client.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/uludag/!svn/ver/35577/trunk/appinfo/appinfo/client.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/uludag/!svn/ver/35577/trunk/appinfo/appinfo/__init__.py
+END
+test.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/uludag/!svn/ver/32590/trunk/appinfo/appinfo/test.py
+END
+utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/uludag/!svn/ver/35577/trunk/appinfo/appinfo/utils.py
+END
+database.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/uludag/!svn/ver/32590/trunk/appinfo/appinfo/database.py
+END
+config.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/uludag/!svn/ver/32590/trunk/appinfo/appinfo/config.py
+END
+server.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/uludag/!svn/ver/37888/trunk/appinfo/appinfo/server.py
+END

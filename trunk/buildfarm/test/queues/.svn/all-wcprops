@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/uludag/!svn/ver/22452/trunk/buildfarm/test/queues
+END
+sys-base-2
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/uludag/!svn/ver/22452/trunk/buildfarm/test/queues/sys-base-2
+END
+sys-base
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/uludag/!svn/ver/22452/trunk/buildfarm/test/queues/sys-base
+END
+app-util
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/uludag/!svn/ver/22452/trunk/buildfarm/test/queues/app-util
+END
+prog-libs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/uludag/!svn/ver/22452/trunk/buildfarm/test/queues/prog-libs
+END

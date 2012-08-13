@@ -1,0 +1,257 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/yali/gui/Ui
+END
+autopartwidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/yali/gui/Ui/autopartwidget.ui
+END
+keyboardwidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/yali/gui/Ui/keyboardwidget.ui
+END
+manualpartwidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/yali/gui/Ui/manualpartwidget.ui
+END
+partition.ui
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/yali/gui/Ui/partition.ui
+END
+diskItem.ui
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/yali/gui/Ui/diskItem.ui
+END
+installwidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/yali/gui/Ui/installwidget.ui
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/yali/gui/Ui/__init__.py
+END
+collectionitem.ui
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/yali/gui/Ui/collectionitem.ui
+END
+rescuegrubwidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/yali/gui/Ui/rescuegrubwidget.ui
+END
+rootpasswidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/yali/gui/Ui/rootpasswidget.ui
+END
+rescuepisiwidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/yali/gui/Ui/rescuepisiwidget.ui
+END
+license.ui
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/yali/gui/Ui/license.ui
+END
+collectionswidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/yali/gui/Ui/collectionswidget.ui
+END
+volumegroup.ui
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/yali/gui/Ui/volumegroup.ui
+END
+autopartquestion.ui
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/yali/gui/Ui/autopartquestion.ui
+END
+partitionshrink.ui
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/yali/gui/Ui/partitionshrink.ui
+END
+analogclock.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/yali/gui/Ui/analogclock.py
+END
+bg.ui
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/yali/gui/Ui/bg.ui
+END
+checkcdwidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/yali/gui/Ui/checkcdwidget.ui
+END
+rescuewidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/yali/gui/Ui/rescuewidget.ui
+END
+installprogress.ui
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/yali/gui/Ui/installprogress.ui
+END
+connectionlist.ui
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/yali/gui/Ui/connectionlist.ui
+END
+partitionshrinkwidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/yali/gui/Ui/partitionshrinkwidget.ui
+END
+bootloaderwidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/yali/gui/Ui/bootloaderwidget.ui
+END
+exception.ui
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/yali/gui/Ui/exception.ui
+END
+dialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/yali/gui/Ui/dialog.ui
+END
+partedit.ui
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/yali/gui/Ui/partedit.ui
+END
+kickerwidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/yali/gui/Ui/kickerwidget.ui
+END
+rescuepasswordwidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/yali/gui/Ui/rescuepasswordwidget.ui
+END
+partitionedit.ui
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/yali/gui/Ui/partitionedit.ui
+END
+raid.ui
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/yali/gui/Ui/raid.ui
+END
+driveselectionwidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/yali/gui/Ui/driveselectionwidget.ui
+END
+main.ui
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/yali/gui/Ui/main.ui
+END
+setupuserswidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/yali/gui/Ui/setupuserswidget.ui
+END
+createdevicewidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/yali/gui/Ui/createdevicewidget.ui
+END
+partresize.ui
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/yali/gui/Ui/partresize.ui
+END
+help.ui
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/yali/gui/Ui/help.ui
+END
+welcome.ui
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/yali/gui/Ui/welcome.ui
+END
+goodbyewidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/yali/gui/Ui/goodbyewidget.ui
+END
+datetimewidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/yali/gui/Ui/datetimewidget.ui
+END
+summarywidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/yali/gui/Ui/summarywidget.ui
+END
+logicalvolume.ui
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/yali/gui/Ui/logicalvolume.ui
+END

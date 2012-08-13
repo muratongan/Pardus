@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/kaptan4-kamera/src/gui
+END
+menuWidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/kaptan4-kamera/src/gui/menuWidget.ui
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/kaptan4-kamera/src/gui/__init__.py
+END
+ScrCamera.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/kaptan4-kamera/src/gui/ScrCamera.py
+END
+ScrGoodbye.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/kaptan4-kamera/src/gui/ScrGoodbye.py
+END
+ScrMouse.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/kaptan4-kamera/src/gui/ScrMouse.py
+END
+ScrNetwork.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/kaptan4-kamera/src/gui/ScrNetwork.py
+END
+ScrWelcome.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/kaptan4-kamera/src/gui/ScrWelcome.py
+END
+styleitem.ui
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/kaptan4-kamera/src/gui/styleitem.ui
+END
+ScrSummary.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/kaptan4-kamera/src/gui/ScrSummary.py
+END
+ScrKeyboard.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/kaptan4-kamera/src/gui/ScrKeyboard.py
+END
+ScrStyle.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/kaptan4-kamera/src/gui/ScrStyle.py
+END
+ScrSearch.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/kaptan4-kamera/src/gui/ScrSearch.py
+END
+cameraWidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/kaptan4-kamera/src/gui/cameraWidget.ui
+END
+mouseWidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/kaptan4-kamera/src/gui/mouseWidget.ui
+END
+goodbyeWidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/kaptan4-kamera/src/gui/goodbyeWidget.ui
+END
+networkWidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/kaptan4-kamera/src/gui/networkWidget.ui
+END
+ScreenWidget.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/kaptan4-kamera/src/gui/ScreenWidget.py
+END
+welcomeWidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/kaptan4-kamera/src/gui/welcomeWidget.ui
+END
+raw.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/kaptan4-kamera/src/gui/raw.qrc
+END
+summaryWidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/kaptan4-kamera/src/gui/summaryWidget.ui
+END
+styleWidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/kaptan4-kamera/src/gui/styleWidget.ui
+END
+keyboardWidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/kaptan4-kamera/src/gui/keyboardWidget.ui
+END
+wallpaperuiitem.ui
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/kaptan4-kamera/src/gui/wallpaperuiitem.ui
+END
+searchWidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/kaptan4-kamera/src/gui/searchWidget.ui
+END
+ScrWallpaper.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/kaptan4-kamera/src/gui/ScrWallpaper.py
+END
+ScrPackage.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/kaptan4-kamera/src/gui/ScrPackage.py
+END
+stylewidget.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/kaptan4-kamera/src/gui/stylewidget.py
+END
+ScrSmolt.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/kaptan4-kamera/src/gui/ScrSmolt.py
+END
+widgets.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/kaptan4-kamera/src/gui/widgets.py
+END
+kaptanMain.ui
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/kaptan4-kamera/src/gui/kaptanMain.ui
+END
+ScrMenu.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/kaptan4-kamera/src/gui/ScrMenu.py
+END
+wallpaperWidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/kaptan4-kamera/src/gui/wallpaperWidget.ui
+END
+uiitem.ui
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/kaptan4-kamera/src/gui/uiitem.ui
+END
+sample1.desktop
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/kaptan4-kamera/src/gui/sample1.desktop
+END
+packageWidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/kaptan4-kamera/src/gui/packageWidget.ui
+END
+desktopparser.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/kaptan4-kamera/src/gui/desktopparser.py
+END
+smoltWidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/kaptan4-kamera/src/gui/smoltWidget.ui
+END

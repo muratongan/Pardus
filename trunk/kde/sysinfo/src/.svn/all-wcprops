@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/uludag/!svn/ver/35147/trunk/kde/sysinfo/src
+END
+sysinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/uludag/!svn/ver/26935/trunk/kde/sysinfo/src/sysinfo.h
+END
+Messages.sh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/uludag/!svn/ver/26099/trunk/kde/sysinfo/src/Messages.sh
+END
+ksysinfopart.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/uludag/!svn/ver/26099/trunk/kde/sysinfo/src/ksysinfopart.h
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/uludag/!svn/ver/26099/trunk/kde/sysinfo/src/AUTHORS
+END
+sysinfo.protocol
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/uludag/!svn/ver/26099/trunk/kde/sysinfo/src/sysinfo.protocol
+END
+configure.in.in
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/uludag/!svn/ver/26099/trunk/kde/sysinfo/src/configure.in.in
+END
+x-sysinfo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/uludag/!svn/ver/26099/trunk/kde/sysinfo/src/x-sysinfo.xml
+END
+kfmclient_sysinfo.desktop
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/uludag/!svn/ver/26099/trunk/kde/sysinfo/src/kfmclient_sysinfo.desktop
+END
+sysinfo.desktop
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/uludag/!svn/ver/26099/trunk/kde/sysinfo/src/sysinfo.desktop
+END
+ksysinfopart.desktop
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/uludag/!svn/ver/26099/trunk/kde/sysinfo/src/ksysinfopart.desktop
+END
+x-sysinfo.desktop
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/26099/trunk/kde/sysinfo/src/x-sysinfo.desktop
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/uludag/!svn/ver/26099/trunk/kde/sysinfo/src/Makefile.am
+END
+sysinfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/uludag/!svn/ver/33994/trunk/kde/sysinfo/src/sysinfo.cpp
+END
+ksysinfopart.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/uludag/!svn/ver/26099/trunk/kde/sysinfo/src/ksysinfopart.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/uludag/!svn/ver/33998/trunk/kde/sysinfo/src/CMakeLists.txt
+END

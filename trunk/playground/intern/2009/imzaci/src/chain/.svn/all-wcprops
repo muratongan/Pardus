@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/imzaci/src/chain
+END
+cert2.pem
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/imzaci/src/chain/cert2.pem
+END
+cacert.pem
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/imzaci/src/chain/cacert.pem
+END
+key1.pem
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/imzaci/src/chain/key1.pem
+END
+key2.pem
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/imzaci/src/chain/key2.pem
+END
+cert1.pem
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/imzaci/src/chain/cert1.pem
+END

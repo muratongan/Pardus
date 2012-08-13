@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/uludag/!svn/ver/27671/trunk/noan/noan/profile
+END
+admin.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/uludag/!svn/ver/26748/trunk/noan/noan/profile/admin.py
+END
+views.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/uludag/!svn/ver/26833/trunk/noan/noan/profile/views.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/uludag/!svn/ver/26422/trunk/noan/noan/profile/__init__.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/uludag/!svn/ver/27671/trunk/noan/noan/profile/models.py
+END
+urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/uludag/!svn/ver/27661/trunk/noan/noan/profile/urls.py
+END
+forms.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/uludag/!svn/ver/26833/trunk/noan/noan/profile/forms.py
+END

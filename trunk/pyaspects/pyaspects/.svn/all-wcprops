@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/uludag/!svn/ver/31107/trunk/pyaspects/pyaspects
+END
+weaver.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/uludag/!svn/ver/31107/trunk/pyaspects/pyaspects/weaver.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/uludag/!svn/ver/31107/trunk/pyaspects/pyaspects/__init__.py
+END
+debuggeraspect.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/26139/trunk/pyaspects/pyaspects/debuggeraspect.py
+END
+pointcut.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/uludag/!svn/ver/26139/trunk/pyaspects/pyaspects/pointcut.py
+END
+meta.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/uludag/!svn/ver/28073/trunk/pyaspects/pyaspects/meta.py
+END

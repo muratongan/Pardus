@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/boot-modules-arayuzu/src/gui
+END
+ui_mainwindow.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/boot-modules-arayuzu/src/gui/ui_mainwindow.py
+END
+resource_rc.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/boot-modules-arayuzu/src/gui/resource_rc.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/boot-modules-arayuzu/src/gui/__init__.py
+END
+resource.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/boot-modules-arayuzu/src/gui/resource.qrc
+END
+ui_availablemodules.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/boot-modules-arayuzu/src/gui/ui_availablemodules.py
+END

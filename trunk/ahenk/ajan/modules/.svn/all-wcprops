@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/uludag/!svn/ver/38505/trunk/ahenk/ajan/modules
+END
+mod_software.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/uludag/!svn/ver/38309/trunk/ahenk/ajan/modules/mod_software.py
+END
+mod_authentication.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/uludag/!svn/ver/38309/trunk/ahenk/ajan/modules/mod_authentication.py
+END
+mod_webservices.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/38309/trunk/ahenk/ajan/modules/mod_webservices.py
+END
+mod_services.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/uludag/!svn/ver/38470/trunk/ahenk/ajan/modules/mod_services.py
+END
+mod_firewall.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/uludag/!svn/ver/38505/trunk/ahenk/ajan/modules/mod_firewall.py
+END

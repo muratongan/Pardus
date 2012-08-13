@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/31181/trunk/playground/gsoc/PaW/src/ui/controller
+END
+stepOptUSB.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/31110/trunk/playground/gsoc/PaW/src/ui/controller/stepOptUSB.py
+END
+stepOptISO.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/30922/trunk/playground/gsoc/PaW/src/ui/controller/stepOptISO.py
+END
+stepFinish.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/31111/trunk/playground/gsoc/PaW/src/ui/controller/stepFinish.py
+END
+stepSource.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/30842/trunk/playground/gsoc/PaW/src/ui/controller/stepSource.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/30818/trunk/playground/gsoc/PaW/src/ui/controller/__init__.py
+END
+stepInstalling.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/31111/trunk/playground/gsoc/PaW/src/ui/controller/stepInstalling.py
+END
+stepDownloading.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/31181/trunk/playground/gsoc/PaW/src/ui/controller/stepDownloading.py
+END
+stepConfiguration.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/31096/trunk/playground/gsoc/PaW/src/ui/controller/stepConfiguration.py
+END
+stepOptCD.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/31110/trunk/playground/gsoc/PaW/src/ui/controller/stepOptCD.py
+END
+stepOptInternet.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/30842/trunk/playground/gsoc/PaW/src/ui/controller/stepOptInternet.py
+END
+stepTemplate.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/30818/trunk/playground/gsoc/PaW/src/ui/controller/stepTemplate.py
+END
+stepWelcome.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/31097/trunk/playground/gsoc/PaW/src/ui/controller/stepWelcome.py
+END

@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/37682/trunk/playground/intern/2011/package-manager/corporate2/src
+END
+basketdialog.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/uludag/!svn/ver/37664/trunk/playground/intern/2011/package-manager/corporate2/src/basketdialog.py
+END
+localedata.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/uludag/!svn/ver/37664/trunk/playground/intern/2011/package-manager/corporate2/src/localedata.py
+END
+pmutils.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/uludag/!svn/ver/37664/trunk/playground/intern/2011/package-manager/corporate2/src/pmutils.py
+END
+packageproxy.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/uludag/!svn/ver/37664/trunk/playground/intern/2011/package-manager/corporate2/src/packageproxy.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/uludag/!svn/ver/37664/trunk/playground/intern/2011/package-manager/corporate2/src/__init__.py
+END
+rowanimator.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/uludag/!svn/ver/37664/trunk/playground/intern/2011/package-manager/corporate2/src/rowanimator.py
+END
+config.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/uludag/!svn/ver/37664/trunk/playground/intern/2011/package-manager/corporate2/src/config.py
+END
+helpdialog.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/uludag/!svn/ver/37664/trunk/playground/intern/2011/package-manager/corporate2/src/helpdialog.py
+END
+package-manager.notifyrc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/uludag/!svn/ver/37664/trunk/playground/intern/2011/package-manager/corporate2/src/package-manager.notifyrc
+END
+statemanager.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/uludag/!svn/ver/37664/trunk/playground/intern/2011/package-manager/corporate2/src/statemanager.py
+END
+summarydialog.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/uludag/!svn/ver/37664/trunk/playground/intern/2011/package-manager/corporate2/src/summarydialog.py
+END
+pm-install.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/uludag/!svn/ver/37664/trunk/playground/intern/2011/package-manager/corporate2/src/pm-install.py
+END
+progressdialog.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/uludag/!svn/ver/37664/trunk/playground/intern/2011/package-manager/corporate2/src/progressdialog.py
+END
+main.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/uludag/!svn/ver/37664/trunk/playground/intern/2011/package-manager/corporate2/src/main.py
+END
+mainwidget.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/uludag/!svn/ver/37664/trunk/playground/intern/2011/package-manager/corporate2/src/mainwidget.py
+END
+grouplist.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/uludag/!svn/ver/37664/trunk/playground/intern/2011/package-manager/corporate2/src/grouplist.py
+END
+operationmanager.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/uludag/!svn/ver/37664/trunk/playground/intern/2011/package-manager/corporate2/src/operationmanager.py
+END
+webdialog.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/uludag/!svn/ver/37664/trunk/playground/intern/2011/package-manager/corporate2/src/webdialog.py
+END
+pmwindow.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/uludag/!svn/ver/37664/trunk/playground/intern/2011/package-manager/corporate2/src/pmwindow.py
+END
+statusupdater.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/uludag/!svn/ver/37664/trunk/playground/intern/2011/package-manager/corporate2/src/statusupdater.py
+END
+about.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/uludag/!svn/ver/37664/trunk/playground/intern/2011/package-manager/corporate2/src/about.py
+END
+mainwindow.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/uludag/!svn/ver/37664/trunk/playground/intern/2011/package-manager/corporate2/src/mainwindow.py
+END
+packagemodel.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/uludag/!svn/ver/37664/trunk/playground/intern/2011/package-manager/corporate2/src/packagemodel.py
+END
+pdswidgets.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/uludag/!svn/ver/37664/trunk/playground/intern/2011/package-manager/corporate2/src/pdswidgets.py
+END
+tray.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/uludag/!svn/ver/37664/trunk/playground/intern/2011/package-manager/corporate2/src/tray.py
+END
+settingsdialog.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/uludag/!svn/ver/37664/trunk/playground/intern/2011/package-manager/corporate2/src/settingsdialog.py
+END
+pmlogging.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/uludag/!svn/ver/37664/trunk/playground/intern/2011/package-manager/corporate2/src/pmlogging.py
+END
+repodialog.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/uludag/!svn/ver/37682/trunk/playground/intern/2011/package-manager/corporate2/src/repodialog.py
+END
+packageview.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/uludag/!svn/ver/37664/trunk/playground/intern/2011/package-manager/corporate2/src/packageview.py
+END
+desktopparser.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/uludag/!svn/ver/37664/trunk/playground/intern/2011/package-manager/corporate2/src/desktopparser.py
+END
+packagedelegate.py
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/uludag/!svn/ver/37664/trunk/playground/intern/2011/package-manager/corporate2/src/packagedelegate.py
+END

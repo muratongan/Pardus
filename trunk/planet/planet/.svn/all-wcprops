@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/uludag/!svn/ver/12313/trunk/planet/planet
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/uludag/!svn/ver/12311/trunk/planet/planet/__init__.py
+END
+timeoutsocket.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/uludag/!svn/ver/12311/trunk/planet/planet/timeoutsocket.py
+END
+feedparser.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/uludag/!svn/ver/12311/trunk/planet/planet/feedparser.py
+END
+htmltmpl.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/uludag/!svn/ver/12311/trunk/planet/planet/htmltmpl.py
+END
+atomstyler.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/uludag/!svn/ver/12311/trunk/planet/planet/atomstyler.py
+END
+cache.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/uludag/!svn/ver/12311/trunk/planet/planet/cache.py
+END
+sanitize.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/uludag/!svn/ver/12311/trunk/planet/planet/sanitize.py
+END

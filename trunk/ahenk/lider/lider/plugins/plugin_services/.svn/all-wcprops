@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/uludag/!svn/ver/38512/trunk/ahenk/lider/lider/plugins/plugin_services
+END
+services.ui
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/38473/trunk/ahenk/lider/lider/plugins/plugin_services/services.ui
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/38309/trunk/ahenk/lider/lider/plugins/plugin_services/__init__.py
+END
+services.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/38395/trunk/ahenk/lider/lider/plugins/plugin_services/services.qrc
+END
+main.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/38512/trunk/ahenk/lider/lider/plugins/plugin_services/main.py
+END

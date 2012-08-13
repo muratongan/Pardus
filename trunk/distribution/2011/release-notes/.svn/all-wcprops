@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/uludag/!svn/ver/35511/trunk/distribution/2011/release-notes
+END
+remove-title.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/uludag/!svn/ver/35068/trunk/distribution/2011/release-notes/remove-title.py
+END
+publican.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/uludag/!svn/ver/35055/trunk/distribution/2011/release-notes/publican.cfg
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/uludag/!svn/ver/35068/trunk/distribution/2011/release-notes/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/uludag/!svn/ver/35055/trunk/distribution/2011/release-notes/README
+END

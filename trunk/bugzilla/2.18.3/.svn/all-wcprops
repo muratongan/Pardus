@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/uludag/!svn/ver/12097/trunk/bugzilla/2.18.3
+END
+bugzilla_sendmail2maillist[2.18.3].patch
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/uludag/!svn/ver/6631/trunk/bugzilla/2.18.3/bugzilla_sendmail2maillist%5B2.18.3%5D.patch
+END

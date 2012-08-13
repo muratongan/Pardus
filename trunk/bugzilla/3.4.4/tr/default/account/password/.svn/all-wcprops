@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/uludag/!svn/ver/29786/trunk/bugzilla/3.4.4/tr/default/account/password
+END
+forgotten-password.txt.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/uludag/!svn/ver/29786/trunk/bugzilla/3.4.4/tr/default/account/password/forgotten-password.txt.tmpl
+END
+set-forgotten-password.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/uludag/!svn/ver/27829/trunk/bugzilla/3.4.4/tr/default/account/password/set-forgotten-password.html.tmpl
+END

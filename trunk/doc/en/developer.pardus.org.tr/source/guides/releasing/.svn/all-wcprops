@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/38472/trunk/doc/en/developer.pardus.org.tr/source/guides/releasing
+END
+end_of_life.rst
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/uludag/!svn/ver/38472/trunk/doc/en/developer.pardus.org.tr/source/guides/releasing/end_of_life.rst
+END
+bootstrapping.rst
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/uludag/!svn/ver/35680/trunk/doc/en/developer.pardus.org.tr/source/guides/releasing/bootstrapping.rst
+END
+preparing_buildfarm.rst
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/uludag/!svn/ver/35669/trunk/doc/en/developer.pardus.org.tr/source/guides/releasing/preparing_buildfarm.rst
+END
+generating_nightly_builds.rst
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/uludag/!svn/ver/36219/trunk/doc/en/developer.pardus.org.tr/source/guides/releasing/generating_nightly_builds.rst
+END
+security_process.rst
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/uludag/!svn/ver/37580/trunk/doc/en/developer.pardus.org.tr/source/guides/releasing/security_process.rst
+END
+index.rst
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/uludag/!svn/ver/38281/trunk/doc/en/developer.pardus.org.tr/source/guides/releasing/index.rst
+END

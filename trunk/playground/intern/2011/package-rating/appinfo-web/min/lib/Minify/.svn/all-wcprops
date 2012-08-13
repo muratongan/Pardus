@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/uludag/!svn/ver/38132/trunk/playground/intern/2011/package-rating/appinfo-web/min/lib/Minify
+END
+ImportProcessor.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/uludag/!svn/ver/38132/trunk/playground/intern/2011/package-rating/appinfo-web/min/lib/Minify/ImportProcessor.php
+END
+Lines.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/uludag/!svn/ver/38132/trunk/playground/intern/2011/package-rating/appinfo-web/min/lib/Minify/Lines.php
+END
+Build.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/uludag/!svn/ver/38132/trunk/playground/intern/2011/package-rating/appinfo-web/min/lib/Minify/Build.php
+END
+Logger.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/uludag/!svn/ver/38132/trunk/playground/intern/2011/package-rating/appinfo-web/min/lib/Minify/Logger.php
+END
+CommentPreserver.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/uludag/!svn/ver/38132/trunk/playground/intern/2011/package-rating/appinfo-web/min/lib/Minify/CommentPreserver.php
+END
+Source.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/uludag/!svn/ver/38132/trunk/playground/intern/2011/package-rating/appinfo-web/min/lib/Minify/Source.php
+END
+YUICompressor.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/uludag/!svn/ver/38132/trunk/playground/intern/2011/package-rating/appinfo-web/min/lib/Minify/YUICompressor.php
+END
+HTML.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/uludag/!svn/ver/38132/trunk/playground/intern/2011/package-rating/appinfo-web/min/lib/Minify/HTML.php
+END
+Packer.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/uludag/!svn/ver/38132/trunk/playground/intern/2011/package-rating/appinfo-web/min/lib/Minify/Packer.php
+END
+CSS.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/uludag/!svn/ver/38132/trunk/playground/intern/2011/package-rating/appinfo-web/min/lib/Minify/CSS.php
+END

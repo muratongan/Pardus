@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pulseaudio-ui/panda
+END
+groupwidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pulseaudio-ui/panda/groupwidget.cpp
+END
+group.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pulseaudio-ui/panda/group.h
+END
+groupwidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pulseaudio-ui/panda/groupwidget.h
+END
+groupsconfig.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pulseaudio-ui/panda/groupsconfig.cpp
+END
+streamstab.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pulseaudio-ui/panda/streamstab.cpp
+END
+groupstab.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pulseaudio-ui/panda/groupstab.cpp
+END
+mainwindow.ui
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pulseaudio-ui/panda/mainwindow.ui
+END
+groupsdata.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pulseaudio-ui/panda/groupsdata.cpp
+END
+groupsconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pulseaudio-ui/panda/groupsconfig.h
+END
+streamstab.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pulseaudio-ui/panda/streamstab.h
+END
+groupstab.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pulseaudio-ui/panda/groupstab.h
+END
+volumewidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pulseaudio-ui/panda/volumewidget.cpp
+END
+mainwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pulseaudio-ui/panda/mainwindow.cpp
+END
+groupsdata.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pulseaudio-ui/panda/groupsdata.h
+END
+rulesconfig.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pulseaudio-ui/panda/rulesconfig.cpp
+END
+slideraction.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pulseaudio-ui/panda/slideraction.cpp
+END
+volumewidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pulseaudio-ui/panda/volumewidget.h
+END
+mainwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pulseaudio-ui/panda/mainwindow.h
+END
+panda.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pulseaudio-ui/panda/panda.cpp
+END
+rulesdata.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pulseaudio-ui/panda/rulesdata.cpp
+END
+rulesconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pulseaudio-ui/panda/rulesconfig.h
+END
+slideraction.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pulseaudio-ui/panda/slideraction.h
+END
+groupmanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pulseaudio-ui/panda/groupmanager.cpp
+END
+trayicon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pulseaudio-ui/panda/trayicon.cpp
+END
+rulesdata.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pulseaudio-ui/panda/rulesdata.h
+END
+groupmanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pulseaudio-ui/panda/groupmanager.h
+END
+group.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pulseaudio-ui/panda/group.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pulseaudio-ui/panda/CMakeLists.txt
+END
+trayicon.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pulseaudio-ui/panda/trayicon.h
+END

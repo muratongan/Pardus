@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/uludag/!svn/ver/26105/trunk/scripts/buildfarm
+END
+residuary-binary.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/26105/trunk/scripts/buildfarm/residuary-binary.py
+END
+buildDeps.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/uludag/!svn/ver/26105/trunk/scripts/buildfarm/buildDeps.py
+END
+missing-binary.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/uludag/!svn/ver/26105/trunk/scripts/buildfarm/missing-binary.py
+END
+finddups.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/uludag/!svn/ver/26105/trunk/scripts/buildfarm/finddups.py
+END
+fetchAll.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/uludag/!svn/ver/26105/trunk/scripts/buildfarm/fetchAll.py
+END
+stable-check.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/26105/trunk/scripts/buildfarm/stable-check.py
+END
+test-diff.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/uludag/!svn/ver/26105/trunk/scripts/buildfarm/test-diff.py
+END
+stable-merge.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/26105/trunk/scripts/buildfarm/stable-merge.py
+END

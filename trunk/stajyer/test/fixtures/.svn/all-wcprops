@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/uludag/!svn/ver/22399/trunk/stajyer/test/fixtures
+END
+documents.yml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/uludag/!svn/ver/22399/trunk/stajyer/test/fixtures/documents.yml
+END
+users.yml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/uludag/!svn/ver/22399/trunk/stajyer/test/fixtures/users.yml
+END
+comments.yml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/uludag/!svn/ver/22399/trunk/stajyer/test/fixtures/comments.yml
+END
+students.yml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/uludag/!svn/ver/22399/trunk/stajyer/test/fixtures/students.yml
+END

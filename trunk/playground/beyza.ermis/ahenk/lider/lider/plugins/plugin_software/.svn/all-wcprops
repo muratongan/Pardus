@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/uludag/!svn/ver/33452/trunk/playground/beyza.ermis/ahenk/lider/lider/plugins/plugin_software
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/uludag/!svn/ver/33452/trunk/playground/beyza.ermis/ahenk/lider/lider/plugins/plugin_software/__init__.py
+END
+repository.py
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/uludag/!svn/ver/33452/trunk/playground/beyza.ermis/ahenk/lider/lider/plugins/plugin_software/repository.py
+END
+software.ui
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/uludag/!svn/ver/33452/trunk/playground/beyza.ermis/ahenk/lider/lider/plugins/plugin_software/software.ui
+END
+main.py
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/uludag/!svn/ver/33452/trunk/playground/beyza.ermis/ahenk/lider/lider/plugins/plugin_software/main.py
+END
+repository.ui
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/uludag/!svn/ver/33452/trunk/playground/beyza.ermis/ahenk/lider/lider/plugins/plugin_software/repository.ui
+END
+software.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/uludag/!svn/ver/33452/trunk/playground/beyza.ermis/ahenk/lider/lider/plugins/plugin_software/software.qrc
+END

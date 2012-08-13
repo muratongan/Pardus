@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/uludag/!svn/ver/24507/trunk/bugzilla/3.2/tr/default/admin/params
+END
+auth.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/24507/trunk/bugzilla/3.2/tr/default/admin/params/auth.html.tmpl
+END
+bugmove.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/21808/trunk/bugzilla/3.2/tr/default/admin/params/bugmove.html.tmpl
+END
+bugfields.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/21572/trunk/bugzilla/3.2/tr/default/admin/params/bugfields.html.tmpl
+END
+query.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/21905/trunk/bugzilla/3.2/tr/default/admin/params/query.html.tmpl
+END
+index.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/21905/trunk/bugzilla/3.2/tr/default/admin/params/index.html.tmpl
+END
+ldap.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/21905/trunk/bugzilla/3.2/tr/default/admin/params/ldap.html.tmpl
+END
+patchviewer.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/21905/trunk/bugzilla/3.2/tr/default/admin/params/patchviewer.html.tmpl
+END
+mta.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/22137/trunk/bugzilla/3.2/tr/default/admin/params/mta.html.tmpl
+END
+bugchange.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/21698/trunk/bugzilla/3.2/tr/default/admin/params/bugchange.html.tmpl
+END
+groupsecurity.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/uludag/!svn/ver/21905/trunk/bugzilla/3.2/tr/default/admin/params/groupsecurity.html.tmpl
+END
+radius.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/22141/trunk/bugzilla/3.2/tr/default/admin/params/radius.html.tmpl
+END
+core.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/21808/trunk/bugzilla/3.2/tr/default/admin/params/core.html.tmpl
+END
+common.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/21808/trunk/bugzilla/3.2/tr/default/admin/params/common.html.tmpl
+END
+attachment.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/uludag/!svn/ver/21698/trunk/bugzilla/3.2/tr/default/admin/params/attachment.html.tmpl
+END
+admin.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/21698/trunk/bugzilla/3.2/tr/default/admin/params/admin.html.tmpl
+END
+editparams.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/uludag/!svn/ver/21821/trunk/bugzilla/3.2/tr/default/admin/params/editparams.html.tmpl
+END
+shadowdb.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/21905/trunk/bugzilla/3.2/tr/default/admin/params/shadowdb.html.tmpl
+END
+usermatch.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/24507/trunk/bugzilla/3.2/tr/default/admin/params/usermatch.html.tmpl
+END
+dependencygraph.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/uludag/!svn/ver/21821/trunk/bugzilla/3.2/tr/default/admin/params/dependencygraph.html.tmpl
+END

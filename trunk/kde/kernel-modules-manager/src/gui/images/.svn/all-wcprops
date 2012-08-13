@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/uludag/!svn/ver/26099/trunk/kde/kernel-modules-manager/src/gui/images
+END
+program-icon.png
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/26099/trunk/kde/kernel-modules-manager/src/gui/images/program-icon.png
+END
+remove.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/26099/trunk/kde/kernel-modules-manager/src/gui/images/remove.png
+END
+load.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/26099/trunk/kde/kernel-modules-manager/src/gui/images/load.png
+END
+removeautoload.png
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/uludag/!svn/ver/26099/trunk/kde/kernel-modules-manager/src/gui/images/removeautoload.png
+END
+removeblacklist.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/uludag/!svn/ver/26099/trunk/kde/kernel-modules-manager/src/gui/images/removeblacklist.png
+END
+autoload.png
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/26099/trunk/kde/kernel-modules-manager/src/gui/images/autoload.png
+END
+blacklist.png
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/26099/trunk/kde/kernel-modules-manager/src/gui/images/blacklist.png
+END
+moduleedit.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/26099/trunk/kde/kernel-modules-manager/src/gui/images/moduleedit.png
+END

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/uludag/!svn/ver/26950/trunk/bugzilla/3.4/en/default/bug
+END
+summarize-time.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/25353/trunk/bugzilla/3.4/en/default/bug/summarize-time.html.tmpl
+END
+show-multiple.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/25353/trunk/bugzilla/3.4/en/default/bug/show-multiple.html.tmpl
+END
+dependency-tree.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/25353/trunk/bugzilla/3.4/en/default/bug/dependency-tree.html.tmpl
+END
+show.xml.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/uludag/!svn/ver/26950/trunk/bugzilla/3.4/en/default/bug/show.xml.tmpl
+END
+dependency-graph.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/25353/trunk/bugzilla/3.4/en/default/bug/dependency-graph.html.tmpl
+END
+show.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/uludag/!svn/ver/26950/trunk/bugzilla/3.4/en/default/bug/show.html.tmpl
+END
+choose.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/uludag/!svn/ver/25353/trunk/bugzilla/3.4/en/default/bug/choose.html.tmpl
+END
+field.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/uludag/!svn/ver/25353/trunk/bugzilla/3.4/en/default/bug/field.html.tmpl
+END
+format_comment.txt.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/26950/trunk/bugzilla/3.4/en/default/bug/format_comment.txt.tmpl
+END
+edit.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/uludag/!svn/ver/26950/trunk/bugzilla/3.4/en/default/bug/edit.html.tmpl
+END
+comments.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/uludag/!svn/ver/25673/trunk/bugzilla/3.4/en/default/bug/comments.html.tmpl
+END
+knob.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/uludag/!svn/ver/25353/trunk/bugzilla/3.4/en/default/bug/knob.html.tmpl
+END
+field-events.js.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uludag/!svn/ver/25353/trunk/bugzilla/3.4/en/default/bug/field-events.js.tmpl
+END
+time.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/uludag/!svn/ver/25353/trunk/bugzilla/3.4/en/default/bug/time.html.tmpl
+END
+navigate.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/uludag/!svn/ver/25353/trunk/bugzilla/3.4/en/default/bug/navigate.html.tmpl
+END

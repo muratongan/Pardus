@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/uludag/!svn/ver/38309/trunk/ahenk/lider/lider/helpers
+END
+talk.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/38309/trunk/ahenk/lider/lider/helpers/talk.py
+END
+profilewriter.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/uludag/!svn/ver/38309/trunk/ahenk/lider/lider/helpers/profilewriter.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/38309/trunk/ahenk/lider/lider/helpers/__init__.py
+END
+i18n.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/38309/trunk/ahenk/lider/lider/helpers/i18n.py
+END
+profile.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/uludag/!svn/ver/38309/trunk/ahenk/lider/lider/helpers/profile.py
+END
+plugins.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/uludag/!svn/ver/38309/trunk/ahenk/lider/lider/helpers/plugins.py
+END
+profilereader.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/uludag/!svn/ver/38309/trunk/ahenk/lider/lider/helpers/profilereader.py
+END
+wrappers.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/38309/trunk/ahenk/lider/lider/helpers/wrappers.py
+END
+directory.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/uludag/!svn/ver/38309/trunk/ahenk/lider/lider/helpers/directory.py
+END
+decorators.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/uludag/!svn/ver/38309/trunk/ahenk/lider/lider/helpers/decorators.py
+END

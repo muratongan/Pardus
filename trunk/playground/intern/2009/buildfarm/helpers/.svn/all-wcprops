@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/buildfarm/helpers
+END
+mailer.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/buildfarm/helpers/mailer.py
+END
+qmanager.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/buildfarm/helpers/qmanager.py
+END
+dependency.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/buildfarm/helpers/dependency.py
+END
+templates.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/buildfarm/helpers/templates.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/buildfarm/helpers/__init__.py
+END
+logger.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/buildfarm/helpers/logger.py
+END
+repomanager.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/buildfarm/helpers/repomanager.py
+END
+operations.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/buildfarm/helpers/operations.py
+END
+pisiinterface.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/buildfarm/helpers/pisiinterface.py
+END

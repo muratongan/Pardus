@@ -1,0 +1,9 @@
+K 14
+svn:executable
+V 1
+*
+K 13
+svn:mergeinfo
+V 75
+/trunk/playground/gokhan.ozbulak/scripts/package-diff-notify.py:34429-35198
+END

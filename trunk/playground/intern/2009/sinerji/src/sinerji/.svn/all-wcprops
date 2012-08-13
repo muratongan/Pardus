@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/sinerji/src/sinerji
+END
+disconnect.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/sinerji/src/sinerji/disconnect.py
+END
+createsynergyconf.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/sinerji/src/sinerji/createsynergyconf.py
+END
+avahiservices.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/sinerji/src/sinerji/avahiservices.py
+END
+sinerji
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/sinerji/src/sinerji/sinerji
+END
+sinerjigui.ui
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/sinerji/src/sinerji/sinerjigui.ui
+END
+disconnect.ui
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/sinerji/src/sinerji/disconnect.ui
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/sinerji/src/sinerji/__init__.py
+END
+notifier.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/sinerji/src/sinerji/notifier.py
+END
+qrc_resources.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/sinerji/src/sinerji/qrc_resources.py
+END
+parsesynergyconf.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/sinerji/src/sinerji/parsesynergyconf.py
+END
+sinerji.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/sinerji/src/sinerji/sinerji.py
+END
+ui_sinerjigui.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/sinerji/src/sinerji/ui_sinerjigui.py
+END
+ui_disconnect.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/sinerji/src/sinerji/ui_disconnect.py
+END
+resources.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/sinerji/src/sinerji/resources.qrc
+END

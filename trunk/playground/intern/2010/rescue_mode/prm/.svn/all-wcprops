@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/uludag/!svn/ver/37512/trunk/playground/intern/2010/rescue_mode/prm
+END
+bootloader_tools.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/37512/trunk/playground/intern/2010/rescue_mode/prm/bootloader_tools.py
+END
+disk_tools.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/37512/trunk/playground/intern/2010/rescue_mode/prm/disk_tools.py
+END
+rescue_mode.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/37512/trunk/playground/intern/2010/rescue_mode/prm/rescue_mode.py
+END
+dbus_tools.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/37512/trunk/playground/intern/2010/rescue_mode/prm/dbus_tools.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/37512/trunk/playground/intern/2010/rescue_mode/prm/__init__.py
+END
+gui_tools.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/37512/trunk/playground/intern/2010/rescue_mode/prm/gui_tools.py
+END
+shell_tools.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/37512/trunk/playground/intern/2010/rescue_mode/prm/shell_tools.py
+END

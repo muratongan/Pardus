@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/uludag/!svn/ver/31547/trunk/zorg
+END
+zorg-loadmodule
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/uludag/!svn/ver/23107/trunk/zorg/zorg-loadmodule
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/uludag/!svn/ver/23107/trunk/zorg/AUTHORS
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/uludag/!svn/ver/23107/trunk/zorg/TODO
+END
+zorg-cli
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/uludag/!svn/ver/31547/trunk/zorg/zorg-cli
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/uludag/!svn/ver/28002/trunk/zorg/ChangeLog
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/uludag/!svn/ver/23107/trunk/zorg/setup.py
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/uludag/!svn/ver/23107/trunk/zorg/COPYING
+END
+MANIFEST.in
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/uludag/!svn/ver/23107/trunk/zorg/MANIFEST.in
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/uludag/!svn/ver/23107/trunk/zorg/README
+END
+inf2mondb
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/uludag/!svn/ver/23107/trunk/zorg/inf2mondb
+END

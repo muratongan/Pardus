@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/26096/trunk/playground/gsoc/bug-reporting-tool/bugtool/src/gui/widgets
+END
+progressWidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/uludag/!svn/ver/26096/trunk/playground/gsoc/bug-reporting-tool/bugtool/src/gui/widgets/progressWidget.ui
+END
+goodbyeWidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/uludag/!svn/ver/26096/trunk/playground/gsoc/bug-reporting-tool/bugtool/src/gui/widgets/goodbyeWidget.ui
+END
+attachmentsWidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/uludag/!svn/ver/26096/trunk/playground/gsoc/bug-reporting-tool/bugtool/src/gui/widgets/attachmentsWidget.ui
+END
+welcomeWidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/uludag/!svn/ver/26096/trunk/playground/gsoc/bug-reporting-tool/bugtool/src/gui/widgets/welcomeWidget.ui
+END
+bugtoolMain.ui
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/uludag/!svn/ver/26096/trunk/playground/gsoc/bug-reporting-tool/bugtool/src/gui/widgets/bugtoolMain.ui
+END
+credentialsWidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/uludag/!svn/ver/26096/trunk/playground/gsoc/bug-reporting-tool/bugtool/src/gui/widgets/credentialsWidget.ui
+END

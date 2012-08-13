@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/22532/trunk/security_pardus/django/contrib/admin/templates/widget
+END
+file.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/uludag/!svn/ver/22532/trunk/security_pardus/django/contrib/admin/templates/widget/file.html
+END
+default.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/uludag/!svn/ver/22532/trunk/security_pardus/django/contrib/admin/templates/widget/default.html
+END
+one_to_one.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/uludag/!svn/ver/22532/trunk/security_pardus/django/contrib/admin/templates/widget/one_to_one.html
+END
+foreign.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/uludag/!svn/ver/22532/trunk/security_pardus/django/contrib/admin/templates/widget/foreign.html
+END
+many_to_many.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/uludag/!svn/ver/22532/trunk/security_pardus/django/contrib/admin/templates/widget/many_to_many.html
+END
+date_time.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/uludag/!svn/ver/22532/trunk/security_pardus/django/contrib/admin/templates/widget/date_time.html
+END

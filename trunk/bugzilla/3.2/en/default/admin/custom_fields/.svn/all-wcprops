@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/uludag/!svn/ver/21334/trunk/bugzilla/3.2/en/default/admin/custom_fields
+END
+create.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/uludag/!svn/ver/21334/trunk/bugzilla/3.2/en/default/admin/custom_fields/create.html.tmpl
+END
+edit.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/21334/trunk/bugzilla/3.2/en/default/admin/custom_fields/edit.html.tmpl
+END
+list.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/21334/trunk/bugzilla/3.2/en/default/admin/custom_fields/list.html.tmpl
+END
+confirm-delete.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/uludag/!svn/ver/21334/trunk/bugzilla/3.2/en/default/admin/custom_fields/confirm-delete.html.tmpl
+END

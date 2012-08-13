@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/noan/noan/middleware
+END
+qcount.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/noan/noan/middleware/qcount.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/noan/noan/middleware/__init__.py
+END
+threadlocals.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/noan/noan/middleware/threadlocals.py
+END

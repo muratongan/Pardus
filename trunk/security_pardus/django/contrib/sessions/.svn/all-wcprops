@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/uludag/!svn/ver/22532/trunk/security_pardus/django/contrib/sessions
+END
+middleware.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/22532/trunk/security_pardus/django/contrib/sessions/middleware.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/22532/trunk/security_pardus/django/contrib/sessions/__init__.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/22532/trunk/security_pardus/django/contrib/sessions/models.py
+END

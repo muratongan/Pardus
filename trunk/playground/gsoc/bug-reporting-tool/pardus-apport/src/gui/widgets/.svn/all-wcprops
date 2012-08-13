@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/uludag/!svn/ver/26096/trunk/playground/gsoc/bug-reporting-tool/pardus-apport/src/gui/widgets
+END
+messageWidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/uludag/!svn/ver/26096/trunk/playground/gsoc/bug-reporting-tool/pardus-apport/src/gui/widgets/messageWidget.ui
+END
+progressWidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/uludag/!svn/ver/26096/trunk/playground/gsoc/bug-reporting-tool/pardus-apport/src/gui/widgets/progressWidget.ui
+END
+userpassWidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/uludag/!svn/ver/26096/trunk/playground/gsoc/bug-reporting-tool/pardus-apport/src/gui/widgets/userpassWidget.ui
+END
+errorWidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/uludag/!svn/ver/26096/trunk/playground/gsoc/bug-reporting-tool/pardus-apport/src/gui/widgets/errorWidget.ui
+END
+reportWidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/uludag/!svn/ver/26096/trunk/playground/gsoc/bug-reporting-tool/pardus-apport/src/gui/widgets/reportWidget.ui
+END
+bugtoolMain.ui
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/uludag/!svn/ver/26096/trunk/playground/gsoc/bug-reporting-tool/pardus-apport/src/gui/widgets/bugtoolMain.ui
+END
+choicesWidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/uludag/!svn/ver/26096/trunk/playground/gsoc/bug-reporting-tool/pardus-apport/src/gui/widgets/choicesWidget.ui
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/uludag/!svn/ver/31290/trunk/playground/gsoc/install2live/conf_files
+END
+fstab
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/uludag/!svn/ver/31290/trunk/playground/gsoc/install2live/conf_files/fstab
+END
+kdmrc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/uludag/!svn/ver/31290/trunk/playground/gsoc/install2live/conf_files/kdmrc
+END
+inittab
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/uludag/!svn/ver/31290/trunk/playground/gsoc/install2live/conf_files/inittab
+END
+PolicyKit.conf
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/31290/trunk/playground/gsoc/install2live/conf_files/PolicyKit.conf
+END

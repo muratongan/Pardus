@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/uludag/!svn/ver/32704/trunk/pisi/scripts/package-signing
+END
+pisign.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/uludag/!svn/ver/32704/trunk/pisi/scripts/package-signing/pisign.py
+END
+pisi-key.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/uludag/!svn/ver/28601/trunk/pisi/scripts/package-signing/pisi-key.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/uludag/!svn/ver/32704/trunk/pisi/scripts/package-signing/README
+END

@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/uludag/!svn/ver/31537/trunk/playground/gsoc/yali-live/yali4
+END
+_sysutils.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/uludag/!svn/ver/30261/trunk/playground/gsoc/yali-live/yali4/_sysutils.c
+END
+localedata.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/uludag/!svn/ver/30261/trunk/playground/gsoc/yali-live/yali4/localedata.py
+END
+bootloader.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/uludag/!svn/ver/30262/trunk/playground/gsoc/yali-live/yali4/bootloader.py
+END
+options.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/uludag/!svn/ver/30261/trunk/playground/gsoc/yali-live/yali4/options.py
+END
+pisiiface.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/uludag/!svn/ver/31424/trunk/playground/gsoc/yali-live/yali4/pisiiface.py
+END
+kahya.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/uludag/!svn/ver/30261/trunk/playground/gsoc/yali-live/yali4/kahya.py
+END
+installer.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/uludag/!svn/ver/31537/trunk/playground/gsoc/yali-live/yali4/installer.py
+END
+exception.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/uludag/!svn/ver/30261/trunk/playground/gsoc/yali-live/yali4/exception.py
+END
+fstab.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/uludag/!svn/ver/30261/trunk/playground/gsoc/yali-live/yali4/fstab.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/uludag/!svn/ver/30261/trunk/playground/gsoc/yali-live/yali4/__init__.py
+END
+sysutils.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/uludag/!svn/ver/30261/trunk/playground/gsoc/yali-live/yali4/sysutils.py
+END
+users.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/uludag/!svn/ver/30261/trunk/playground/gsoc/yali-live/yali4/users.py
+END
+storage.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/uludag/!svn/ver/30261/trunk/playground/gsoc/yali-live/yali4/storage.py
+END
+data.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/uludag/!svn/ver/30261/trunk/playground/gsoc/yali-live/yali4/data.qrc
+END
+_rootcopy.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/uludag/!svn/ver/31323/trunk/playground/gsoc/yali-live/yali4/_rootcopy.c
+END
+parteddata.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/uludag/!svn/ver/30261/trunk/playground/gsoc/yali-live/yali4/parteddata.py
+END
+partition.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/uludag/!svn/ver/30261/trunk/playground/gsoc/yali-live/yali4/partition.py
+END
+partitiontype.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uludag/!svn/ver/30261/trunk/playground/gsoc/yali-live/yali4/partitiontype.py
+END
+constants.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/uludag/!svn/ver/31424/trunk/playground/gsoc/yali-live/yali4/constants.py
+END
+postinstall.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/uludag/!svn/ver/31424/trunk/playground/gsoc/yali-live/yali4/postinstall.py
+END
+localeutils.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/uludag/!svn/ver/30261/trunk/playground/gsoc/yali-live/yali4/localeutils.py
+END
+yalireadpiks.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/uludag/!svn/ver/30261/trunk/playground/gsoc/yali-live/yali4/yalireadpiks.py
+END
+partitionrequest.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/30261/trunk/playground/gsoc/yali-live/yali4/partitionrequest.py
+END
+filesystem.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/uludag/!svn/ver/30261/trunk/playground/gsoc/yali-live/yali4/filesystem.py
+END

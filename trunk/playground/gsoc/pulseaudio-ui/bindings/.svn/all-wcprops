@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pulseaudio-ui/bindings
+END
+sinkmanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pulseaudio-ui/bindings/sinkmanager.cpp
+END
+device.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pulseaudio-ui/bindings/device.cpp
+END
+source.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pulseaudio-ui/bindings/source.cpp
+END
+sourcemanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pulseaudio-ui/bindings/sourcemanager.h
+END
+stream.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pulseaudio-ui/bindings/stream.h
+END
+sinkmanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pulseaudio-ui/bindings/sinkmanager.h
+END
+sink.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pulseaudio-ui/bindings/sink.cpp
+END
+device.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pulseaudio-ui/bindings/device.h
+END
+source.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pulseaudio-ui/bindings/source.h
+END
+sinput_p.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pulseaudio-ui/bindings/sinput_p.h
+END
+context_p.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pulseaudio-ui/bindings/context_p.h
+END
+sink.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pulseaudio-ui/bindings/sink.h
+END
+streammanager_p.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pulseaudio-ui/bindings/streammanager_p.h
+END
+sinputmanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pulseaudio-ui/bindings/sinputmanager.cpp
+END
+stream_p.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pulseaudio-ui/bindings/stream_p.h
+END
+sinput.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pulseaudio-ui/bindings/sinput.cpp
+END
+sinputmanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pulseaudio-ui/bindings/sinputmanager.h
+END
+device_p.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pulseaudio-ui/bindings/device_p.h
+END
+context.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pulseaudio-ui/bindings/context.cpp
+END
+source_p.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pulseaudio-ui/bindings/source_p.h
+END
+streammanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pulseaudio-ui/bindings/streammanager.cpp
+END
+sinput.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pulseaudio-ui/bindings/sinput.h
+END
+sink_p.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pulseaudio-ui/bindings/sink_p.h
+END
+context.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pulseaudio-ui/bindings/context.h
+END
+sourcemanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pulseaudio-ui/bindings/sourcemanager.cpp
+END
+stream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pulseaudio-ui/bindings/stream.cpp
+END
+streammanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pulseaudio-ui/bindings/streammanager.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pulseaudio-ui/bindings/CMakeLists.txt
+END

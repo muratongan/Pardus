@@ -1,0 +1,257 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/uludag/!svn/ver/36991/trunk/yali/yali/gui/Ui
+END
+autopartwidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/uludag/!svn/ver/36991/trunk/yali/yali/gui/Ui/autopartwidget.ui
+END
+keyboardwidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/uludag/!svn/ver/34405/trunk/yali/yali/gui/Ui/keyboardwidget.ui
+END
+manualpartwidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/uludag/!svn/ver/35189/trunk/yali/yali/gui/Ui/manualpartwidget.ui
+END
+partition.ui
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/uludag/!svn/ver/35953/trunk/yali/yali/gui/Ui/partition.ui
+END
+diskItem.ui
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/uludag/!svn/ver/34405/trunk/yali/yali/gui/Ui/diskItem.ui
+END
+installwidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/35247/trunk/yali/yali/gui/Ui/installwidget.ui
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/uludag/!svn/ver/31067/trunk/yali/yali/gui/Ui/__init__.py
+END
+collectionitem.ui
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/uludag/!svn/ver/36333/trunk/yali/yali/gui/Ui/collectionitem.ui
+END
+rescuegrubwidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/uludag/!svn/ver/34405/trunk/yali/yali/gui/Ui/rescuegrubwidget.ui
+END
+rootpasswidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/uludag/!svn/ver/34405/trunk/yali/yali/gui/Ui/rootpasswidget.ui
+END
+rescuepisiwidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/uludag/!svn/ver/36825/trunk/yali/yali/gui/Ui/rescuepisiwidget.ui
+END
+license.ui
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/uludag/!svn/ver/35195/trunk/yali/yali/gui/Ui/license.ui
+END
+collectionswidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/36333/trunk/yali/yali/gui/Ui/collectionswidget.ui
+END
+volumegroup.ui
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/uludag/!svn/ver/35189/trunk/yali/yali/gui/Ui/volumegroup.ui
+END
+autopartquestion.ui
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/uludag/!svn/ver/34405/trunk/yali/yali/gui/Ui/autopartquestion.ui
+END
+partitionshrink.ui
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/uludag/!svn/ver/35189/trunk/yali/yali/gui/Ui/partitionshrink.ui
+END
+analogclock.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/uludag/!svn/ver/30613/trunk/yali/yali/gui/Ui/analogclock.py
+END
+bg.ui
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/uludag/!svn/ver/34405/trunk/yali/yali/gui/Ui/bg.ui
+END
+checkcdwidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/36990/trunk/yali/yali/gui/Ui/checkcdwidget.ui
+END
+rescuewidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/uludag/!svn/ver/36825/trunk/yali/yali/gui/Ui/rescuewidget.ui
+END
+installprogress.ui
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/uludag/!svn/ver/35133/trunk/yali/yali/gui/Ui/installprogress.ui
+END
+connectionlist.ui
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/uludag/!svn/ver/34405/trunk/yali/yali/gui/Ui/connectionlist.ui
+END
+partitionshrinkwidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/uludag/!svn/ver/35189/trunk/yali/yali/gui/Ui/partitionshrinkwidget.ui
+END
+bootloaderwidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/uludag/!svn/ver/34405/trunk/yali/yali/gui/Ui/bootloaderwidget.ui
+END
+exception.ui
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/uludag/!svn/ver/35001/trunk/yali/yali/gui/Ui/exception.ui
+END
+dialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/uludag/!svn/ver/30613/trunk/yali/yali/gui/Ui/dialog.ui
+END
+partedit.ui
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/uludag/!svn/ver/35189/trunk/yali/yali/gui/Ui/partedit.ui
+END
+kickerwidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/uludag/!svn/ver/34405/trunk/yali/yali/gui/Ui/kickerwidget.ui
+END
+rescuepasswordwidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/uludag/!svn/ver/36825/trunk/yali/yali/gui/Ui/rescuepasswordwidget.ui
+END
+partitionedit.ui
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/34413/trunk/yali/yali/gui/Ui/partitionedit.ui
+END
+raid.ui
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/uludag/!svn/ver/35189/trunk/yali/yali/gui/Ui/raid.ui
+END
+driveselectionwidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/uludag/!svn/ver/34405/trunk/yali/yali/gui/Ui/driveselectionwidget.ui
+END
+main.ui
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/uludag/!svn/ver/35989/trunk/yali/yali/gui/Ui/main.ui
+END
+setupuserswidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/uludag/!svn/ver/34405/trunk/yali/yali/gui/Ui/setupuserswidget.ui
+END
+createdevicewidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/uludag/!svn/ver/34405/trunk/yali/yali/gui/Ui/createdevicewidget.ui
+END
+partresize.ui
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/uludag/!svn/ver/33900/trunk/yali/yali/gui/Ui/partresize.ui
+END
+help.ui
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/uludag/!svn/ver/34405/trunk/yali/yali/gui/Ui/help.ui
+END
+welcome.ui
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/uludag/!svn/ver/34405/trunk/yali/yali/gui/Ui/welcome.ui
+END
+goodbyewidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/34405/trunk/yali/yali/gui/Ui/goodbyewidget.ui
+END
+datetimewidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/uludag/!svn/ver/34530/trunk/yali/yali/gui/Ui/datetimewidget.ui
+END
+summarywidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/35690/trunk/yali/yali/gui/Ui/summarywidget.ui
+END
+logicalvolume.ui
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/35953/trunk/yali/yali/gui/Ui/logicalvolume.ui
+END

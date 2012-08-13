@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/uludag/!svn/ver/26100/trunk/kde/PolicyKit-kde3/dbus-qt3-backport
+END
+qdbusconnection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/26100/trunk/kde/PolicyKit-kde3/dbus-qt3-backport/qdbusconnection.cpp
+END
+qdbusdataconverter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/uludag/!svn/ver/26100/trunk/kde/PolicyKit-kde3/dbus-qt3-backport/qdbusdataconverter.cpp
+END
+qdbusmarshall.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/26100/trunk/kde/PolicyKit-kde3/dbus-qt3-backport/qdbusmarshall.cpp
+END
+qdbusdatalist.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/26100/trunk/kde/PolicyKit-kde3/dbus-qt3-backport/qdbusdatalist.cpp
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/uludag/!svn/ver/26100/trunk/kde/PolicyKit-kde3/dbus-qt3-backport/AUTHORS
+END
+qdbusserver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/26100/trunk/kde/PolicyKit-kde3/dbus-qt3-backport/qdbusserver.cpp
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/uludag/!svn/ver/26100/trunk/kde/PolicyKit-kde3/dbus-qt3-backport/ChangeLog
+END
+qdbusmarshall.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/26100/trunk/kde/PolicyKit-kde3/dbus-qt3-backport/qdbusmarshall.h
+END
+qdbusmessage_p.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/26100/trunk/kde/PolicyKit-kde3/dbus-qt3-backport/qdbusmessage_p.h
+END
+qdbusdata.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/26100/trunk/kde/PolicyKit-kde3/dbus-qt3-backport/qdbusdata.cpp
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/uludag/!svn/ver/26100/trunk/kde/PolicyKit-kde3/dbus-qt3-backport/README
+END
+qdbusintegrator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/26100/trunk/kde/PolicyKit-kde3/dbus-qt3-backport/qdbusintegrator.cpp
+END
+qdbusatomic.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/26100/trunk/kde/PolicyKit-kde3/dbus-qt3-backport/qdbusatomic.h
+END
+qdbusproxy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/26100/trunk/kde/PolicyKit-kde3/dbus-qt3-backport/qdbusproxy.cpp
+END
+qdbusobjectpath.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/26100/trunk/kde/PolicyKit-kde3/dbus-qt3-backport/qdbusobjectpath.cpp
+END
+qdbusconnection_p.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/26100/trunk/kde/PolicyKit-kde3/dbus-qt3-backport/qdbusconnection_p.h
+END
+qdbusmessage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/26100/trunk/kde/PolicyKit-kde3/dbus-qt3-backport/qdbusmessage.cpp
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/uludag/!svn/ver/26100/trunk/kde/PolicyKit-kde3/dbus-qt3-backport/TODO
+END
+qdbuserror.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/26100/trunk/kde/PolicyKit-kde3/dbus-qt3-backport/qdbuserror.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/26100/trunk/kde/PolicyKit-kde3/dbus-qt3-backport/CMakeLists.txt
+END

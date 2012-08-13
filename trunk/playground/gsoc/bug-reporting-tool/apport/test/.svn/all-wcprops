@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/uludag/!svn/ver/26096/trunk/playground/gsoc/bug-reporting-tool/apport/test
+END
+crash-digger
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/uludag/!svn/ver/26096/trunk/playground/gsoc/bug-reporting-tool/apport/test/crash-digger
+END
+crash
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/26096/trunk/playground/gsoc/bug-reporting-tool/apport/test/crash
+END
+hooks
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/26096/trunk/playground/gsoc/bug-reporting-tool/apport/test/hooks
+END
+run
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/26096/trunk/playground/gsoc/bug-reporting-tool/apport/test/run
+END

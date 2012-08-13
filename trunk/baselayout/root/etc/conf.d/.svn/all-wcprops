@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/uludag/!svn/ver/31576/trunk/baselayout/root/etc/conf.d
+END
+local.start
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/uludag/!svn/ver/31576/trunk/baselayout/root/etc/conf.d/local.start
+END
+local.stop
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/31576/trunk/baselayout/root/etc/conf.d/local.stop
+END

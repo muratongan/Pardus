@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/38345/trunk/playground/intern/2011/pisi-optimization/pisi/pisi
+END
+comariface.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/pisi/comariface.py
+END
+specfile.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/pisi/specfile.py
+END
+package.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/pisi/package.py
+END
+group.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/pisi/group.py
+END
+mirrors.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/pisi/mirrors.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/pisi/__init__.py
+END
+history.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/pisi/history.py
+END
+files.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/pisi/files.py
+END
+config.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/pisi/config.py
+END
+index.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/pisi/index.py
+END
+api.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/pisi/api.py
+END
+signalhandler.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/pisi/signalhandler.py
+END
+util.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/pisi/util.py
+END
+ui.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/pisi/ui.py
+END
+relation.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/pisi/relation.py
+END
+oo.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/pisi/oo.py
+END
+dependency.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/pisi/dependency.py
+END
+metadata.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/pisi/metadata.py
+END
+atomicoperations.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/pisi/atomicoperations.py
+END
+pgraph.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/pisi/pgraph.py
+END
+context.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/pisi/context.py
+END
+uri.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/pisi/uri.py
+END
+graph.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/pisi/graph.py
+END
+conflict.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/pisi/conflict.py
+END
+component.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/pisi/component.py
+END
+sourcearchive.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/pisi/sourcearchive.py
+END
+configfile.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/pisi/configfile.py
+END
+blacklist.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/pisi/blacklist.py
+END
+replace.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/pisi/replace.py
+END
+constants.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/pisi/constants.py
+END
+errors.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/pisi/errors.py
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/pisi/.gitignore
+END
+file.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/pisi/file.py
+END
+fetcher.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/pisi/fetcher.py
+END
+archive.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/pisi/archive.py
+END
+version.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/pisi/version.py
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/uludag/!svn/ver/38251/trunk/kde/pardusman/repotools
+END
+selections.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/36279/trunk/kde/pardusman/repotools/selections.py
+END
+packages.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/uludag/!svn/ver/36319/trunk/kde/pardusman/repotools/packages.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/uludag/!svn/ver/26099/trunk/kde/pardusman/repotools/__init__.py
+END
+maker.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/uludag/!svn/ver/38251/trunk/kde/pardusman/repotools/maker.py
+END
+utility.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/uludag/!svn/ver/26099/trunk/kde/pardusman/repotools/utility.py
+END
+project.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/uludag/!svn/ver/36784/trunk/kde/pardusman/repotools/project.py
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/uludag/!svn/ver/38490/trunk/ahenk/lider/lider/plugins/plugin_authentication
+END
+authentication.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/uludag/!svn/ver/38309/trunk/ahenk/lider/lider/plugins/plugin_authentication/authentication.qrc
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/uludag/!svn/ver/38309/trunk/ahenk/lider/lider/plugins/plugin_authentication/__init__.py
+END
+authentication.ui
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/uludag/!svn/ver/38309/trunk/ahenk/lider/lider/plugins/plugin_authentication/authentication.ui
+END
+main.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/38490/trunk/ahenk/lider/lider/plugins/plugin_authentication/main.py
+END

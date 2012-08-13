@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/uludag/!svn/ver/6631/trunk/bugzilla/2.18.3/tr/default/account/email
+END
+change-new.txt.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/uludag/!svn/ver/6631/trunk/bugzilla/2.18.3/tr/default/account/email/change-new.txt.tmpl
+END
+change-old.txt.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/uludag/!svn/ver/6631/trunk/bugzilla/2.18.3/tr/default/account/email/change-old.txt.tmpl
+END
+confirm.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/uludag/!svn/ver/6631/trunk/bugzilla/2.18.3/tr/default/account/email/confirm.html.tmpl
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/uludag/!svn/ver/6631/trunk/bugzilla/2.18.3/tr/default/account/auth
+END
+ldap-error.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/uludag/!svn/ver/6631/trunk/bugzilla/2.18.3/tr/default/account/auth/ldap-error.html.tmpl
+END
+login.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/6631/trunk/bugzilla/2.18.3/tr/default/account/auth/login.html.tmpl
+END

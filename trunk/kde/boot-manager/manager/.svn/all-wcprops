@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/uludag/!svn/ver/38421/trunk/kde/boot-manager/manager
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/uludag/!svn/ver/34065/trunk/kde/boot-manager/manager/TODO
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/uludag/!svn/ver/35136/trunk/kde/boot-manager/manager/ChangeLog
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/36604/trunk/kde/boot-manager/manager/setup.py
+END
+MANIFEST.in
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/uludag/!svn/ver/33633/trunk/kde/boot-manager/manager/MANIFEST.in
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/uludag/!svn/ver/31898/trunk/kde/boot-manager/manager/README
+END

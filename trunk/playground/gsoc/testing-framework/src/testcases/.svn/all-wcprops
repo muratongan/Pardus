@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/uludag/!svn/ver/36361/trunk/playground/gsoc/testing-framework/src/testcases
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/uludag/!svn/ver/30436/trunk/playground/gsoc/testing-framework/src/testcases/__init__.py
+END
+interface.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/uludag/!svn/ver/31457/trunk/playground/gsoc/testing-framework/src/testcases/interface.py
+END
+ui_main.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/36259/trunk/playground/gsoc/testing-framework/src/testcases/ui_main.py
+END
+reportgenerator.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/uludag/!svn/ver/31453/trunk/playground/gsoc/testing-framework/src/testcases/reportgenerator.py
+END
+testautomated.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/uludag/!svn/ver/32085/trunk/playground/gsoc/testing-framework/src/testcases/testautomated.py
+END
+testgui.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/32085/trunk/playground/gsoc/testing-framework/src/testcases/testgui.py
+END
+testinstall.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/uludag/!svn/ver/36361/trunk/playground/gsoc/testing-framework/src/testcases/testinstall.py
+END
+testshell.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/uludag/!svn/ver/32085/trunk/playground/gsoc/testing-framework/src/testcases/testshell.py
+END

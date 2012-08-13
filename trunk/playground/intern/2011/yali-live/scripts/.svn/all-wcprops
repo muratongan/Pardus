@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/uludag/!svn/ver/37557/trunk/playground/intern/2011/yali-live/scripts
+END
+convert
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/scripts/convert
+END
+po-stat.sh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/scripts/po-stat.sh
+END
+yali.lint
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/scripts/yali.lint
+END
+show_screen.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/37557/trunk/playground/intern/2011/yali-live/scripts/show_screen.py
+END
+update-po.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/scripts/update-po.sh
+END
+pylint.sh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/scripts/pylint.sh
+END
+bindYali
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/scripts/bindYali
+END
+release-xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/scripts/release-xml
+END

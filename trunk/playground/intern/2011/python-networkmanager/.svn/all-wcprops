@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/uludag/!svn/ver/37835/trunk/playground/intern/2011/python-networkmanager
+END
+nm-util
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/37514/trunk/playground/intern/2011/python-networkmanager/nm-util
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/37827/trunk/playground/intern/2011/python-networkmanager/setup.py
+END
+update-po.sh
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/uludag/!svn/ver/37827/trunk/playground/intern/2011/python-networkmanager/update-po.sh
+END
+network
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/37835/trunk/playground/intern/2011/python-networkmanager/network
+END
+PKG-INFO
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/37514/trunk/playground/intern/2011/python-networkmanager/PKG-INFO
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/37514/trunk/playground/intern/2011/python-networkmanager/README
+END

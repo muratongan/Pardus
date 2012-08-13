@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uludag/!svn/ver/33452/trunk/playground/beyza.ermis/ahenk/lider/lider/helpers
+END
+talk.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/33452/trunk/playground/beyza.ermis/ahenk/lider/lider/helpers/talk.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/uludag/!svn/ver/33452/trunk/playground/beyza.ermis/ahenk/lider/lider/helpers/__init__.py
+END
+profile.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/uludag/!svn/ver/33452/trunk/playground/beyza.ermis/ahenk/lider/lider/helpers/profile.py
+END
+plugins.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/uludag/!svn/ver/33452/trunk/playground/beyza.ermis/ahenk/lider/lider/helpers/plugins.py
+END
+wrappers.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/uludag/!svn/ver/33452/trunk/playground/beyza.ermis/ahenk/lider/lider/helpers/wrappers.py
+END
+directory.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/uludag/!svn/ver/33452/trunk/playground/beyza.ermis/ahenk/lider/lider/helpers/directory.py
+END
+decorators.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/uludag/!svn/ver/33452/trunk/playground/beyza.ermis/ahenk/lider/lider/helpers/decorators.py
+END

@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/uludag/!svn/ver/29385/trunk/kde/kded_kosd/knotify
+END
+knotify4.desktop
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/uludag/!svn/ver/29370/trunk/kde/kded_kosd/knotify/knotify4.desktop
+END
+Messages.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/29370/trunk/kde/kded_kosd/knotify/Messages.sh
+END
+knotifyplugin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/uludag/!svn/ver/29370/trunk/kde/kded_kosd/knotify/knotifyplugin.cpp
+END
+notifybylogfile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/uludag/!svn/ver/29370/trunk/kde/kded_kosd/knotify/notifybylogfile.cpp
+END
+knotifyplugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/29370/trunk/kde/kded_kosd/knotify/knotifyplugin.h
+END
+org.kde.knotify.service.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/29370/trunk/kde/kded_kosd/knotify/org.kde.knotify.service.cmake
+END
+knotifyconfig.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/uludag/!svn/ver/29370/trunk/kde/kded_kosd/knotify/knotifyconfig.cpp
+END
+notifybyktts.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/uludag/!svn/ver/29370/trunk/kde/kded_kosd/knotify/notifybyktts.cpp
+END
+notifybyosd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/29385/trunk/kde/kded_kosd/knotify/notifybyosd.cpp
+END
+imageconverter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/uludag/!svn/ver/29370/trunk/kde/kded_kosd/knotify/imageconverter.cpp
+END
+notifybylogfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/uludag/!svn/ver/29370/trunk/kde/kded_kosd/knotify/notifybylogfile.h
+END
+notifybytaskbar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/uludag/!svn/ver/29370/trunk/kde/kded_kosd/knotify/notifybytaskbar.cpp
+END
+notifybysound.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/uludag/!svn/ver/29385/trunk/kde/kded_kosd/knotify/notifybysound.cpp
+END
+knotifyconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/29370/trunk/kde/kded_kosd/knotify/knotifyconfig.h
+END
+kde.notifyrc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/uludag/!svn/ver/29370/trunk/kde/kded_kosd/knotify/kde.notifyrc
+END
+Info.plist.template
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/uludag/!svn/ver/29370/trunk/kde/kded_kosd/knotify/Info.plist.template
+END
+notifybyktts.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/uludag/!svn/ver/29370/trunk/kde/kded_kosd/knotify/notifybyktts.h
+END
+notifybyosd.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/uludag/!svn/ver/29385/trunk/kde/kded_kosd/knotify/notifybyosd.h
+END
+imageconverter.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/uludag/!svn/ver/29370/trunk/kde/kded_kosd/knotify/imageconverter.h
+END
+notifybytaskbar.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/uludag/!svn/ver/29370/trunk/kde/kded_kosd/knotify/notifybytaskbar.h
+END
+notifybysound.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/29370/trunk/kde/kded_kosd/knotify/notifybysound.h
+END
+knotify.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/29385/trunk/kde/kded_kosd/knotify/knotify.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/uludag/!svn/ver/29370/trunk/kde/kded_kosd/knotify/main.cpp
+END
+notifybyexecute.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/uludag/!svn/ver/29370/trunk/kde/kded_kosd/knotify/notifybyexecute.cpp
+END
+notifybypopup.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/uludag/!svn/ver/29370/trunk/kde/kded_kosd/knotify/notifybypopup.cpp
+END
+knotify.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/uludag/!svn/ver/29370/trunk/kde/kded_kosd/knotify/knotify.h
+END
+Mainpage.dox
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/uludag/!svn/ver/29370/trunk/kde/kded_kosd/knotify/Mainpage.dox
+END
+notifybyexecute.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/uludag/!svn/ver/29370/trunk/kde/kded_kosd/knotify/notifybyexecute.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/uludag/!svn/ver/29385/trunk/kde/kded_kosd/knotify/CMakeLists.txt
+END
+notifybypopup.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/29370/trunk/kde/kded_kosd/knotify/notifybypopup.h
+END

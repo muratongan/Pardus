@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/uludag/!svn/ver/14222/trunk/ptsp/client/lbuscd
+END
+mkinstalldirs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/uludag/!svn/ver/14222/trunk/ptsp/client/lbuscd/mkinstalldirs
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/uludag/!svn/ver/14222/trunk/ptsp/client/lbuscd/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/uludag/!svn/ver/14222/trunk/ptsp/client/lbuscd/Makefile.in
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/uludag/!svn/ver/14222/trunk/ptsp/client/lbuscd/AUTHORS
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/uludag/!svn/ver/14222/trunk/ptsp/client/lbuscd/ChangeLog
+END
+lbuscd.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/uludag/!svn/ver/14222/trunk/ptsp/client/lbuscd/lbuscd.c
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/uludag/!svn/ver/14222/trunk/ptsp/client/lbuscd/config.sub
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/uludag/!svn/ver/14222/trunk/ptsp/client/lbuscd/README
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/uludag/!svn/ver/14222/trunk/ptsp/client/lbuscd/config.h.in
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/uludag/!svn/ver/14222/trunk/ptsp/client/lbuscd/configure.ac
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/uludag/!svn/ver/14222/trunk/ptsp/client/lbuscd/INSTALL
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/uludag/!svn/ver/14222/trunk/ptsp/client/lbuscd/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/uludag/!svn/ver/14222/trunk/ptsp/client/lbuscd/Makefile.am
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/uludag/!svn/ver/14222/trunk/ptsp/client/lbuscd/missing
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/uludag/!svn/ver/14222/trunk/ptsp/client/lbuscd/NEWS
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/uludag/!svn/ver/14222/trunk/ptsp/client/lbuscd/aclocal.m4
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/uludag/!svn/ver/14222/trunk/ptsp/client/lbuscd/Makefile
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/uludag/!svn/ver/14222/trunk/ptsp/client/lbuscd/install-sh
+END
+stamp-h.in
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/uludag/!svn/ver/14222/trunk/ptsp/client/lbuscd/stamp-h.in
+END

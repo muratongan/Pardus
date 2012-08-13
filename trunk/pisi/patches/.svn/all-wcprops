@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/uludag/!svn/ver/36973/trunk/pisi/patches
+END
+pisi-preprocess-support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/uludag/!svn/ver/26640/trunk/pisi/patches/pisi-preprocess-support.patch
+END
+add-replace-attribute-to-path-element.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/26344/trunk/pisi/patches/add-replace-attribute-to-path-element.patch
+END
+no-need-for-upgrade-order.patch
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/uludag/!svn/ver/26218/trunk/pisi/patches/no-need-for-upgrade-order.patch
+END
+add-non-root-build-support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/uludag/!svn/ver/36973/trunk/pisi/patches/add-non-root-build-support.patch
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/uludag/!svn/ver/32881/trunk/noan/templates/repository
+END
+source.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/32881/trunk/noan/templates/repository/source.html
+END
+isa_partof_list.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/uludag/!svn/ver/30683/trunk/noan/templates/repository/isa_partof_list.html
+END
+search_result.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/uludag/!svn/ver/30862/trunk/noan/templates/repository/search_result.html
+END
+binary.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/30435/trunk/noan/templates/repository/binary.html
+END
+search.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/30535/trunk/noan/templates/repository/search.html
+END
+source-packages-list.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/30429/trunk/noan/templates/repository/source-packages-list.html
+END
+404.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/uludag/!svn/ver/30870/trunk/noan/templates/repository/404.html
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/uludag/!svn/ver/27672/trunk/noan/templates/repository/index.html
+END
+orphan.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/30773/trunk/noan/templates/repository/orphan.html
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/uludag/!svn/ver/30716/trunk/noan/templates/repository/package.html
+END

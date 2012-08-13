@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/uludag/!svn/ver/36694/trunk/playground/bertan/developer.pardus.org.tr/source/guides/releasing/testing_process/package_update_tests
+END
+security_tests.rst
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/uludag/!svn/ver/36694/trunk/playground/bertan/developer.pardus.org.tr/source/guides/releasing/testing_process/package_update_tests/security_tests.rst
+END
+package_update_tests.rst
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/uludag/!svn/ver/36694/trunk/playground/bertan/developer.pardus.org.tr/source/guides/releasing/testing_process/package_update_tests/package_update_tests.rst
+END
+index.rst
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/uludag/!svn/ver/36694/trunk/playground/bertan/developer.pardus.org.tr/source/guides/releasing/testing_process/package_update_tests/index.rst
+END
+prepare_test_environment_for_package_updates.rst
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/uludag/!svn/ver/36694/trunk/playground/bertan/developer.pardus.org.tr/source/guides/releasing/testing_process/package_update_tests/prepare_test_environment_for_package_updates.rst
+END

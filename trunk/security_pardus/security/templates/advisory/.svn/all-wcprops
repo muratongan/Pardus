@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/uludag/!svn/ver/27718/trunk/security_pardus/security/templates/advisory
+END
+archive_year.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/uludag/!svn/ver/27716/trunk/security_pardus/security/templates/advisory/archive_year.html
+END
+advisory_text.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/uludag/!svn/ver/13045/trunk/security_pardus/security/templates/advisory/advisory_text.html
+END
+advisory_details.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/uludag/!svn/ver/27718/trunk/security_pardus/security/templates/advisory/advisory_details.html
+END
+about.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/27715/trunk/security_pardus/security/templates/advisory/about.html
+END
+index_language.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/uludag/!svn/ver/22531/trunk/security_pardus/security/templates/advisory/index_language.html
+END

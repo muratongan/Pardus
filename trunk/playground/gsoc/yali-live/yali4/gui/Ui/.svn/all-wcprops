@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/uludag/!svn/ver/30261/trunk/playground/gsoc/yali-live/yali4/gui/Ui
+END
+autopartwidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/30261/trunk/playground/gsoc/yali-live/yali4/gui/Ui/autopartwidget.ui
+END
+keyboardwidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/30261/trunk/playground/gsoc/yali-live/yali4/gui/Ui/keyboardwidget.ui
+END
+autoinstallationlistitemwidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/uludag/!svn/ver/30261/trunk/playground/gsoc/yali-live/yali4/gui/Ui/autoinstallationlistitemwidget.ui
+END
+installwidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/30261/trunk/playground/gsoc/yali-live/yali4/gui/Ui/installwidget.ui
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/30261/trunk/playground/gsoc/yali-live/yali4/gui/Ui/__init__.py
+END
+rescuegrubwidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/30261/trunk/playground/gsoc/yali-live/yali4/gui/Ui/rescuegrubwidget.ui
+END
+kickerwidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/30261/trunk/playground/gsoc/yali-live/yali4/gui/Ui/kickerwidget.ui
+END
+partedit.ui
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/30261/trunk/playground/gsoc/yali-live/yali4/gui/Ui/partedit.ui
+END
+rescuepasswordwidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/uludag/!svn/ver/30261/trunk/playground/gsoc/yali-live/yali4/gui/Ui/rescuepasswordwidget.ui
+END
+rootpasswidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/30261/trunk/playground/gsoc/yali-live/yali4/gui/Ui/rootpasswidget.ui
+END
+rescuepisiwidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/30261/trunk/playground/gsoc/yali-live/yali4/gui/Ui/rescuepisiwidget.ui
+END
+main.ui
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/uludag/!svn/ver/30261/trunk/playground/gsoc/yali-live/yali4/gui/Ui/main.ui
+END
+setupuserswidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/30261/trunk/playground/gsoc/yali-live/yali4/gui/Ui/setupuserswidget.ui
+END
+autopartquestion.ui
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/30261/trunk/playground/gsoc/yali-live/yali4/gui/Ui/autopartquestion.ui
+END
+checkcdwidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/30261/trunk/playground/gsoc/yali-live/yali4/gui/Ui/checkcdwidget.ui
+END
+analogclock.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/30261/trunk/playground/gsoc/yali-live/yali4/gui/Ui/analogclock.py
+END
+partresize.ui
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/30261/trunk/playground/gsoc/yali-live/yali4/gui/Ui/partresize.ui
+END
+rescuewidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/30261/trunk/playground/gsoc/yali-live/yali4/gui/Ui/rescuewidget.ui
+END
+connectionlist.ui
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/30261/trunk/playground/gsoc/yali-live/yali4/gui/Ui/connectionlist.ui
+END
+goodbyewidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/30261/trunk/playground/gsoc/yali-live/yali4/gui/Ui/goodbyewidget.ui
+END
+exception.ui
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/30261/trunk/playground/gsoc/yali-live/yali4/gui/Ui/exception.ui
+END
+bootloaderwidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/30261/trunk/playground/gsoc/yali-live/yali4/gui/Ui/bootloaderwidget.ui
+END
+autoinstallationwidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/uludag/!svn/ver/30261/trunk/playground/gsoc/yali-live/yali4/gui/Ui/autoinstallationwidget.ui
+END
+dialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uludag/!svn/ver/30261/trunk/playground/gsoc/yali-live/yali4/gui/Ui/dialog.ui
+END
+welcomewidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/30261/trunk/playground/gsoc/yali-live/yali4/gui/Ui/welcomewidget.ui
+END
+datetimewidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/30261/trunk/playground/gsoc/yali-live/yali4/gui/Ui/datetimewidget.ui
+END
+summarywidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/30261/trunk/playground/gsoc/yali-live/yali4/gui/Ui/summarywidget.ui
+END

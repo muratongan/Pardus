@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/uludag/!svn/ver/38212/trunk/pisi/tests
+END
+metadata.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/uludag/!svn/ver/26218/trunk/pisi/tests/metadata.xml
+END
+fetchtest.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/uludag/!svn/ver/30925/trunk/pisi/tests/fetchtest.py
+END
+constanttest.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/uludag/!svn/ver/26218/trunk/pisi/tests/constanttest.py
+END
+srcarchivetest.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/uludag/!svn/ver/36209/trunk/pisi/tests/srcarchivetest.py
+END
+mirrors.conf
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/uludag/!svn/ver/26218/trunk/pisi/tests/mirrors.conf
+END
+packagetest.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/uludag/!svn/ver/32212/trunk/pisi/tests/packagetest.py
+END
+mirrorstest.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/uludag/!svn/ver/26218/trunk/pisi/tests/mirrorstest.py
+END
+uritest.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/uludag/!svn/ver/30925/trunk/pisi/tests/uritest.py
+END
+historytest.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/uludag/!svn/ver/26218/trunk/pisi/tests/historytest.py
+END
+graphtest.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/uludag/!svn/ver/30925/trunk/pisi/tests/graphtest.py
+END
+filestest.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/uludag/!svn/ver/26218/trunk/pisi/tests/filestest.py
+END
+archivetests.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/uludag/!svn/ver/38212/trunk/pisi/tests/archivetests.py
+END
+configfiletest.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/uludag/!svn/ver/30925/trunk/pisi/tests/configfiletest.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/uludag/!svn/ver/26218/trunk/pisi/tests/README
+END
+shelltest.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/uludag/!svn/ver/32066/trunk/pisi/tests/shelltest.py
+END
+replacetest.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/uludag/!svn/ver/30925/trunk/pisi/tests/replacetest.py
+END
+relationtest.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/uludag/!svn/ver/30925/trunk/pisi/tests/relationtest.py
+END
+specfiletests.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/uludag/!svn/ver/26218/trunk/pisi/tests/specfiletests.py
+END
+utiltest.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/uludag/!svn/ver/30737/trunk/pisi/tests/utiltest.py
+END
+dependencytest.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/uludag/!svn/ver/30925/trunk/pisi/tests/dependencytest.py
+END
+filetest.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/uludag/!svn/ver/30960/trunk/pisi/tests/filetest.py
+END
+metadatatest.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/uludag/!svn/ver/26218/trunk/pisi/tests/metadatatest.py
+END
+conflicttests.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/uludag/!svn/ver/31010/trunk/pisi/tests/conflicttests.py
+END
+versiontest.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/uludag/!svn/ver/28031/trunk/pisi/tests/versiontest.py
+END
+runtests.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/uludag/!svn/ver/32223/trunk/pisi/tests/runtests.py
+END

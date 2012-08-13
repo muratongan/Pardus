@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/uludag/!svn/ver/25765/trunk/pare/src/pare/utils
+END
+sysblock.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/uludag/!svn/ver/25765/trunk/pare/src/pare/utils/sysblock.py
+END
+lvm.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/uludag/!svn/ver/25765/trunk/pare/src/pare/utils/lvm.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/uludag/!svn/ver/22700/trunk/pare/src/pare/utils/__init__.py
+END
+raid.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/uludag/!svn/ver/25765/trunk/pare/src/pare/utils/raid.py
+END
+sysutils.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/uludag/!svn/ver/23289/trunk/pare/src/pare/utils/sysutils.py
+END
+dm.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/uludag/!svn/ver/22701/trunk/pare/src/pare/utils/dm.py
+END

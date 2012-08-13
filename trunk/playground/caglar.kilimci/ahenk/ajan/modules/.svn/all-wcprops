@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/uludag/!svn/ver/33418/trunk/playground/caglar.kilimci/ahenk/ajan/modules
+END
+mod_software.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/uludag/!svn/ver/33418/trunk/playground/caglar.kilimci/ahenk/ajan/modules/mod_software.py
+END
+mod_authentication.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/uludag/!svn/ver/33418/trunk/playground/caglar.kilimci/ahenk/ajan/modules/mod_authentication.py
+END
+mod_webservices.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/uludag/!svn/ver/33418/trunk/playground/caglar.kilimci/ahenk/ajan/modules/mod_webservices.py
+END
+mod_services.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/uludag/!svn/ver/33418/trunk/playground/caglar.kilimci/ahenk/ajan/modules/mod_services.py
+END
+mod_firewall.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/uludag/!svn/ver/33418/trunk/playground/caglar.kilimci/ahenk/ajan/modules/mod_firewall.py
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/uludag/!svn/ver/37951/trunk/playground/mehmet/build
+END
+hello.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/37951/trunk/playground/mehmet/build/hello.cpp
+END
+factorial.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/36611/trunk/playground/mehmet/build/factorial.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/uludag/!svn/ver/36611/trunk/playground/mehmet/build/main.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/uludag/!svn/ver/36748/trunk/playground/mehmet/build/Makefile
+END
+functions.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/uludag/!svn/ver/36611/trunk/playground/mehmet/build/functions.h
+END

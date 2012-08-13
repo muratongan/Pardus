@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/actionsapi
+END
+shelltools.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/actionsapi/shelltools.py
+END
+variables.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/actionsapi/variables.py
+END
+autotools.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/actionsapi/autotools.py
+END
+coreutils.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/actionsapi/coreutils.py
+END
+pythonmodules.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/actionsapi/pythonmodules.py
+END
+perlmodules.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/actionsapi/perlmodules.py
+END
+pisitoolsfunctions.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/actionsapi/pisitoolsfunctions.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/actionsapi/__init__.py
+END
+get.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/actionsapi/get.py
+END
+cmaketools.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/actionsapi/cmaketools.py
+END
+kde.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/actionsapi/kde.py
+END
+pisitools.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/actionsapi/pisitools.py
+END
+scons.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/actionsapi/scons.py
+END
+libtools.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/actionsapi/libtools.py
+END

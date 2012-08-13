@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/uludag/!svn/ver/22412/trunk/stajyer/db/migrate
+END
+20090424172525_create_documents.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/22399/trunk/stajyer/db/migrate/20090424172525_create_documents.rb
+END
+20090427105845_add_attachments_attached_to_document.rb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/uludag/!svn/ver/22399/trunk/stajyer/db/migrate/20090427105845_add_attachments_attached_to_document.rb
+END
+20090422075342_create_students.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/22399/trunk/stajyer/db/migrate/20090422075342_create_students.rb
+END
+20090424114548_create_comments.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/22399/trunk/stajyer/db/migrate/20090424114548_create_comments.rb
+END
+20090429065232_change_comments_review_column_type.rb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/uludag/!svn/ver/22412/trunk/stajyer/db/migrate/20090429065232_change_comments_review_column_type.rb
+END
+20090427121531_create_users.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/22399/trunk/stajyer/db/migrate/20090427121531_create_users.rb
+END

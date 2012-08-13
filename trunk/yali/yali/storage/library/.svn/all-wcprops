@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/uludag/!svn/ver/36903/trunk/yali/yali/storage/library
+END
+swap.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/36800/trunk/yali/yali/storage/library/swap.py
+END
+lvm.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/uludag/!svn/ver/36800/trunk/yali/yali/storage/library/lvm.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/36800/trunk/yali/yali/storage/library/__init__.py
+END
+raid.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/36800/trunk/yali/yali/storage/library/raid.py
+END
+devicemapper.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/uludag/!svn/ver/36903/trunk/yali/yali/storage/library/devicemapper.py
+END

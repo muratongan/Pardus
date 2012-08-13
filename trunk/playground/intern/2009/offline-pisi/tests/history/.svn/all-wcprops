@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/offline-pisi/tests/history
+END
+004_snapshot.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/offline-pisi/tests/history/004_snapshot.xml
+END
+001_upgrade.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/offline-pisi/tests/history/001_upgrade.xml
+END
+003_install.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/offline-pisi/tests/history/003_install.xml
+END
+002_remove.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/offline-pisi/tests/history/002_remove.xml
+END

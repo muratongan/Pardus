@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/uludag/!svn/ver/37815/trunk/playground/intern/2011/yali-live/yali/gui
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/37601/trunk/playground/intern/2011/yali-live/yali/gui/__init__.py
+END
+ScrAdmin.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/37557/trunk/playground/intern/2011/yali-live/yali/gui/ScrAdmin.py
+END
+ScrGoodbye.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/37746/trunk/playground/intern/2011/yali-live/yali/gui/ScrGoodbye.py
+END
+ScrNetwork.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/yali/gui/ScrNetwork.py
+END
+shrink_gui.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/yali/gui/shrink_gui.py
+END
+ScrWelcome.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/yali/gui/ScrWelcome.py
+END
+ScrCollection.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/yali/gui/ScrCollection.py
+END
+ScrKahyaCheck.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/yali/gui/ScrKahyaCheck.py
+END
+ScrSummary.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/37698/trunk/playground/intern/2011/yali-live/yali/gui/ScrSummary.py
+END
+ScrKeyboard.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/yali/gui/ScrKeyboard.py
+END
+runner.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/yali/gui/runner.py
+END
+ScrUsers.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/yali/gui/ScrUsers.py
+END
+partition_gui.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/yali/gui/partition_gui.py
+END
+ScrInstall.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/yali/gui/ScrInstall.py
+END
+ScrRescuePassword.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/yali/gui/ScrRescuePassword.py
+END
+YaliWindow.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/yali/gui/YaliWindow.py
+END
+ScrDriveSelection.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/yali/gui/ScrDriveSelection.py
+END
+ScrLicense.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/yali/gui/ScrLicense.py
+END
+ScrCheckCD.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/yali/gui/ScrCheckCD.py
+END
+storageGuiHelpers.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/yali/gui/storageGuiHelpers.py
+END
+ScrLiveInstall.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/uludag/!svn/ver/37815/trunk/playground/intern/2011/yali-live/yali/gui/ScrLiveInstall.py
+END
+ScrRescue.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/yali/gui/ScrRescue.py
+END
+interface.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/yali/gui/interface.py
+END
+lvm_gui.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/yali/gui/lvm_gui.py
+END
+aspects.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/yali/gui/aspects.py
+END
+ScrBootloader.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/yali/gui/ScrBootloader.py
+END
+ScrDateTime.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/yali/gui/ScrDateTime.py
+END
+ScrPartitionAuto.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/yali/gui/ScrPartitionAuto.py
+END
+YaliDialog.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/yali/gui/YaliDialog.py
+END
+ScrPartitionManual.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/yali/gui/ScrPartitionManual.py
+END
+ScrRescuePisi.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/yali/gui/ScrRescuePisi.py
+END
+raid_gui.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/37556/trunk/playground/intern/2011/yali-live/yali/gui/raid_gui.py
+END

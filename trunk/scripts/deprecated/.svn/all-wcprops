@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/uludag/!svn/ver/38442/trunk/scripts/deprecated
+END
+messages.sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/uludag/!svn/ver/38442/trunk/scripts/deprecated/messages.sh
+END
+fix-ui-files
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/uludag/!svn/ver/38442/trunk/scripts/deprecated/fix-ui-files
+END
+list-my-packages.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/uludag/!svn/ver/36956/trunk/scripts/deprecated/list-my-packages.py
+END
+bump
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/uludag/!svn/ver/38427/trunk/scripts/deprecated/bump
+END
+package-owners-diff.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/uludag/!svn/ver/34821/trunk/scripts/deprecated/package-owners-diff.py
+END
+checklib
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/uludag/!svn/ver/34019/trunk/scripts/deprecated/checklib
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/uludag/!svn/ver/38427/trunk/scripts/deprecated/README
+END
+ldd2dep
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/uludag/!svn/ver/32850/trunk/scripts/deprecated/ldd2dep
+END
+print_thy_packages
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/36956/trunk/scripts/deprecated/print_thy_packages
+END
+update-po-files
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/uludag/!svn/ver/38442/trunk/scripts/deprecated/update-po-files
+END

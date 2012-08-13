@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/uludag/!svn/ver/36305/trunk/playground/memre/pisi/tests
+END
+metadata.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/tests/metadata.xml
+END
+fetchtest.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/tests/fetchtest.py
+END
+constanttest.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/tests/constanttest.py
+END
+srcarchivetest.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/uludag/!svn/ver/36305/trunk/playground/memre/pisi/tests/srcarchivetest.py
+END
+mirrors.conf
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/tests/mirrors.conf
+END
+packagetest.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/tests/packagetest.py
+END
+mirrorstest.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/tests/mirrorstest.py
+END
+uritest.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/tests/uritest.py
+END
+historytest.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/tests/historytest.py
+END
+graphtest.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/tests/graphtest.py
+END
+filestest.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/tests/filestest.py
+END
+archivetests.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/uludag/!svn/ver/36305/trunk/playground/memre/pisi/tests/archivetests.py
+END
+configfiletest.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/tests/configfiletest.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/tests/README
+END
+shelltest.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/tests/shelltest.py
+END
+replacetest.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/tests/replacetest.py
+END
+relationtest.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/tests/relationtest.py
+END
+specfiletests.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/tests/specfiletests.py
+END
+utiltest.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/tests/utiltest.py
+END
+dependencytest.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/tests/dependencytest.py
+END
+filetest.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/tests/filetest.py
+END
+metadatatest.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/tests/metadatatest.py
+END
+conflicttests.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/tests/conflicttests.py
+END
+versiontest.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/tests/versiontest.py
+END
+runtests.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/tests/runtests.py
+END

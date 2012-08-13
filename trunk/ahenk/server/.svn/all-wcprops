@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/uludag/!svn/ver/38358/trunk/ahenk/server
+END
+ahenk_schema
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/uludag/!svn/ver/38309/trunk/ahenk/server/ahenk_schema
+END
+ahenk_setup
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/uludag/!svn/ver/38309/trunk/ahenk/server/ahenk_setup
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/uludag/!svn/ver/38309/trunk/ahenk/server/setup.py
+END
+MANIFEST.in
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/uludag/!svn/ver/38309/trunk/ahenk/server/MANIFEST.in
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/uludag/!svn/ver/38358/trunk/ahenk/server/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/uludag/!svn/ver/38309/trunk/ahenk/server/README
+END

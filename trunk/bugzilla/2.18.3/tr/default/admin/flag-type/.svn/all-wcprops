@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/uludag/!svn/ver/6631/trunk/bugzilla/2.18.3/tr/default/admin/flag-type
+END
+edit.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/6631/trunk/bugzilla/2.18.3/tr/default/admin/flag-type/edit.html.tmpl
+END
+list.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/6631/trunk/bugzilla/2.18.3/tr/default/admin/flag-type/list.html.tmpl
+END
+confirm-delete.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/uludag/!svn/ver/6631/trunk/bugzilla/2.18.3/tr/default/admin/flag-type/confirm-delete.html.tmpl
+END

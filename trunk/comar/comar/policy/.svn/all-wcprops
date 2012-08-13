@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/uludag/!svn/ver/24864/trunk/comar/comar/policy
+END
+tr.org.pardus.comar.net.filter.policy
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/24625/trunk/comar/comar/policy/tr.org.pardus.comar.net.filter.policy
+END
+tr.org.pardus.comar.boot.modules.policy
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/24625/trunk/comar/comar/policy/tr.org.pardus.comar.boot.modules.policy
+END
+tr.org.pardus.comar.system.packagehandler.policy
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/uludag/!svn/ver/24864/trunk/comar/comar/policy/tr.org.pardus.comar.system.packagehandler.policy
+END
+tr.org.pardus.comar.system.package.policy
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/uludag/!svn/ver/24864/trunk/comar/comar/policy/tr.org.pardus.comar.system.package.policy
+END
+tr.org.pardus.comar.net.link.policy
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/24864/trunk/comar/comar/policy/tr.org.pardus.comar.net.link.policy
+END
+tr.org.pardus.comar.xorg.display.policy
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/24864/trunk/comar/comar/policy/tr.org.pardus.comar.xorg.display.policy
+END
+tr.org.pardus.comar.system.settings.policy
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/uludag/!svn/ver/24864/trunk/comar/comar/policy/tr.org.pardus.comar.system.settings.policy
+END
+tr.org.pardus.comar.system.service.policy
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/uludag/!svn/ver/23076/trunk/comar/comar/policy/tr.org.pardus.comar.system.service.policy
+END
+tr.org.pardus.comar.user.manager.policy
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/24864/trunk/comar/comar/policy/tr.org.pardus.comar.user.manager.policy
+END
+tr.org.pardus.comar.net.share.policy
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/23076/trunk/comar/comar/policy/tr.org.pardus.comar.net.share.policy
+END
+tr.org.pardus.comar.time.clock.policy
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/24864/trunk/comar/comar/policy/tr.org.pardus.comar.time.clock.policy
+END
+tr.org.pardus.comar.net.stack.policy
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/24864/trunk/comar/comar/policy/tr.org.pardus.comar.net.stack.policy
+END
+tr.org.pardus.comar.system.manager.policy
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/uludag/!svn/ver/24864/trunk/comar/comar/policy/tr.org.pardus.comar.system.manager.policy
+END
+tr.org.pardus.comar.policy
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/uludag/!svn/ver/24864/trunk/comar/comar/policy/tr.org.pardus.comar.policy
+END
+tr.org.pardus.comar.disk.manager.policy
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/24625/trunk/comar/comar/policy/tr.org.pardus.comar.disk.manager.policy
+END
+tr.org.pardus.comar.boot.loader.policy
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/uludag/!svn/ver/24625/trunk/comar/comar/policy/tr.org.pardus.comar.boot.loader.policy
+END
+tr.org.pardus.comar.xorg.driver.policy
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/uludag/!svn/ver/24864/trunk/comar/comar/policy/tr.org.pardus.comar.xorg.driver.policy
+END

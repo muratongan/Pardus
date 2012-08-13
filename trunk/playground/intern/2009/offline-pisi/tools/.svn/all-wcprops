@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/offline-pisi/tools
+END
+svndist.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/offline-pisi/tools/svndist.py
+END
+pygettext.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/offline-pisi/tools/pygettext.py
+END
+svndist-v0.2.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/offline-pisi/tools/svndist-v0.2.py
+END
+update-po.sh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/offline-pisi/tools/update-po.sh
+END

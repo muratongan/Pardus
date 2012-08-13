@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 57
+validator.pyc
+__init__.pyc
+xml.pyc
+mail.pyc
+utility.pyc
+
+
+END

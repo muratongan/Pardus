@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/uludag/!svn/ver/26101/trunk/kde/dbus-pyqt3-mainloop/examples
+END
+signal-recipient.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/26101/trunk/kde/dbus-pyqt3-mainloop/examples/signal-recipient.py
+END
+pynotify.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/uludag/!svn/ver/26101/trunk/kde/dbus-pyqt3-mainloop/examples/pynotify.py
+END
+signal-emitter.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/26101/trunk/kde/dbus-pyqt3-mainloop/examples/signal-emitter.py
+END

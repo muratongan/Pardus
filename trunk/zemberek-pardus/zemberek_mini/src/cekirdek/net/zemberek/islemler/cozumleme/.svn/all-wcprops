@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/uludag/!svn/ver/9445/trunk/zemberek-pardus/zemberek_mini/src/cekirdek/net/zemberek/islemler/cozumleme
+END
+KesinHDKiyaslayici.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/uludag/!svn/ver/9445/trunk/zemberek-pardus/zemberek_mini/src/cekirdek/net/zemberek/islemler/cozumleme/KesinHDKiyaslayici.java
+END
+OneriUretici.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/uludag/!svn/ver/9445/trunk/zemberek-pardus/zemberek_mini/src/cekirdek/net/zemberek/islemler/cozumleme/OneriUretici.java
+END
+BasitKelimeYigini.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/uludag/!svn/ver/9445/trunk/zemberek-pardus/zemberek_mini/src/cekirdek/net/zemberek/islemler/cozumleme/BasitKelimeYigini.java
+END
+KelimeCozumleyici.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/uludag/!svn/ver/9445/trunk/zemberek-pardus/zemberek_mini/src/cekirdek/net/zemberek/islemler/cozumleme/KelimeCozumleyici.java
+END
+HarfDizisiKiyaslayici.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/uludag/!svn/ver/9445/trunk/zemberek-pardus/zemberek_mini/src/cekirdek/net/zemberek/islemler/cozumleme/HarfDizisiKiyaslayici.java
+END
+ToleransliCozumleyici.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/uludag/!svn/ver/9445/trunk/zemberek-pardus/zemberek_mini/src/cekirdek/net/zemberek/islemler/cozumleme/ToleransliCozumleyici.java
+END
+AsciiToleransliHDKiyaslayici.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/uludag/!svn/ver/9445/trunk/zemberek-pardus/zemberek_mini/src/cekirdek/net/zemberek/islemler/cozumleme/AsciiToleransliHDKiyaslayici.java
+END
+StandartCozumleyici.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/uludag/!svn/ver/9445/trunk/zemberek-pardus/zemberek_mini/src/cekirdek/net/zemberek/islemler/cozumleme/StandartCozumleyici.java
+END
+CozumlemeYardimcisi.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/uludag/!svn/ver/9445/trunk/zemberek-pardus/zemberek_mini/src/cekirdek/net/zemberek/islemler/cozumleme/CozumlemeYardimcisi.java
+END

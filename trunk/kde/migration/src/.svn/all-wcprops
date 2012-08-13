@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/uludag/!svn/ver/31681/trunk/kde/migration/src
+END
+migration.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/uludag/!svn/ver/31681/trunk/kde/migration/src/migration.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/uludag/!svn/ver/26234/trunk/kde/migration/src/__init__.py
+END
+migration-user.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/uludag/!svn/ver/27502/trunk/kde/migration/src/migration-user.py
+END

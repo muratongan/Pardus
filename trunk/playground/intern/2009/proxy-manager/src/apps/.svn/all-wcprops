@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/proxy-manager/src/apps
+END
+pidgin.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/proxy-manager/src/apps/pidgin.py
+END
+amsn.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/proxy-manager/src/apps/amsn.py
+END
+aria2.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/proxy-manager/src/apps/aria2.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/proxy-manager/src/apps/__init__.py
+END
+app.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/proxy-manager/src/apps/app.py
+END
+gftp.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/proxy-manager/src/apps/gftp.py
+END
+kde.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/proxy-manager/src/apps/kde.py
+END
+svn.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/proxy-manager/src/apps/svn.py
+END
+wget.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/proxy-manager/src/apps/wget.py
+END
+mozilla.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/proxy-manager/src/apps/mozilla.py
+END

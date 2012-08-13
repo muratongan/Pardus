@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/uludag/!svn/ver/38219/trunk/buildfarm/scripts
+END
+merge-new-packages
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/uludag/!svn/ver/37380/trunk/buildfarm/scripts/merge-new-packages
+END
+find-new-packages
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/uludag/!svn/ver/38219/trunk/buildfarm/scripts/find-new-packages
+END
+delete-packages-not-indexed
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/uludag/!svn/ver/36170/trunk/buildfarm/scripts/delete-packages-not-indexed
+END

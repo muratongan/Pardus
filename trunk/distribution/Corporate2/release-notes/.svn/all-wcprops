@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/36161/trunk/distribution/Corporate2/release-notes
+END
+remove-title.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/36135/trunk/distribution/Corporate2/release-notes/remove-title.py
+END
+publican.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/36049/trunk/distribution/Corporate2/release-notes/publican.cfg
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/uludag/!svn/ver/36049/trunk/distribution/Corporate2/release-notes/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/uludag/!svn/ver/36049/trunk/distribution/Corporate2/release-notes/README
+END

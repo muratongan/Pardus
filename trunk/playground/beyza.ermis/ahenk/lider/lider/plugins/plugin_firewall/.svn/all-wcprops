@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/uludag/!svn/ver/33452/trunk/playground/beyza.ermis/ahenk/lider/lider/plugins/plugin_firewall
+END
+firewall.ui
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/uludag/!svn/ver/33452/trunk/playground/beyza.ermis/ahenk/lider/lider/plugins/plugin_firewall/firewall.ui
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/uludag/!svn/ver/33452/trunk/playground/beyza.ermis/ahenk/lider/lider/plugins/plugin_firewall/__init__.py
+END
+firewall.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/uludag/!svn/ver/33452/trunk/playground/beyza.ermis/ahenk/lider/lider/plugins/plugin_firewall/firewall.qrc
+END
+main.py
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/uludag/!svn/ver/33452/trunk/playground/beyza.ermis/ahenk/lider/lider/plugins/plugin_firewall/main.py
+END

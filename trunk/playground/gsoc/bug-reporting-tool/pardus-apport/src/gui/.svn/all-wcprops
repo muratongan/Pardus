@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/26096/trunk/playground/gsoc/bug-reporting-tool/pardus-apport/src/gui
+END
+errorScreen.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/uludag/!svn/ver/26096/trunk/playground/gsoc/bug-reporting-tool/pardus-apport/src/gui/errorScreen.py
+END
+reportScreen.py
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/uludag/!svn/ver/26096/trunk/playground/gsoc/bug-reporting-tool/pardus-apport/src/gui/reportScreen.py
+END
+choicesScreen.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/uludag/!svn/ver/26096/trunk/playground/gsoc/bug-reporting-tool/pardus-apport/src/gui/choicesScreen.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/uludag/!svn/ver/26096/trunk/playground/gsoc/bug-reporting-tool/pardus-apport/src/gui/__init__.py
+END
+screenwidget.py
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/uludag/!svn/ver/26096/trunk/playground/gsoc/bug-reporting-tool/pardus-apport/src/gui/screenwidget.py
+END
+messageScreen.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/uludag/!svn/ver/26096/trunk/playground/gsoc/bug-reporting-tool/pardus-apport/src/gui/messageScreen.py
+END
+progressScreen.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/uludag/!svn/ver/26096/trunk/playground/gsoc/bug-reporting-tool/pardus-apport/src/gui/progressScreen.py
+END
+userpassScreen.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/uludag/!svn/ver/26096/trunk/playground/gsoc/bug-reporting-tool/pardus-apport/src/gui/userpassScreen.py
+END
+raw.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/uludag/!svn/ver/26096/trunk/playground/gsoc/bug-reporting-tool/pardus-apport/src/gui/raw.qrc
+END

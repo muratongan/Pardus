@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/uludag/!svn/ver/22399/trunk/stajyer/script
+END
+console
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/uludag/!svn/ver/22399/trunk/stajyer/script/console
+END
+server
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/uludag/!svn/ver/22399/trunk/stajyer/script/server
+END
+dbconsole
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/uludag/!svn/ver/22399/trunk/stajyer/script/dbconsole
+END
+destroy
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/uludag/!svn/ver/22399/trunk/stajyer/script/destroy
+END
+runner
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/uludag/!svn/ver/22399/trunk/stajyer/script/runner
+END
+about
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/uludag/!svn/ver/22399/trunk/stajyer/script/about
+END
+generate
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/uludag/!svn/ver/22399/trunk/stajyer/script/generate
+END
+plugin
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/uludag/!svn/ver/22399/trunk/stajyer/script/plugin
+END

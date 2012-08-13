@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/uludag/!svn/ver/30137/trunk/pijama
+END
+manage.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/uludag/!svn/ver/30134/trunk/pijama/manage.py
+END
+traverse.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/uludag/!svn/ver/30134/trunk/pijama/traverse.py
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/uludag/!svn/ver/30134/trunk/pijama/TODO
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/uludag/!svn/ver/30134/trunk/pijama/__init__.py
+END
+admin_media
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/uludag/!svn/ver/30134/trunk/pijama/admin_media
+END
+settings.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/uludag/!svn/ver/30134/trunk/pijama/settings.py
+END
+urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/uludag/!svn/ver/30134/trunk/pijama/urls.py
+END

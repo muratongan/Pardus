@@ -1,0 +1,209 @@
+10
+
+dir
+38525
+http://svn.pardus.org.tr/uludag/trunk/l10n/kde/trunk/tr/LC_MESSAGES
+http://svn.pardus.org.tr/uludag
+
+
+
+2011-04-24T11:34:50.699028Z
+36704
+gokcen.eraslan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+26e1f6f6-46e4-0310-a0b7-a8a415fd4c45
+
+kdegames
+dir
+
+extragear-graphics
+dir
+
+extragear-utils
+dir
+
+playground-devtools
+dir
+
+kdepimlibs
+dir
+
+qt
+dir
+
+extragear-security
+dir
+
+extragear-base
+dir
+
+extragear-plasma
+dir
+
+extragear-sdk
+dir
+
+koffice
+dir
+
+extragear-sysadmin
+dir
+
+playground-ioslaves
+dir
+
+playground-pim
+dir
+
+extragear-network
+dir
+
+kdepim
+dir
+
+playground-artwork
+dir
+
+playground-libs
+dir
+
+kdeadmin
+dir
+
+playground-multimedia
+dir
+
+kdelibs
+dir
+
+kdeartwork
+dir
+
+playground-office
+dir
+
+kdemultimedia
+dir
+
+kdetoys
+dir
+
+playground-graphics
+dir
+
+playground-utils
+dir
+
+kdeutils
+dir
+
+kdegraphics
+dir
+
+kdereview
+dir
+
+playground-base
+dir
+
+kdebase
+dir
+
+playground-edu
+dir
+
+kdewebdev
+dir
+
+kdeedu
+dir
+
+playground-sdk
+dir
+
+kdesdk
+dir
+
+extragear-pim
+dir
+
+kdeplasma-addons
+dir
+
+extragear-libs
+dir
+
+playground-accessibility
+dir
+
+playground-sysadmin
+dir
+
+entry.desktop
+file
+
+
+
+
+2012-08-13T16:32:30.693929Z
+3f6ad246d2351cb0976a9f9a950b6c2b
+2010-07-14T07:37:31.519497Z
+30980
+igungor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2020
+
+extragear-multimedia
+dir
+
+extragear-office
+dir
+
+kdeaccessibility
+dir
+
+playground-network
+dir
+
+kdenetwork
+dir
+
+extragear-toys
+dir
+
+playground-games
+dir
+

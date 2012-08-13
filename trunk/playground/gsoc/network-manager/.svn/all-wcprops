@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/uludag/!svn/ver/26096/trunk/playground/gsoc/network-manager
+END
+comariface.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/uludag/!svn/ver/26096/trunk/playground/gsoc/network-manager/comariface.py
+END
+autoswitch.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/uludag/!svn/ver/26096/trunk/playground/gsoc/network-manager/autoswitch.py
+END
+network-applet.desktop
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/26096/trunk/playground/gsoc/network-manager/network-applet.desktop
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/uludag/!svn/ver/26096/trunk/playground/gsoc/network-manager/AUTHORS
+END
+connection.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/uludag/!svn/ver/26096/trunk/playground/gsoc/network-manager/connection.py
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/uludag/!svn/ver/26096/trunk/playground/gsoc/network-manager/setup.py
+END
+network-manager.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/26096/trunk/playground/gsoc/network-manager/network-manager.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/uludag/!svn/ver/26096/trunk/playground/gsoc/network-manager/README
+END
+widgets.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/uludag/!svn/ver/26096/trunk/playground/gsoc/network-manager/widgets.py
+END
+newconn.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/uludag/!svn/ver/26096/trunk/playground/gsoc/network-manager/newconn.py
+END
+icons.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/uludag/!svn/ver/26096/trunk/playground/gsoc/network-manager/icons.py
+END
+network-applet.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/26096/trunk/playground/gsoc/network-manager/network-applet.py
+END
+handler.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/uludag/!svn/ver/26096/trunk/playground/gsoc/network-manager/handler.py
+END
+network-manager.desktop
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/26096/trunk/playground/gsoc/network-manager/network-manager.desktop
+END
+browser.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/uludag/!svn/ver/26096/trunk/playground/gsoc/network-manager/browser.py
+END
+nameconf.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/uludag/!svn/ver/26096/trunk/playground/gsoc/network-manager/nameconf.py
+END

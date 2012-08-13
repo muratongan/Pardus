@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/Build/foo
+END
+control
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/Build/foo/control
+END
+postinst
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/Build/foo/postinst
+END
+control.tar.gz
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/Build/foo/control.tar.gz
+END
+debian-binary
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/Build/foo/debian-binary
+END
+postrm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/Build/foo/postrm
+END
+preinst
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/Build/foo/preinst
+END
+prerm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/Build/foo/prerm
+END
+conffiles
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/Build/foo/conffiles
+END
+iceweasel_6.0~b5-1_i386.deb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/Build/foo/iceweasel_6.0~b5-1_i386.deb
+END
+data.tar.gz
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/Build/foo/data.tar.gz
+END
+md5sums
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/38203/trunk/playground/intern/2011/obs-integration/Build/foo/md5sums
+END

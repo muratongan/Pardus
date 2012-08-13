@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/uludag/!svn/ver/37776/trunk/playground/intern/2011/python-networkmanager/networkmanager
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/uludag/!svn/ver/37514/trunk/playground/intern/2011/python-networkmanager/networkmanager/__init__.py
+END
+ipaddr.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/uludag/!svn/ver/37514/trunk/playground/intern/2011/python-networkmanager/networkmanager/ipaddr.py
+END
+enum.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/uludag/!svn/ver/37514/trunk/playground/intern/2011/python-networkmanager/networkmanager/enum.py
+END
+networkmanager.py
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/uludag/!svn/ver/37723/trunk/playground/intern/2011/python-networkmanager/networkmanager/networkmanager.py
+END
+mobile.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/uludag/!svn/ver/37776/trunk/playground/intern/2011/python-networkmanager/networkmanager/mobile.py
+END

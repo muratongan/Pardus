@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/uludag/!svn/ver/36687/trunk/playground/mehmet/koyona-poc
+END
+client.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/uludag/!svn/ver/36687/trunk/playground/mehmet/koyona-poc/client.py
+END
+conf
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/36687/trunk/playground/mehmet/koyona-poc/conf
+END
+server.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/uludag/!svn/ver/36687/trunk/playground/mehmet/koyona-poc/server.py
+END

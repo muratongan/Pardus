@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/uludag/!svn/ver/37413/trunk/mudur/bin
+END
+mudur.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/uludag/!svn/ver/37413/trunk/mudur/bin/mudur.py
+END
+update-fstab.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/uludag/!svn/ver/35635/trunk/mudur/bin/update-fstab.py
+END
+service.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/uludag/!svn/ver/35635/trunk/mudur/bin/service.py
+END
+compat.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/uludag/!svn/ver/23067/trunk/mudur/bin/compat.py
+END
+deluser.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/uludag/!svn/ver/32638/trunk/mudur/bin/deluser.py
+END
+update-environment.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/uludag/!svn/ver/35635/trunk/mudur/bin/update-environment.py
+END
+adduser.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/uludag/!svn/ver/32638/trunk/mudur/bin/adduser.py
+END

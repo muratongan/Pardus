@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/uludag/!svn/ver/12097/trunk/bugzilla/2.18.3/tr/default
+END
+filterexceptions.pl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/uludag/!svn/ver/6631/trunk/bugzilla/2.18.3/tr/default/filterexceptions.pl
+END
+index.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/uludag/!svn/ver/8497/trunk/bugzilla/2.18.3/tr/default/index.html.tmpl
+END
+config.rdf.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/uludag/!svn/ver/6631/trunk/bugzilla/2.18.3/tr/default/config.rdf.tmpl
+END
+config.js.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/uludag/!svn/ver/6631/trunk/bugzilla/2.18.3/tr/default/config.js.tmpl
+END
+sidebar.xul.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/uludag/!svn/ver/6631/trunk/bugzilla/2.18.3/tr/default/sidebar.xul.tmpl
+END

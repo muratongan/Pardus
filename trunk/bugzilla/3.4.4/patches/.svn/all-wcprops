@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/uludag/!svn/ver/28319/trunk/bugzilla/3.4.4/patches
+END
+fallback-to-text-plain-if-octet-stream-detected.patch
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/uludag/!svn/ver/28319/trunk/bugzilla/3.4.4/patches/fallback-to-text-plain-if-octet-stream-detected.patch
+END
+disallow.patch
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/28169/trunk/bugzilla/3.4.4/patches/disallow.patch
+END
+pardus-bugzilla-3.4.4-to-3.4.6.patch
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/uludag/!svn/ver/28169/trunk/bugzilla/3.4.4/patches/pardus-bugzilla-3.4.4-to-3.4.6.patch
+END
+assignedto.patch
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/uludag/!svn/ver/28169/trunk/bugzilla/3.4.4/patches/assignedto.patch
+END

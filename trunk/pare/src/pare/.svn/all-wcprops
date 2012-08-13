@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/uludag/!svn/ver/25766/trunk/pare/src/pare
+END
+parteddata.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/uludag/!svn/ver/23284/trunk/pare/src/pare/parteddata.py
+END
+partition.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/uludag/!svn/ver/23285/trunk/pare/src/pare/partition.py
+END
+diskdevice.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/uludag/!svn/ver/25766/trunk/pare/src/pare/diskdevice.py
+END
+errors.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/uludag/!svn/ver/23263/trunk/pare/src/pare/errors.py
+END
+lvmdevice.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/uludag/!svn/ver/25766/trunk/pare/src/pare/lvmdevice.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/uludag/!svn/ver/22953/trunk/pare/src/pare/__init__.py
+END
+udev.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/uludag/!svn/ver/22718/trunk/pare/src/pare/udev.py
+END
+filesystem.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/uludag/!svn/ver/23263/trunk/pare/src/pare/filesystem.py
+END
+storage.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/uludag/!svn/ver/25766/trunk/pare/src/pare/storage.py
+END

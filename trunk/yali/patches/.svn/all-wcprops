@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/uludag/!svn/ver/35285/trunk/yali/patches
+END
+repo-uri.patch
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/uludag/!svn/ver/32327/trunk/yali/patches/repo-uri.patch
+END
+raid_as_boot.patch
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/uludag/!svn/ver/34128/trunk/yali/patches/raid_as_boot.patch
+END
+root_size.patch
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/uludag/!svn/ver/34410/trunk/yali/patches/root_size.patch
+END
+Messagewindow.text.patch
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/35285/trunk/yali/patches/Messagewindow.text.patch
+END

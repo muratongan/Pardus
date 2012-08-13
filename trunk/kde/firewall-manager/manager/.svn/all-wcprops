@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/uludag/!svn/ver/37443/trunk/kde/firewall-manager/manager
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/uludag/!svn/ver/34220/trunk/kde/firewall-manager/manager/AUTHORS
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/31915/trunk/kde/firewall-manager/manager/TODO
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/uludag/!svn/ver/35141/trunk/kde/firewall-manager/manager/ChangeLog
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/37307/trunk/kde/firewall-manager/manager/setup.py
+END
+MANIFEST.in
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/uludag/!svn/ver/30505/trunk/kde/firewall-manager/manager/MANIFEST.in
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/uludag/!svn/ver/31915/trunk/kde/firewall-manager/manager/README
+END

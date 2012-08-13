@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/uludag/!svn/ver/38177/trunk/upgrade-manager
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/uludag/!svn/ver/37879/trunk/upgrade-manager/AUTHORS
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/uludag/!svn/ver/37921/trunk/upgrade-manager/TODO
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/uludag/!svn/ver/38125/trunk/upgrade-manager/setup.py
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/uludag/!svn/ver/37879/trunk/upgrade-manager/COPYING
+END
+MANIFEST.in
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/uludag/!svn/ver/37879/trunk/upgrade-manager/MANIFEST.in
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/uludag/!svn/ver/37879/trunk/upgrade-manager/README
+END

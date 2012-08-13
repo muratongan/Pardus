@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/uludag/!svn/ver/37767/trunk/playground/intern/2011/manager-improvements/boot-manager/manager/src/bootmanager
+END
+about.py
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/uludag/!svn/ver/37743/trunk/playground/intern/2011/manager-improvements/boot-manager/manager/src/bootmanager/about.py
+END
+options.py
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/uludag/!svn/ver/37743/trunk/playground/intern/2011/manager-improvements/boot-manager/manager/src/bootmanager/options.py
+END
+item.py
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/uludag/!svn/ver/37767/trunk/playground/intern/2011/manager-improvements/boot-manager/manager/src/bootmanager/item.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/uludag/!svn/ver/37743/trunk/playground/intern/2011/manager-improvements/boot-manager/manager/src/bootmanager/__init__.py
+END
+utility.py
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/uludag/!svn/ver/37743/trunk/playground/intern/2011/manager-improvements/boot-manager/manager/src/bootmanager/utility.py
+END
+context.py
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/uludag/!svn/ver/37743/trunk/playground/intern/2011/manager-improvements/boot-manager/manager/src/bootmanager/context.py
+END
+main.py
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/uludag/!svn/ver/37767/trunk/playground/intern/2011/manager-improvements/boot-manager/manager/src/bootmanager/main.py
+END
+config.py
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/uludag/!svn/ver/37743/trunk/playground/intern/2011/manager-improvements/boot-manager/manager/src/bootmanager/config.py
+END
+edit.py
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/uludag/!svn/ver/37743/trunk/playground/intern/2011/manager-improvements/boot-manager/manager/src/bootmanager/edit.py
+END
+backend.py
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/uludag/!svn/ver/37743/trunk/playground/intern/2011/manager-improvements/boot-manager/manager/src/bootmanager/backend.py
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/22399/trunk/stajyer/vendor/plugins/paperclip/test
+END
+paperclip_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/22399/trunk/stajyer/vendor/plugins/paperclip/test/paperclip_test.rb
+END
+processor_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/22399/trunk/stajyer/vendor/plugins/paperclip/test/processor_test.rb
+END
+helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/uludag/!svn/ver/22399/trunk/stajyer/vendor/plugins/paperclip/test/helper.rb
+END
+database.yml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/22399/trunk/stajyer/vendor/plugins/paperclip/test/database.yml
+END
+integration_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/uludag/!svn/ver/22399/trunk/stajyer/vendor/plugins/paperclip/test/integration_test.rb
+END
+iostream_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/22399/trunk/stajyer/vendor/plugins/paperclip/test/iostream_test.rb
+END
+thumbnail_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/22399/trunk/stajyer/vendor/plugins/paperclip/test/thumbnail_test.rb
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uludag/!svn/ver/22399/trunk/stajyer/vendor/plugins/paperclip/test/.gitignore
+END
+storage_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/22399/trunk/stajyer/vendor/plugins/paperclip/test/storage_test.rb
+END
+attachment_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/22399/trunk/stajyer/vendor/plugins/paperclip/test/attachment_test.rb
+END
+geometry_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/22399/trunk/stajyer/vendor/plugins/paperclip/test/geometry_test.rb
+END

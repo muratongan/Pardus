@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/uludag/!svn/ver/22399/trunk/stajyer/vendor/plugins/restful_authentication/generators/authenticated/templates/features/step_definitions
+END
+ra_response_steps.rb
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/uludag/!svn/ver/22399/trunk/stajyer/vendor/plugins/restful_authentication/generators/authenticated/templates/features/step_definitions/ra_response_steps.rb
+END
+ra_navigation_steps.rb
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/uludag/!svn/ver/22399/trunk/stajyer/vendor/plugins/restful_authentication/generators/authenticated/templates/features/step_definitions/ra_navigation_steps.rb
+END
+ra_resource_steps.rb
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/uludag/!svn/ver/22399/trunk/stajyer/vendor/plugins/restful_authentication/generators/authenticated/templates/features/step_definitions/ra_resource_steps.rb
+END
+ra_env.rb
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/uludag/!svn/ver/22399/trunk/stajyer/vendor/plugins/restful_authentication/generators/authenticated/templates/features/step_definitions/ra_env.rb
+END
+rest_auth_features_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/uludag/!svn/ver/22399/trunk/stajyer/vendor/plugins/restful_authentication/generators/authenticated/templates/features/step_definitions/rest_auth_features_helper.rb
+END
+user_steps.rb
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/uludag/!svn/ver/22399/trunk/stajyer/vendor/plugins/restful_authentication/generators/authenticated/templates/features/step_definitions/user_steps.rb
+END

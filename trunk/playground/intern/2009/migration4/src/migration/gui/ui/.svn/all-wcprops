@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/migration4/src/migration/gui/ui
+END
+main.ui
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/migration4/src/migration/gui/ui/main.ui
+END
+usersItemWidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/migration4/src/migration/gui/ui/usersItemWidget.ui
+END
+userFilesWidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/migration4/src/migration/gui/ui/userFilesWidget.ui
+END
+usersWidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/migration4/src/migration/gui/ui/usersWidget.ui
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/migration4/src/migration/gui/ui/__init__.py
+END
+welcomeWidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/migration4/src/migration/gui/ui/welcomeWidget.ui
+END
+raw.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/migration4/src/migration/gui/ui/raw.qrc
+END
+summaryWidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/migration4/src/migration/gui/ui/summaryWidget.ui
+END

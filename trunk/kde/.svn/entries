@@ -1,0 +1,124 @@
+10
+
+dir
+38525
+http://svn.pardus.org.tr/uludag/trunk/kde
+http://svn.pardus.org.tr/uludag
+
+
+
+2011-11-14T13:10:11.648381Z
+38462
+transifex
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+26e1f6f6-46e4-0310-a0b7-a8a415fd4c45
+
+manager-template
+dir
+
+ksplash-pardus-theme-milky
+dir
+
+quickformat
+dir
+
+user-manager
+dir
+
+migration
+dir
+
+sysinfo
+dir
+
+plasmoids
+dir
+
+system-manager
+dir
+
+network-manager
+dir
+
+ksplash-pardus-theme
+dir
+
+disk-manager
+dir
+
+tutorial
+dir
+
+tasma
+dir
+
+kdm-smartcard-helper
+dir
+
+kdm-theme-pardus
+dir
+
+boot-manager
+dir
+
+panda-kde
+dir
+
+knazar
+dir
+
+dbus-pyqt3-mainloop
+dir
+
+kded_kosd
+dir
+
+plasma_runner_pisi
+dir
+
+pardusman
+dir
+
+kio-to-local
+dir
+
+PolicyKit-kde3
+dir
+
+kernel-modules-manager
+dir
+
+package-manager
+dir
+
+display-settings
+dir
+
+service-manager
+dir
+
+history-manager
+dir
+
+kde3-to-kde4-iconconverter
+dir
+
+firewall-manager
+dir
+
+kaptan
+dir
+

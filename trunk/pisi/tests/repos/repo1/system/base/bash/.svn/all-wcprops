@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/uludag/!svn/ver/30936/trunk/pisi/tests/repos/repo1/system/base/bash
+END
+actions.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/30936/trunk/pisi/tests/repos/repo1/system/base/bash/actions.py
+END
+pspec.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/30936/trunk/pisi/tests/repos/repo1/system/base/bash/pspec.xml
+END

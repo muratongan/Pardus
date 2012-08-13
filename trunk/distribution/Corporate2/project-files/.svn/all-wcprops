@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/37421/trunk/distribution/Corporate2/project-files
+END
+live-i686.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/36111/trunk/distribution/Corporate2/project-files/live-i686.xml
+END
+installation-i686.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/uludag/!svn/ver/37421/trunk/distribution/Corporate2/project-files/installation-i686.xml
+END
+live-x86_64.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/36111/trunk/distribution/Corporate2/project-files/live-x86_64.xml
+END
+installation-x86_64.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/uludag/!svn/ver/37421/trunk/distribution/Corporate2/project-files/installation-x86_64.xml
+END

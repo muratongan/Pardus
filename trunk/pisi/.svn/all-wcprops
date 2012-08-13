@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/uludag/!svn/ver/38516/trunk/pisi
+END
+RefactorPlan
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/uludag/!svn/ver/26218/trunk/pisi/RefactorPlan
+END
+pisi-spec.rng
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/uludag/!svn/ver/38415/trunk/pisi/pisi-spec.rng
+END
+ApiPlan
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/uludag/!svn/ver/26218/trunk/pisi/ApiPlan
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/uludag/!svn/ver/31293/trunk/pisi/AUTHORS
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/uludag/!svn/ver/37901/trunk/pisi/ChangeLog
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/uludag/!svn/ver/37077/trunk/pisi/setup.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/uludag/!svn/ver/26218/trunk/pisi/README
+END
+CODING
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/uludag/!svn/ver/26218/trunk/pisi/CODING
+END
+ChangeLog.OLD
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/uludag/!svn/ver/29810/trunk/pisi/ChangeLog.OLD
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/uludag/!svn/ver/26218/trunk/pisi/TODO
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/uludag/!svn/ver/26218/trunk/pisi/INSTALL
+END
+pisi-spec.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/uludag/!svn/ver/36492/trunk/pisi/pisi-spec.dtd
+END
+pisi.xml.in
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/uludag/!svn/ver/37077/trunk/pisi/pisi.xml.in
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/uludag/!svn/ver/26218/trunk/pisi/COPYING
+END
+pisi-cli
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/uludag/!svn/ver/32557/trunk/pisi/pisi-cli
+END
+MANIFEST.in
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/uludag/!svn/ver/37859/trunk/pisi/MANIFEST.in
+END

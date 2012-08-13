@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/uludag/!svn/ver/26096/trunk/playground/gsoc/web-pardusman/repotools
+END
+views.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uludag/!svn/ver/26096/trunk/playground/gsoc/web-pardusman/repotools/views.py
+END
+packages.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/26096/trunk/playground/gsoc/web-pardusman/repotools/packages.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/26096/trunk/playground/gsoc/web-pardusman/repotools/__init__.py
+END
+graph.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uludag/!svn/ver/26096/trunk/playground/gsoc/web-pardusman/repotools/graph.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/26096/trunk/playground/gsoc/web-pardusman/repotools/models.py
+END
+project.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/26096/trunk/playground/gsoc/web-pardusman/repotools/project.py
+END

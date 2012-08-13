@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/uludag/!svn/ver/26141/trunk/python-iptables
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/uludag/!svn/ver/26141/trunk/python-iptables/setup.py
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/uludag/!svn/ver/26141/trunk/python-iptables/COPYING
+END
+iptables.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/uludag/!svn/ver/26141/trunk/python-iptables/iptables.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/uludag/!svn/ver/26141/trunk/python-iptables/README
+END

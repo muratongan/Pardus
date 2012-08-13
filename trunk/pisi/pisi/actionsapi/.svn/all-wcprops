@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/uludag/!svn/ver/38339/trunk/pisi/pisi/actionsapi
+END
+shelltools.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/uludag/!svn/ver/38276/trunk/pisi/pisi/actionsapi/shelltools.py
+END
+autotools.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/30741/trunk/pisi/pisi/actionsapi/autotools.py
+END
+perlmodules.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/uludag/!svn/ver/30108/trunk/pisi/pisi/actionsapi/perlmodules.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/uludag/!svn/ver/30108/trunk/pisi/pisi/actionsapi/__init__.py
+END
+kerneltools.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/uludag/!svn/ver/35934/trunk/pisi/pisi/actionsapi/kerneltools.py
+END
+cmaketools.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/uludag/!svn/ver/31442/trunk/pisi/pisi/actionsapi/cmaketools.py
+END
+kde.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/uludag/!svn/ver/30108/trunk/pisi/pisi/actionsapi/kde.py
+END
+pkgconfig.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/38230/trunk/pisi/pisi/actionsapi/pkgconfig.py
+END
+qt4.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/uludag/!svn/ver/32435/trunk/pisi/pisi/actionsapi/qt4.py
+END
+variables.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/38339/trunk/pisi/pisi/actionsapi/variables.py
+END
+coreutils.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/30108/trunk/pisi/pisi/actionsapi/coreutils.py
+END
+texlivemodules.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/uludag/!svn/ver/32433/trunk/pisi/pisi/actionsapi/texlivemodules.py
+END
+pythonmodules.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/28250/trunk/pisi/pisi/actionsapi/pythonmodules.py
+END
+javamodules.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/uludag/!svn/ver/38338/trunk/pisi/pisi/actionsapi/javamodules.py
+END
+rubymodules.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/uludag/!svn/ver/31292/trunk/pisi/pisi/actionsapi/rubymodules.py
+END
+pisitoolsfunctions.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/uludag/!svn/ver/31133/trunk/pisi/pisi/actionsapi/pisitoolsfunctions.py
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/uludag/!svn/ver/26218/trunk/pisi/pisi/actionsapi/TODO
+END
+get.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/uludag/!svn/ver/38339/trunk/pisi/pisi/actionsapi/get.py
+END
+pisitools.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/32312/trunk/pisi/pisi/actionsapi/pisitools.py
+END
+scons.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/uludag/!svn/ver/30107/trunk/pisi/pisi/actionsapi/scons.py
+END
+libtools.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/uludag/!svn/ver/30108/trunk/pisi/pisi/actionsapi/libtools.py
+END
+kde4.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/uludag/!svn/ver/31450/trunk/pisi/pisi/actionsapi/kde4.py
+END

@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/10688/trunk/bugzilla/2.18.3/tr/default/global
+END
+site-navigation.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/6631/trunk/bugzilla/2.18.3/tr/default/global/site-navigation.html.tmpl
+END
+code-error.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/6631/trunk/bugzilla/2.18.3/tr/default/global/code-error.html.tmpl
+END
+confirm-user-match.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/uludag/!svn/ver/6631/trunk/bugzilla/2.18.3/tr/default/global/confirm-user-match.html.tmpl
+END
+variables.none.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/6631/trunk/bugzilla/2.18.3/tr/default/global/variables.none.tmpl
+END
+banner.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/6631/trunk/bugzilla/2.18.3/tr/default/global/banner.html.tmpl
+END
+user-error.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/6631/trunk/bugzilla/2.18.3/tr/default/global/user-error.html.tmpl
+END
+messages.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/10688/trunk/bugzilla/2.18.3/tr/default/global/messages.html.tmpl
+END
+field-descs.none.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/6631/trunk/bugzilla/2.18.3/tr/default/global/field-descs.none.tmpl
+END
+help-header.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/6631/trunk/bugzilla/2.18.3/tr/default/global/help-header.html.tmpl
+END
+useful-links.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/6631/trunk/bugzilla/2.18.3/tr/default/global/useful-links.html.tmpl
+END
+select-menu.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/6631/trunk/bugzilla/2.18.3/tr/default/global/select-menu.html.tmpl
+END
+message.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/6631/trunk/bugzilla/2.18.3/tr/default/global/message.html.tmpl
+END
+help.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/uludag/!svn/ver/6631/trunk/bugzilla/2.18.3/tr/default/global/help.html.tmpl
+END
+header.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/8488/trunk/bugzilla/2.18.3/tr/default/global/header.html.tmpl
+END
+x
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/uludag/!svn/ver/10688/trunk/bugzilla/2.18.3/tr/default/global/x
+END
+initialize.none.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/6631/trunk/bugzilla/2.18.3/tr/default/global/initialize.none.tmpl
+END
+footer.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/6631/trunk/bugzilla/2.18.3/tr/default/global/footer.html.tmpl
+END
+choose-product.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/uludag/!svn/ver/6631/trunk/bugzilla/2.18.3/tr/default/global/choose-product.html.tmpl
+END
+hidden-fields.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/6631/trunk/bugzilla/2.18.3/tr/default/global/hidden-fields.html.tmpl
+END

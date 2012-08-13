@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/26096/trunk/playground/gsoc/bug-reporting-tool/patches/pybugz
+END
+0002-bugzilla.py-Support-for-custom-filename.patch
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/uludag/!svn/ver/26096/trunk/playground/gsoc/bug-reporting-tool/patches/pybugz/0002-bugzilla.py-Support-for-custom-filename.patch
+END
+0007-maintenance-switched-tabs-for-whitespace.patch
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/uludag/!svn/ver/26096/trunk/playground/gsoc/bug-reporting-tool/patches/pybugz/0007-maintenance-switched-tabs-for-whitespace.patch
+END
+0006-bugzilla.py-fetching-attachment-info-when-requested.patch
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/uludag/!svn/ver/26096/trunk/playground/gsoc/bug-reporting-tool/patches/pybugz/0006-bugzilla.py-fetching-attachment-info-when-requested.patch
+END
+0010-Additional-statutes-working-for-weird-bz-version.patch
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/uludag/!svn/ver/26096/trunk/playground/gsoc/bug-reporting-tool/patches/pybugz/0010-Additional-statutes-working-for-weird-bz-version.patch
+END
+0003-FIX-IndexError-when-searching-for-non-existant-keywo.patch
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/uludag/!svn/ver/26096/trunk/playground/gsoc/bug-reporting-tool/patches/pybugz/0003-FIX-IndexError-when-searching-for-non-existant-keywo.patch
+END
+0008-Making-modify-work-on-Bugzilla-3.2.0.1-1.patch
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/uludag/!svn/ver/26096/trunk/playground/gsoc/bug-reporting-tool/patches/pybugz/0008-Making-modify-work-on-Bugzilla-3.2.0.1-1.patch
+END
+0001-encode_multipart_formdata-fails-during-attach.patch
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/uludag/!svn/ver/26096/trunk/playground/gsoc/bug-reporting-tool/patches/pybugz/0001-encode_multipart_formdata-fails-during-attach.patch
+END
+0009-cleanup.patch
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/uludag/!svn/ver/26096/trunk/playground/gsoc/bug-reporting-tool/patches/pybugz/0009-cleanup.patch
+END
+0004-bugzilla.py-implemented-modify_attachment.patch
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/uludag/!svn/ver/26096/trunk/playground/gsoc/bug-reporting-tool/patches/pybugz/0004-bugzilla.py-implemented-modify_attachment.patch
+END
+0005-FIX-Indentation-error-on-modify_attachment.patch
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/uludag/!svn/ver/26096/trunk/playground/gsoc/bug-reporting-tool/patches/pybugz/0005-FIX-Indentation-error-on-modify_attachment.patch
+END

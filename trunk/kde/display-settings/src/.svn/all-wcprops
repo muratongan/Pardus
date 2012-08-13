@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/uludag/!svn/ver/34805/trunk/kde/display-settings/src
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/uludag/!svn/ver/30508/trunk/kde/display-settings/src/__init__.py
+END
+display-settings.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/uludag/!svn/ver/30508/trunk/kde/display-settings/src/display-settings.py
+END
+display-devices.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/uludag/!svn/ver/30508/trunk/kde/display-settings/src/display-devices.py
+END
+display-settings.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/uludag/!svn/ver/30508/trunk/kde/display-settings/src/display-settings.sh
+END

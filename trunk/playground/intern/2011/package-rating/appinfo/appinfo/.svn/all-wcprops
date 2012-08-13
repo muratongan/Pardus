@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/38023/trunk/playground/intern/2011/package-rating/appinfo/appinfo
+END
+base.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/uludag/!svn/ver/38022/trunk/playground/intern/2011/package-rating/appinfo/appinfo/base.py
+END
+client.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/uludag/!svn/ver/38023/trunk/playground/intern/2011/package-rating/appinfo/appinfo/client.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/uludag/!svn/ver/38022/trunk/playground/intern/2011/package-rating/appinfo/appinfo/__init__.py
+END
+test.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/uludag/!svn/ver/38022/trunk/playground/intern/2011/package-rating/appinfo/appinfo/test.py
+END
+utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/uludag/!svn/ver/38022/trunk/playground/intern/2011/package-rating/appinfo/appinfo/utils.py
+END
+database.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/uludag/!svn/ver/38023/trunk/playground/intern/2011/package-rating/appinfo/appinfo/database.py
+END
+config.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/uludag/!svn/ver/38022/trunk/playground/intern/2011/package-rating/appinfo/appinfo/config.py
+END
+server.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/uludag/!svn/ver/38023/trunk/playground/intern/2011/package-rating/appinfo/appinfo/server.py
+END

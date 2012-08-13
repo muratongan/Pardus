@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/uludag/!svn/ver/22532/trunk/security_pardus/django/contrib/contenttypes
+END
+management.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/uludag/!svn/ver/22532/trunk/security_pardus/django/contrib/contenttypes/management.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/22532/trunk/security_pardus/django/contrib/contenttypes/__init__.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/22532/trunk/security_pardus/django/contrib/contenttypes/models.py
+END

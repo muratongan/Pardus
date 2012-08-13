@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/uludag/!svn/ver/14540/trunk/ulubot/src
+END
+command.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/uludag/!svn/ver/40/trunk/ulubot/src/command.c
+END
+prefs.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/uludag/!svn/ver/40/trunk/ulubot/src/prefs.c
+END
+dict.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/uludag/!svn/ver/40/trunk/ulubot/src/dict.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/uludag/!svn/ver/14540/trunk/ulubot/src/main.c
+END
+jabber.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/uludag/!svn/ver/14540/trunk/ulubot/src/jabber.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/uludag/!svn/ver/40/trunk/ulubot/src/Makefile.am
+END
+import.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/uludag/!svn/ver/40/trunk/ulubot/src/import.c
+END

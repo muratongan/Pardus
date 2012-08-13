@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/uludag/!svn/ver/26096/trunk/playground/gsoc/bug-reporting-tool/apport/doc
+END
+crashdb-conf.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/uludag/!svn/ver/26096/trunk/playground/gsoc/bug-reporting-tool/apport/doc/crashdb-conf.txt
+END
+symptoms.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/26096/trunk/playground/gsoc/bug-reporting-tool/apport/doc/symptoms.txt
+END
+package-hooks.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/uludag/!svn/ver/26096/trunk/playground/gsoc/bug-reporting-tool/apport/doc/package-hooks.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/26096/trunk/playground/gsoc/bug-reporting-tool/apport/doc/Makefile
+END
+data-format.tex
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/uludag/!svn/ver/26096/trunk/playground/gsoc/bug-reporting-tool/apport/doc/data-format.tex
+END

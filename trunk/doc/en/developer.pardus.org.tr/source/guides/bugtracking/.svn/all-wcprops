@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/38472/trunk/doc/en/developer.pardus.org.tr/source/guides/bugtracking
+END
+howto_bug_triage.rst
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/uludag/!svn/ver/38472/trunk/doc/en/developer.pardus.org.tr/source/guides/bugtracking/howto_bug_triage.rst
+END
+finding_duplicates.rst
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/uludag/!svn/ver/32517/trunk/doc/en/developer.pardus.org.tr/source/guides/bugtracking/finding_duplicates.rst
+END
+bug_cycle.rst
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/uludag/!svn/ver/38447/trunk/doc/en/developer.pardus.org.tr/source/guides/bugtracking/bug_cycle.rst
+END
+correct_component.rst
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/uludag/!svn/ver/32517/trunk/doc/en/developer.pardus.org.tr/source/guides/bugtracking/correct_component.rst
+END
+stock_responses.rst
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/uludag/!svn/ver/32517/trunk/doc/en/developer.pardus.org.tr/source/guides/bugtracking/stock_responses.rst
+END
+bug_and_feature_requests.rst
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/uludag/!svn/ver/37870/trunk/doc/en/developer.pardus.org.tr/source/guides/bugtracking/bug_and_feature_requests.rst
+END
+stack_traces.rst
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/uludag/!svn/ver/33299/trunk/doc/en/developer.pardus.org.tr/source/guides/bugtracking/stack_traces.rst
+END
+tracker_bug_process.rst
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/uludag/!svn/ver/38315/trunk/doc/en/developer.pardus.org.tr/source/guides/bugtracking/tracker_bug_process.rst
+END
+index.rst
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/uludag/!svn/ver/35675/trunk/doc/en/developer.pardus.org.tr/source/guides/bugtracking/index.rst
+END

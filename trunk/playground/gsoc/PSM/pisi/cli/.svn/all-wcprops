@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/cli
+END
+delta.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/cli/delta.py
+END
+remove.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/cli/remove.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/cli/__init__.py
+END
+build.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/cli/build.py
+END
+history.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/cli/history.py
+END
+emerge.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/cli/emerge.py
+END
+searchfile.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/cli/searchfile.py
+END
+index.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/cli/index.py
+END
+updaterepo.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/cli/updaterepo.py
+END
+listinstalled.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/cli/listinstalled.py
+END
+addrepo.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/cli/addrepo.py
+END
+command.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/cli/command.py
+END
+listpending.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/cli/listpending.py
+END
+clean.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/cli/clean.py
+END
+deletecache.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/cli/deletecache.py
+END
+help.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/cli/help.py
+END
+info.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/cli/info.py
+END
+rebuilddb.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/cli/rebuilddb.py
+END
+pisicli.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/cli/pisicli.py
+END
+listrepo.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/cli/listrepo.py
+END
+graph.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/cli/graph.py
+END
+search.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/cli/search.py
+END
+listupgrades.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/cli/listupgrades.py
+END
+install.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/cli/install.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/cli/README
+END
+listavailable.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/cli/listavailable.py
+END
+check.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/cli/check.py
+END
+listsources.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/cli/listsources.py
+END
+listcomponents.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/cli/listcomponents.py
+END
+removerepo.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/cli/removerepo.py
+END
+configurepending.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/cli/configurepending.py
+END
+upgrade.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/cli/upgrade.py
+END

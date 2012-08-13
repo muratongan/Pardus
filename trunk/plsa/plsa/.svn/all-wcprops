@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/uludag/!svn/ver/11891/trunk/plsa/plsa
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/uludag/!svn/ver/11891/trunk/plsa/plsa/__init__.py
+END
+xml.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/uludag/!svn/ver/11891/trunk/plsa/plsa/xml.py
+END
+mail.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/uludag/!svn/ver/11891/trunk/plsa/plsa/mail.py
+END
+utility.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/uludag/!svn/ver/11891/trunk/plsa/plsa/utility.py
+END
+validator.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/uludag/!svn/ver/11891/trunk/plsa/plsa/validator.py
+END

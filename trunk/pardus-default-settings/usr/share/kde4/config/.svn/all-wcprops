@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/uludag/!svn/ver/32692/trunk/pardus-default-settings/usr/share/kde4/config
+END
+kcmfonts
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/31598/trunk/pardus-default-settings/usr/share/kde4/config/kcmfonts
+END
+kdeglobals
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/32692/trunk/pardus-default-settings/usr/share/kde4/config/kdeglobals
+END
+gtkrc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/32688/trunk/pardus-default-settings/usr/share/kde4/config/gtkrc
+END
+ksplashrc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/31598/trunk/pardus-default-settings/usr/share/kde4/config/ksplashrc
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/uludag/!svn/ver/12311/trunk/planet/planet/compat_logging
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/uludag/!svn/ver/12311/trunk/planet/planet/compat_logging/__init__.py
+END
+handlers.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/uludag/!svn/ver/12311/trunk/planet/planet/compat_logging/handlers.py
+END
+config.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/uludag/!svn/ver/12311/trunk/planet/planet/compat_logging/config.py
+END

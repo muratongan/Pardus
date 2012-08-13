@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/uludag/!svn/ver/38406/trunk/ahenk/lider/data
+END
+firewall.fwb
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/uludag/!svn/ver/38309/trunk/ahenk/lider/data/firewall.fwb
+END
+plugins.conf
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/uludag/!svn/ver/38406/trunk/ahenk/lider/data/plugins.conf
+END
+firewall-failsafe.fwb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/uludag/!svn/ver/38309/trunk/ahenk/lider/data/firewall-failsafe.fwb
+END

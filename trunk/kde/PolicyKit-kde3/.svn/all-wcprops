@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/uludag/!svn/ver/26100/trunk/kde/PolicyKit-kde3
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/uludag/!svn/ver/26100/trunk/kde/PolicyKit-kde3/TODO
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/uludag/!svn/ver/26100/trunk/kde/PolicyKit-kde3/COPYING
+END
+polkit-x11-transient.patch
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/uludag/!svn/ver/26100/trunk/kde/PolicyKit-kde3/polkit-x11-transient.patch
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/26100/trunk/kde/PolicyKit-kde3/CMakeLists.txt
+END

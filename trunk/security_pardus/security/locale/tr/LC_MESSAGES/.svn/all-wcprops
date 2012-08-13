@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/uludag/!svn/ver/20106/trunk/security_pardus/security/locale/tr/LC_MESSAGES
+END
+django.po
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/20083/trunk/security_pardus/security/locale/tr/LC_MESSAGES/django.po
+END
+django.mo
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/20106/trunk/security_pardus/security/locale/tr/LC_MESSAGES/django.mo
+END

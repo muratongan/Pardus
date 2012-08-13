@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uludag/!svn/ver/31257/trunk/playground/gsoc/konfig-tracker/src/konfigtracker
+END
+about.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/uludag/!svn/ver/31255/trunk/playground/gsoc/konfig-tracker/src/konfigtracker/about.py
+END
+konfigtrackermain.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/uludag/!svn/ver/31257/trunk/playground/gsoc/konfig-tracker/src/konfigtracker/konfigtrackermain.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/uludag/!svn/ver/31234/trunk/playground/gsoc/konfig-tracker/src/konfigtracker/__init__.py
+END
+operations.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/uludag/!svn/ver/31238/trunk/playground/gsoc/konfig-tracker/src/konfigtracker/operations.py
+END
+monitor.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/uludag/!svn/ver/31234/trunk/playground/gsoc/konfig-tracker/src/konfigtracker/monitor.py
+END

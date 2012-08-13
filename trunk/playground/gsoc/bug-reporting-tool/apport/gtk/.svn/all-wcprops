@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/uludag/!svn/ver/26096/trunk/playground/gsoc/bug-reporting-tool/apport/gtk
+END
+apport-gtk.ui
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/uludag/!svn/ver/26096/trunk/playground/gsoc/bug-reporting-tool/apport/gtk/apport-gtk.ui
+END
+apport-gtk.desktop.in
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/uludag/!svn/ver/26096/trunk/playground/gsoc/bug-reporting-tool/apport/gtk/apport-gtk.desktop.in
+END
+apport-gtk
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/26096/trunk/playground/gsoc/bug-reporting-tool/apport/gtk/apport-gtk
+END
+apport-gtk-mime.desktop.in
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/uludag/!svn/ver/26096/trunk/playground/gsoc/bug-reporting-tool/apport/gtk/apport-gtk-mime.desktop.in
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/26096/trunk/playground/gsoc/bug-reporting-tool/apport/gtk/Makefile
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/uludag/!svn/ver/23076/trunk/comar/comar/tests
+END
+hav.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/uludag/!svn/ver/23076/trunk/comar/comar/tests/hav.py
+END
+test.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/uludag/!svn/ver/23076/trunk/comar/comar/tests/test.py
+END
+run.sh
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/uludag/!svn/ver/23076/trunk/comar/comar/tests/run.sh
+END

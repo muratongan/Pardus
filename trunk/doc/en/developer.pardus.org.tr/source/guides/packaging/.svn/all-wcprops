@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/38472/trunk/doc/en/developer.pardus.org.tr/source/guides/packaging
+END
+package_update_process.rst
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/uludag/!svn/ver/38428/trunk/doc/en/developer.pardus.org.tr/source/guides/packaging/package_update_process.rst
+END
+package_naming_guidelines.rst
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/uludag/!svn/ver/35978/trunk/doc/en/developer.pardus.org.tr/source/guides/packaging/package_naming_guidelines.rst
+END
+packaging_guidelines.rst
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/uludag/!svn/ver/37870/trunk/doc/en/developer.pardus.org.tr/source/guides/packaging/packaging_guidelines.rst
+END
+howto_build_pisi_package.rst
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/uludag/!svn/ver/32824/trunk/doc/en/developer.pardus.org.tr/source/guides/packaging/howto_build_pisi_package.rst
+END
+binary_package_naming_guidelines.rst
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/uludag/!svn/ver/35694/trunk/doc/en/developer.pardus.org.tr/source/guides/packaging/binary_package_naming_guidelines.rst
+END
+package_components.rst
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/uludag/!svn/ver/36466/trunk/doc/en/developer.pardus.org.tr/source/guides/packaging/package_components.rst
+END
+checkelf.rst
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/uludag/!svn/ver/35066/trunk/doc/en/developer.pardus.org.tr/source/guides/packaging/checkelf.rst
+END
+texlive_packaging.rst
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/uludag/!svn/ver/36466/trunk/doc/en/developer.pardus.org.tr/source/guides/packaging/texlive_packaging.rst
+END
+howto_create_pisi_packages.rst
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/uludag/!svn/ver/36507/trunk/doc/en/developer.pardus.org.tr/source/guides/packaging/howto_create_pisi_packages.rst
+END
+package-review-process.rst
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/uludag/!svn/ver/38472/trunk/doc/en/developer.pardus.org.tr/source/guides/packaging/package-review-process.rst
+END
+index.rst
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/uludag/!svn/ver/37842/trunk/doc/en/developer.pardus.org.tr/source/guides/packaging/index.rst
+END
+reviewing_guidelines.rst
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/uludag/!svn/ver/38149/trunk/doc/en/developer.pardus.org.tr/source/guides/packaging/reviewing_guidelines.rst
+END

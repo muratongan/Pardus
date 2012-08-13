@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/uludag/!svn/ver/26950/trunk/bugzilla/3.4/en/default/email
+END
+newchangedmail.txt.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/26950/trunk/bugzilla/3.4/en/default/email/newchangedmail.txt.tmpl
+END
+sudo.txt.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/uludag/!svn/ver/25353/trunk/bugzilla/3.4/en/default/email/sudo.txt.tmpl
+END
+whine.txt.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/uludag/!svn/ver/25353/trunk/bugzilla/3.4/en/default/email/whine.txt.tmpl
+END
+votes-removed.txt.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/25353/trunk/bugzilla/3.4/en/default/email/votes-removed.txt.tmpl
+END
+sanitycheck.txt.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/25353/trunk/bugzilla/3.4/en/default/email/sanitycheck.txt.tmpl
+END

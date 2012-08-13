@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/uludag/!svn/ver/27688/trunk/noan/templates/profile
+END
+user-detail.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/uludag/!svn/ver/27688/trunk/noan/templates/profile/user-detail.html
+END
+user-profile-edit.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/uludag/!svn/ver/27661/trunk/noan/templates/profile/user-profile-edit.html
+END
+password-change.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/uludag/!svn/ver/26833/trunk/noan/templates/profile/password-change.html
+END
+user-list.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/27661/trunk/noan/templates/profile/user-list.html
+END
+login.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/27661/trunk/noan/templates/profile/login.html
+END
+logout.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/uludag/!svn/ver/27662/trunk/noan/templates/profile/logout.html
+END

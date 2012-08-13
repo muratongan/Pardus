@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/uludag/!svn/ver/6631/trunk/bugzilla/2.18.3/tr/default/pages
+END
+linkify.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/6631/trunk/bugzilla/2.18.3/tr/default/pages/linkify.html.tmpl
+END
+fields.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uludag/!svn/ver/6631/trunk/bugzilla/2.18.3/tr/default/pages/fields.html.tmpl
+END
+linked.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uludag/!svn/ver/6631/trunk/bugzilla/2.18.3/tr/default/pages/linked.html.tmpl
+END
+voting.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uludag/!svn/ver/6631/trunk/bugzilla/2.18.3/tr/default/pages/voting.html.tmpl
+END
+bug-writing.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/6631/trunk/bugzilla/2.18.3/tr/default/pages/bug-writing.html.tmpl
+END

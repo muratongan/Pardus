@@ -1,0 +1,419 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/uludag/!svn/ver/38521/trunk/scripts
+END
+mass-dependency-bump
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/uludag/!svn/ver/33535/trunk/scripts/mass-dependency-bump
+END
+list-missing-packages-for-distupdate
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/uludag/!svn/ver/36839/trunk/scripts/list-missing-packages-for-distupdate
+END
+find-duplicate-pkgs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/uludag/!svn/ver/32288/trunk/scripts/find-duplicate-pkgs
+END
+find-obsolete-debug-packages
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/uludag/!svn/ver/35646/trunk/scripts/find-obsolete-debug-packages
+END
+pisilint
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/uludag/!svn/ver/38475/trunk/scripts/pisilint
+END
+image-writer
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/uludag/!svn/ver/35852/trunk/scripts/image-writer
+END
+get-package-list-diff-from-index
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/uludag/!svn/ver/26850/trunk/scripts/get-package-list-diff-from-index
+END
+dated-packages
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/uludag/!svn/ver/26105/trunk/scripts/dated-packages
+END
+circledep-finder
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/uludag/!svn/ver/38188/trunk/scripts/circledep-finder
+END
+analyze-firmwares
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/uludag/!svn/ver/30367/trunk/scripts/analyze-firmwares
+END
+find-delta-packages-to-merge
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/uludag/!svn/ver/26105/trunk/scripts/find-delta-packages-to-merge
+END
+distupdate-planner
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/uludag/!svn/ver/37491/trunk/scripts/distupdate-planner
+END
+change-distro-tag-in-pisi-files
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/uludag/!svn/ver/27237/trunk/scripts/change-distro-tag-in-pisi-files
+END
+conflict-detector
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/uludag/!svn/ver/33773/trunk/scripts/conflict-detector
+END
+get-redmine-issues
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/uludag/!svn/ver/35868/trunk/scripts/get-redmine-issues
+END
+bump-kde-l10n
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/uludag/!svn/ver/38446/trunk/scripts/bump-kde-l10n
+END
+check-repo-index-consistency
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/uludag/!svn/ver/36003/trunk/scripts/check-repo-index-consistency
+END
+find-future-history-dates
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/31467/trunk/scripts/find-future-history-dates
+END
+compare-files
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/uludag/!svn/ver/30521/trunk/scripts/compare-files
+END
+find-newly-added-packages
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/26105/trunk/scripts/find-newly-added-packages
+END
+find-security-updates
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/uludag/!svn/ver/36696/trunk/scripts/find-security-updates
+END
+check-integrity-archives
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/uludag/!svn/ver/26105/trunk/scripts/check-integrity-archives
+END
+find-unused-packages
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/uludag/!svn/ver/27422/trunk/scripts/find-unused-packages
+END
+pisi.vim
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/uludag/!svn/ver/37900/trunk/scripts/pisi.vim
+END
+find-urgent-packages
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/uludag/!svn/ver/26105/trunk/scripts/find-urgent-packages
+END
+mass-build-dependency-change
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/uludag/!svn/ver/30354/trunk/scripts/mass-build-dependency-change
+END
+list-package-tags
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/uludag/!svn/ver/26105/trunk/scripts/list-package-tags
+END
+list-component-owners-and-packages
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/uludag/!svn/ver/36469/trunk/scripts/list-component-owners-and-packages
+END
+find-revdeps-of-pattern
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/uludag/!svn/ver/34140/trunk/scripts/find-revdeps-of-pattern
+END
+check-integrity-packages
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/uludag/!svn/ver/26105/trunk/scripts/check-integrity-packages
+END
+ack-report
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/uludag/!svn/ver/34213/trunk/scripts/ack-report
+END
+forensic
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/uludag/!svn/ver/38445/trunk/scripts/forensic
+END
+split-library-packages
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/uludag/!svn/ver/32470/trunk/scripts/split-library-packages
+END
+repo-diff
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/uludag/!svn/ver/37025/trunk/scripts/repo-diff
+END
+find-waiting-packages-for-ack
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/37119/trunk/scripts/find-waiting-packages-for-ack
+END
+takeover
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/uludag/!svn/ver/38380/trunk/scripts/takeover
+END
+lxc-pardus
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/uludag/!svn/ver/36988/trunk/scripts/lxc-pardus
+END
+pisimerge
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/uludag/!svn/ver/36182/trunk/scripts/pisimerge
+END
+rbump
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/uludag/!svn/ver/33065/trunk/scripts/rbump
+END
+svg2png
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/uludag/!svn/ver/31962/trunk/scripts/svg2png
+END
+list-package-diff-between-repos
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/uludag/!svn/ver/38247/trunk/scripts/list-package-diff-between-repos
+END
+no-translations
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/uludag/!svn/ver/37832/trunk/scripts/no-translations
+END
+cd-diff
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/uludag/!svn/ver/38456/trunk/scripts/cd-diff
+END
+package-owners-diff2
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/uludag/!svn/ver/38445/trunk/scripts/package-owners-diff2
+END
+bump
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/uludag/!svn/ver/38515/trunk/scripts/bump
+END
+checkelf
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/uludag/!svn/ver/34732/trunk/scripts/checkelf
+END
+packager-stats
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/uludag/!svn/ver/38440/trunk/scripts/packager-stats
+END
+find-packages-not-compiled-in-farm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/uludag/!svn/ver/36865/trunk/scripts/find-packages-not-compiled-in-farm
+END
+sync-ownerships
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/uludag/!svn/ver/38441/trunk/scripts/sync-ownerships
+END
+create-docbook-catalogs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/uludag/!svn/ver/37092/trunk/scripts/create-docbook-catalogs
+END
+unmaintained
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/uludag/!svn/ver/26105/trunk/scripts/unmaintained
+END
+mkchangelog
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/uludag/!svn/ver/26105/trunk/scripts/mkchangelog
+END
+find-unapplied-patches
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/uludag/!svn/ver/26105/trunk/scripts/find-unapplied-patches
+END
+from-review-to-repo
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/uludag/!svn/ver/36793/trunk/scripts/from-review-to-repo
+END
+list-urgent-package-dependencies
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/uludag/!svn/ver/33634/trunk/scripts/list-urgent-package-dependencies
+END
+list-repo-packages
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/uludag/!svn/ver/26105/trunk/scripts/list-repo-packages
+END
+check-CPAN
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/uludag/!svn/ver/38445/trunk/scripts/check-CPAN
+END
+measure-build
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/uludag/!svn/ver/26664/trunk/scripts/measure-build
+END
+reinstall-localhost-packages
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/uludag/!svn/ver/35971/trunk/scripts/reinstall-localhost-packages
+END
+svn2changelog
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/uludag/!svn/ver/28248/trunk/scripts/svn2changelog
+END
+intersect
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/uludag/!svn/ver/26105/trunk/scripts/intersect
+END
+checkout-fedora
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/uludag/!svn/ver/34637/trunk/scripts/checkout-fedora
+END
+checkout-mandriva
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/uludag/!svn/ver/35735/trunk/scripts/checkout-mandriva
+END
+make-git-snapshot.sh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/uludag/!svn/ver/28941/trunk/scripts/make-git-snapshot.sh
+END
+send-stable-update-announcement
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/uludag/!svn/ver/38436/trunk/scripts/send-stable-update-announcement
+END
+dep-checker
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/uludag/!svn/ver/26105/trunk/scripts/dep-checker
+END
+get-suse-srpm
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/uludag/!svn/ver/37318/trunk/scripts/get-suse-srpm
+END
+create-perl-package-from-cpan
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/36419/trunk/scripts/create-perl-package-from-cpan
+END
+find-packages-from-same-source
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/uludag/!svn/ver/26105/trunk/scripts/find-packages-from-same-source
+END

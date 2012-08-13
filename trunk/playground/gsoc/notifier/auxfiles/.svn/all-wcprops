@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/26096/trunk/playground/gsoc/notifier/auxfiles
+END
+org.pardus.notificationmanager.service
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/uludag/!svn/ver/26096/trunk/playground/gsoc/notifier/auxfiles/org.pardus.notificationmanager.service
+END
+sampleconfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/26096/trunk/playground/gsoc/notifier/auxfiles/sampleconfig.xml
+END
+pnm.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/uludag/!svn/ver/26096/trunk/playground/gsoc/notifier/auxfiles/pnm.xsd
+END

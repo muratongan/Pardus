@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/uludag/!svn/ver/31537/trunk/playground/gsoc/yali-live
+END
+BUGS
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/uludag/!svn/ver/29677/trunk/playground/gsoc/yali-live/BUGS
+END
+bindYali.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/31456/trunk/playground/gsoc/yali-live/bindYali.sh
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/31323/trunk/playground/gsoc/yali-live/AUTHORS
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/uludag/!svn/ver/29677/trunk/playground/gsoc/yali-live/TODO
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/uludag/!svn/ver/29677/trunk/playground/gsoc/yali-live/ChangeLog
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/uludag/!svn/ver/31424/trunk/playground/gsoc/yali-live/setup.py
+END
+README-TRANSLATORS
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/uludag/!svn/ver/29677/trunk/playground/gsoc/yali-live/README-TRANSLATORS
+END
+yali4-bin
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/uludag/!svn/ver/29677/trunk/playground/gsoc/yali-live/yali4-bin
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/29677/trunk/playground/gsoc/yali-live/COPYING
+END
+MANIFEST.in
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/29677/trunk/playground/gsoc/yali-live/MANIFEST.in
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/uludag/!svn/ver/29677/trunk/playground/gsoc/yali-live/README
+END
+testcases.tex
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/uludag/!svn/ver/29677/trunk/playground/gsoc/yali-live/testcases.tex
+END
+start-yali4
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/29677/trunk/playground/gsoc/yali-live/start-yali4
+END
+yaliTestMaker
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/uludag/!svn/ver/31536/trunk/playground/gsoc/yali-live/yaliTestMaker
+END

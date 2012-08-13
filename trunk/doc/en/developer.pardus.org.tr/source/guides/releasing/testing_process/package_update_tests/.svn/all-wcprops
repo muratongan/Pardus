@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/uludag/!svn/ver/37870/trunk/doc/en/developer.pardus.org.tr/source/guides/releasing/testing_process/package_update_tests
+END
+security_tests.rst
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/uludag/!svn/ver/35813/trunk/doc/en/developer.pardus.org.tr/source/guides/releasing/testing_process/package_update_tests/security_tests.rst
+END
+package_update_tests.rst
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/uludag/!svn/ver/37870/trunk/doc/en/developer.pardus.org.tr/source/guides/releasing/testing_process/package_update_tests/package_update_tests.rst
+END
+index.rst
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/uludag/!svn/ver/35813/trunk/doc/en/developer.pardus.org.tr/source/guides/releasing/testing_process/package_update_tests/index.rst
+END
+prepare_test_environment_for_package_updates.rst
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/uludag/!svn/ver/35813/trunk/doc/en/developer.pardus.org.tr/source/guides/releasing/testing_process/package_update_tests/prepare_test_environment_for_package_updates.rst
+END

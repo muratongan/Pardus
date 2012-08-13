@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/uludag/!svn/ver/23403/trunk/coolplug
+END
+scsi.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/uludag/!svn/ver/23253/trunk/coolplug/scsi.c
+END
+utility.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/uludag/!svn/ver/22190/trunk/coolplug/utility.c
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/uludag/!svn/ver/22187/trunk/coolplug/AUTHORS
+END
+devnode.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/uludag/!svn/ver/22191/trunk/coolplug/devnode.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/uludag/!svn/ver/22190/trunk/coolplug/main.c
+END
+module.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/uludag/!svn/ver/22190/trunk/coolplug/module.c
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/uludag/!svn/ver/23403/trunk/coolplug/ChangeLog
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/uludag/!svn/ver/22180/trunk/coolplug/COPYING
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/uludag/!svn/ver/23403/trunk/coolplug/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/uludag/!svn/ver/22180/trunk/coolplug/README
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/uludag/!svn/ver/22190/trunk/coolplug/common.h
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/36513/trunk/playground/fatih.arslan/kcmlocale
+END
+helper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/uludag/!svn/ver/35647/trunk/playground/fatih.arslan/kcmlocale/helper.cpp
+END
+kcmlocale.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/uludag/!svn/ver/36513/trunk/playground/fatih.arslan/kcmlocale/kcmlocale.h
+END
+helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/uludag/!svn/ver/34986/trunk/playground/fatih.arslan/kcmlocale/helper.h
+END
+kcmlocale.actions
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/35644/trunk/playground/fatih.arslan/kcmlocale/kcmlocale.actions
+END
+kcmlocalewidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/36513/trunk/playground/fatih.arslan/kcmlocale/kcmlocalewidget.ui
+END
+kcmlocale.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/uludag/!svn/ver/36513/trunk/playground/fatih.arslan/kcmlocale/kcmlocale.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uludag/!svn/ver/36513/trunk/playground/fatih.arslan/kcmlocale/CMakeLists.txt
+END

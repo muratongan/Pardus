@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/uludag/!svn/ver/38420/trunk/kde/user-manager/manager
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/uludag/!svn/ver/36952/trunk/kde/user-manager/manager/TODO
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/uludag/!svn/ver/26099/trunk/kde/user-manager/manager/INSTALL
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/uludag/!svn/ver/35737/trunk/kde/user-manager/manager/ChangeLog
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/31905/trunk/kde/user-manager/manager/setup.py
+END
+MANIFEST.in
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/uludag/!svn/ver/30494/trunk/kde/user-manager/manager/MANIFEST.in
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/uludag/!svn/ver/31905/trunk/kde/user-manager/manager/README
+END

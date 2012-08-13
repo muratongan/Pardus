@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/uludag/!svn/ver/38240/trunk/kde/disk-manager/manager/src/diskmanager
+END
+about.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/36603/trunk/kde/disk-manager/manager/src/diskmanager/about.py
+END
+pagedialog.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/36603/trunk/kde/disk-manager/manager/src/diskmanager/pagedialog.py
+END
+item.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uludag/!svn/ver/38240/trunk/kde/disk-manager/manager/src/diskmanager/item.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/30492/trunk/kde/disk-manager/manager/src/diskmanager/__init__.py
+END
+kcmodule.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/36603/trunk/kde/disk-manager/manager/src/diskmanager/kcmodule.py
+END
+context.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/36603/trunk/kde/disk-manager/manager/src/diskmanager/context.py
+END
+main.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uludag/!svn/ver/38240/trunk/kde/disk-manager/manager/src/diskmanager/main.py
+END
+config.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/36603/trunk/kde/disk-manager/manager/src/diskmanager/config.py
+END
+edit.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uludag/!svn/ver/36603/trunk/kde/disk-manager/manager/src/diskmanager/edit.py
+END
+backend.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/38240/trunk/kde/disk-manager/manager/src/diskmanager/backend.py
+END

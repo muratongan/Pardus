@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/uludag/!svn/ver/26956/trunk/bugzilla/3.4/tr/default/pages
+END
+quicksearch.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/26956/trunk/bugzilla/3.4/tr/default/pages/quicksearch.html.tmpl
+END
+linkify.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/uludag/!svn/ver/26956/trunk/bugzilla/3.4/tr/default/pages/linkify.html.tmpl
+END
+fields.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/uludag/!svn/ver/26952/trunk/bugzilla/3.4/tr/default/pages/fields.html.tmpl
+END
+linked.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/uludag/!svn/ver/26956/trunk/bugzilla/3.4/tr/default/pages/linked.html.tmpl
+END
+release-notes.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/26952/trunk/bugzilla/3.4/tr/default/pages/release-notes.html.tmpl
+END
+voting.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/uludag/!svn/ver/26956/trunk/bugzilla/3.4/tr/default/pages/voting.html.tmpl
+END
+quicksearchhack.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/26956/trunk/bugzilla/3.4/tr/default/pages/quicksearchhack.html.tmpl
+END
+sudo.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/uludag/!svn/ver/26952/trunk/bugzilla/3.4/tr/default/pages/sudo.html.tmpl
+END
+bug-writing.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/26956/trunk/bugzilla/3.4/tr/default/pages/bug-writing.html.tmpl
+END

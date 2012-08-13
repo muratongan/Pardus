@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/uludag/!svn/ver/37958/trunk/upgrade-manager/src
+END
+migratekde.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/37879/trunk/upgrade-manager/src/migratekde.py
+END
+migrategrubconf.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/uludag/!svn/ver/37879/trunk/upgrade-manager/src/migrategrubconf.py
+END
+gui.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/uludag/!svn/ver/37958/trunk/upgrade-manager/src/gui.py
+END
+main.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/uludag/!svn/ver/37957/trunk/upgrade-manager/src/main.py
+END
+repohelper.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/37879/trunk/upgrade-manager/src/repohelper.py
+END
+backend.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/uludag/!svn/ver/37958/trunk/upgrade-manager/src/backend.py
+END

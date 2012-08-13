@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/uludag/!svn/ver/31681/trunk/kde/migration/src/migration/gui
+END
+ScrUserFiles.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/uludag/!svn/ver/27502/trunk/kde/migration/src/migration/gui/ScrUserFiles.py
+END
+ScrProgress.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/uludag/!svn/ver/27502/trunk/kde/migration/src/migration/gui/ScrProgress.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/uludag/!svn/ver/26234/trunk/kde/migration/src/migration/gui/__init__.py
+END
+ScrOptions.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/uludag/!svn/ver/27502/trunk/kde/migration/src/migration/gui/ScrOptions.py
+END
+ScrWelcome.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/uludag/!svn/ver/31681/trunk/kde/migration/src/migration/gui/ScrWelcome.py
+END
+ScreenWidget.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/uludag/!svn/ver/26234/trunk/kde/migration/src/migration/gui/ScreenWidget.py
+END
+context.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/uludag/!svn/ver/26234/trunk/kde/migration/src/migration/gui/context.py
+END
+ScrSummary.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/uludag/!svn/ver/26234/trunk/kde/migration/src/migration/gui/ScrSummary.py
+END
+ScrUser.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/uludag/!svn/ver/27502/trunk/kde/migration/src/migration/gui/ScrUser.py
+END

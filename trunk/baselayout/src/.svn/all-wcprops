@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/uludag/!svn/ver/21667/trunk/baselayout/src
+END
+headers.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/uludag/!svn/ver/21667/trunk/baselayout/src/headers.h
+END
+start-stop-daemon.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/uludag/!svn/ver/21667/trunk/baselayout/src/start-stop-daemon.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/uludag/!svn/ver/21667/trunk/baselayout/src/Makefile
+END

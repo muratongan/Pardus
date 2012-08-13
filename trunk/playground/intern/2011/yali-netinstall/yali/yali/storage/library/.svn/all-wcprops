@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/uludag/!svn/ver/37605/trunk/playground/intern/2011/yali-netinstall/yali/yali/storage/library
+END
+swap.py
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/uludag/!svn/ver/37605/trunk/playground/intern/2011/yali-netinstall/yali/yali/storage/library/swap.py
+END
+lvm.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/uludag/!svn/ver/37605/trunk/playground/intern/2011/yali-netinstall/yali/yali/storage/library/lvm.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/uludag/!svn/ver/37605/trunk/playground/intern/2011/yali-netinstall/yali/yali/storage/library/__init__.py
+END
+raid.py
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/uludag/!svn/ver/37605/trunk/playground/intern/2011/yali-netinstall/yali/yali/storage/library/raid.py
+END
+devicemapper.py
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/uludag/!svn/ver/37605/trunk/playground/intern/2011/yali-netinstall/yali/yali/storage/library/devicemapper.py
+END

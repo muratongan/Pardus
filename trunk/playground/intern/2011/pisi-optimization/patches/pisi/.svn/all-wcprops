@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/38345/trunk/playground/intern/2011/pisi-optimization/patches/pisi
+END
+list-installed__get_package_and_info__function.patch
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/uludag/!svn/ver/38090/trunk/playground/intern/2011/pisi-optimization/patches/pisi/list-installed__get_package_and_info__function.patch
+END
+index__use-old-index.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/uludag/!svn/ver/38090/trunk/playground/intern/2011/pisi-optimization/patches/pisi/index__use-old-index.patch
+END
+use_ondemand_default.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/uludag/!svn/ver/38345/trunk/playground/intern/2011/pisi-optimization/patches/pisi/use_ondemand_default.patch
+END
+use_old_index_ondemand_False.patch
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/uludag/!svn/ver/38210/trunk/playground/intern/2011/pisi-optimization/patches/pisi/use_old_index_ondemand_False.patch
+END

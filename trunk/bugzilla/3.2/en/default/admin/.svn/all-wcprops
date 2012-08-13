@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/uludag/!svn/ver/25351/trunk/bugzilla/3.2/en/default/admin
+END
+table.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/uludag/!svn/ver/21334/trunk/bugzilla/3.2/en/default/admin/table.html.tmpl
+END
+confirm-action.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/21377/trunk/bugzilla/3.2/en/default/admin/confirm-action.html.tmpl
+END
+admin.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/uludag/!svn/ver/21334/trunk/bugzilla/3.2/en/default/admin/admin.html.tmpl
+END
+sudo.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/uludag/!svn/ver/21334/trunk/bugzilla/3.2/en/default/admin/sudo.html.tmpl
+END

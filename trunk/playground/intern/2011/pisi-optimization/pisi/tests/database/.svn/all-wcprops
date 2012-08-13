@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/tests/database
+END
+componentdbtest.py
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/tests/database/componentdbtest.py
+END
+filesdbtest.py
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/tests/database/filesdbtest.py
+END
+repodbtest.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/tests/database/repodbtest.py
+END
+testcase.py
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/tests/database/testcase.py
+END
+installdbtest.py
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/tests/database/installdbtest.py
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/tests/database/.gitignore
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/tests/database/__init__.py
+END
+itembyrepotest.py
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/tests/database/itembyrepotest.py
+END
+packagedbtest.py
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/tests/database/packagedbtest.py
+END
+lazydbtest.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/tests/database/lazydbtest.py
+END
+sourcedbtest.py
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/tests/database/sourcedbtest.py
+END

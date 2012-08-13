@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/uludag/!svn/ver/26101/trunk/kde/dbus-pyqt3-mainloop/src
+END
+mainloop.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/uludag/!svn/ver/26101/trunk/kde/dbus-pyqt3-mainloop/src/mainloop.cpp
+END
+mainloop.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/uludag/!svn/ver/26101/trunk/kde/dbus-pyqt3-mainloop/src/mainloop.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/uludag/!svn/ver/26101/trunk/kde/dbus-pyqt3-mainloop/src/CMakeLists.txt
+END

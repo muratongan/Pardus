@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/uludag/!svn/ver/26096/trunk/playground/gsoc/bug-reporting-tool/apport/data/general-hooks
+END
+generic.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/uludag/!svn/ver/26096/trunk/playground/gsoc/bug-reporting-tool/apport/data/general-hooks/generic.py
+END
+parse_segv.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/uludag/!svn/ver/26096/trunk/playground/gsoc/bug-reporting-tool/apport/data/general-hooks/parse_segv.py
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/uludag/!svn/ver/36923/trunk/bugspy/security/bin
+END
+check-syntax
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/uludag/!svn/ver/28310/trunk/bugspy/security/bin/check-syntax
+END
+update
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/uludag/!svn/ver/28310/trunk/bugspy/security/bin/update
+END
+pkgmove-glsa.sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/uludag/!svn/ver/28310/trunk/bugspy/security/bin/pkgmove-glsa.sh
+END
+target
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/uludag/!svn/ver/28310/trunk/bugspy/security/bin/target
+END
+liaisons.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/uludag/!svn/ver/28310/trunk/bugspy/security/bin/liaisons.py
+END
+check-todo-issues
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/36923/trunk/bugspy/security/bin/check-todo-issues
+END
+updatelist
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/uludag/!svn/ver/28310/trunk/bugspy/security/bin/updatelist
+END

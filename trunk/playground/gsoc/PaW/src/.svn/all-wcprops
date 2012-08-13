@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/uludag/!svn/ver/31181/trunk/playground/gsoc/PaW/src
+END
+guicontroller.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/uludag/!svn/ver/31111/trunk/playground/gsoc/PaW/src/guicontroller.py
+END
+ftpdownloader.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/uludag/!svn/ver/31110/trunk/playground/gsoc/PaW/src/ftpdownloader.py
+END
+registry.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/uludag/!svn/ver/31110/trunk/playground/gsoc/PaW/src/registry.py
+END
+compatibility.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/uludag/!svn/ver/31110/trunk/playground/gsoc/PaW/src/compatibility.py
+END
+md5sum.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/31110/trunk/playground/gsoc/PaW/src/md5sum.py
+END
+versions.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/uludag/!svn/ver/30743/trunk/playground/gsoc/PaW/src/versions.dtd
+END
+taskrunner.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/31110/trunk/playground/gsoc/PaW/src/taskrunner.py
+END
+installer.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/uludag/!svn/ver/31113/trunk/playground/gsoc/PaW/src/installer.py
+END
+logger.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/31110/trunk/playground/gsoc/PaW/src/logger.py
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/uludag/!svn/ver/31110/trunk/playground/gsoc/PaW/src/setup.py
+END
+utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/uludag/!svn/ver/31112/trunk/playground/gsoc/PaW/src/utils.py
+END
+versions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/uludag/!svn/ver/30921/trunk/playground/gsoc/PaW/src/versions.xml
+END
+__main__.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/uludag/!svn/ver/31113/trunk/playground/gsoc/PaW/src/__main__.py
+END
+versionmanager.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/uludag/!svn/ver/31110/trunk/playground/gsoc/PaW/src/versionmanager.py
+END

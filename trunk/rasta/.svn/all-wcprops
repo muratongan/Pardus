@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/uludag/!svn/ver/30832/trunk/rasta
+END
+pardus.lint
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/uludag/!svn/ver/30213/trunk/rasta/pardus.lint
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/uludag/!svn/ver/28013/trunk/rasta/AUTHORS
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/uludag/!svn/ver/30468/trunk/rasta/TODO
+END
+MANIFEST
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/uludag/!svn/ver/28013/trunk/rasta/MANIFEST
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/uludag/!svn/ver/30179/trunk/rasta/setup.py
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/uludag/!svn/ver/28013/trunk/rasta/COPYING
+END
+HELP
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/uludag/!svn/ver/28013/trunk/rasta/HELP
+END
+HOWTO-MACOSX
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/uludag/!svn/ver/30466/trunk/rasta/HOWTO-MACOSX
+END
+rasta
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/uludag/!svn/ver/30466/trunk/rasta/rasta
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/uludag/!svn/ver/30822/trunk/rasta/README
+END

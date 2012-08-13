@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/38324/trunk/playground/renan/projects/staj/captcha/management/commands
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/uludag/!svn/ver/38324/trunk/playground/renan/projects/staj/captcha/management/commands/__init__.py
+END
+captcha_clean.py
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/uludag/!svn/ver/38324/trunk/playground/renan/projects/staj/captcha/management/commands/captcha_clean.py
+END

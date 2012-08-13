@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/uludag/!svn/ver/38022/trunk/playground/intern/2011/package-rating/appinfo/appinfo/backends
+END
+pisi_backend.py
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/uludag/!svn/ver/38022/trunk/playground/intern/2011/package-rating/appinfo/appinfo/backends/pisi_backend.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/uludag/!svn/ver/38022/trunk/playground/intern/2011/package-rating/appinfo/appinfo/backends/__init__.py
+END
+base_backend.py
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/uludag/!svn/ver/38022/trunk/playground/intern/2011/package-rating/appinfo/appinfo/backends/base_backend.py
+END

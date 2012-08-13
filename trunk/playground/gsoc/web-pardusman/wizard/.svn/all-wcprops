@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/uludag/!svn/ver/26096/trunk/playground/gsoc/web-pardusman/wizard
+END
+views.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/uludag/!svn/ver/26096/trunk/playground/gsoc/web-pardusman/wizard/views.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uludag/!svn/ver/26096/trunk/playground/gsoc/web-pardusman/wizard/__init__.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/uludag/!svn/ver/26096/trunk/playground/gsoc/web-pardusman/wizard/models.py
+END
+fields.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/uludag/!svn/ver/26096/trunk/playground/gsoc/web-pardusman/wizard/fields.py
+END
+forms.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/uludag/!svn/ver/26096/trunk/playground/gsoc/web-pardusman/wizard/forms.py
+END

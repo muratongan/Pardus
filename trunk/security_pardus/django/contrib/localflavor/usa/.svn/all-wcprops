@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/uludag/!svn/ver/22532/trunk/security_pardus/django/contrib/localflavor/usa
+END
+us_states.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/uludag/!svn/ver/22532/trunk/security_pardus/django/contrib/localflavor/usa/us_states.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/22532/trunk/security_pardus/django/contrib/localflavor/usa/__init__.py
+END
+forms.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/22532/trunk/security_pardus/django/contrib/localflavor/usa/forms.py
+END

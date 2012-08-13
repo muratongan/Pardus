@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/uludag/!svn/ver/22532/trunk/security_pardus/django/core
+END
+validators.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/uludag/!svn/ver/22532/trunk/security_pardus/django/core/validators.py
+END
+management.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/uludag/!svn/ver/22532/trunk/security_pardus/django/core/management.py
+END
+handler.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/uludag/!svn/ver/22532/trunk/security_pardus/django/core/handler.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/uludag/!svn/ver/22532/trunk/security_pardus/django/core/__init__.py
+END
+signals.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/uludag/!svn/ver/22532/trunk/security_pardus/django/core/signals.py
+END
+template_loader.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/uludag/!svn/ver/22532/trunk/security_pardus/django/core/template_loader.py
+END
+exceptions.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/uludag/!svn/ver/22532/trunk/security_pardus/django/core/exceptions.py
+END
+mail.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/uludag/!svn/ver/22532/trunk/security_pardus/django/core/mail.py
+END
+xheaders.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/uludag/!svn/ver/22532/trunk/security_pardus/django/core/xheaders.py
+END
+paginator.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/uludag/!svn/ver/22532/trunk/security_pardus/django/core/paginator.py
+END
+context_processors.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/22532/trunk/security_pardus/django/core/context_processors.py
+END
+urlresolvers.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/uludag/!svn/ver/22532/trunk/security_pardus/django/core/urlresolvers.py
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/uludag/!svn/ver/9445/trunk/zemberek-pardus/zemberek_mini/src/cekirdek/net/zemberek/islemler
+END
+IslemTipi.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/uludag/!svn/ver/9445/trunk/zemberek-pardus/zemberek_mini/src/cekirdek/net/zemberek/islemler/IslemTipi.java
+END
+KelimeKokFrekansKiyaslayici.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/uludag/!svn/ver/9445/trunk/zemberek-pardus/zemberek_mini/src/cekirdek/net/zemberek/islemler/KelimeKokFrekansKiyaslayici.java
+END
+HataliKodlamaTemizleyici.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/uludag/!svn/ver/9445/trunk/zemberek-pardus/zemberek_mini/src/cekirdek/net/zemberek/islemler/HataliKodlamaTemizleyici.java
+END
+Heceleyici.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/uludag/!svn/ver/9445/trunk/zemberek-pardus/zemberek_mini/src/cekirdek/net/zemberek/islemler/Heceleyici.java
+END
+DenetlemeCebi.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/uludag/!svn/ver/9445/trunk/zemberek-pardus/zemberek_mini/src/cekirdek/net/zemberek/islemler/DenetlemeCebi.java
+END
+BasitDenetlemeCebi.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/uludag/!svn/ver/9445/trunk/zemberek-pardus/zemberek_mini/src/cekirdek/net/zemberek/islemler/BasitDenetlemeCebi.java
+END
+AsciiDonusturucu.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/uludag/!svn/ver/9445/trunk/zemberek-pardus/zemberek_mini/src/cekirdek/net/zemberek/islemler/AsciiDonusturucu.java
+END
+KelimeUretici.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/uludag/!svn/ver/9445/trunk/zemberek-pardus/zemberek_mini/src/cekirdek/net/zemberek/islemler/KelimeUretici.java
+END

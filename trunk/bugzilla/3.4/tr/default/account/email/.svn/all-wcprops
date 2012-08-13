@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/26962/trunk/bugzilla/3.4/tr/default/account/email
+END
+confirm-new.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/uludag/!svn/ver/26962/trunk/bugzilla/3.4/tr/default/account/email/confirm-new.html.tmpl
+END
+change-new.txt.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/uludag/!svn/ver/26962/trunk/bugzilla/3.4/tr/default/account/email/change-new.txt.tmpl
+END
+request-new.txt.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/26962/trunk/bugzilla/3.4/tr/default/account/email/request-new.txt.tmpl
+END
+change-old.txt.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/uludag/!svn/ver/26962/trunk/bugzilla/3.4/tr/default/account/email/change-old.txt.tmpl
+END
+confirm.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/26956/trunk/bugzilla/3.4/tr/default/account/email/confirm.html.tmpl
+END

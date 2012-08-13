@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/uludag/!svn/ver/36786/trunk/kde/pardusman/gui
+END
+packages.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/uludag/!svn/ver/32641/trunk/kde/pardusman/gui/packages.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/uludag/!svn/ver/26275/trunk/kde/pardusman/gui/__init__.py
+END
+main.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/uludag/!svn/ver/36786/trunk/kde/pardusman/gui/main.py
+END
+progress.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/uludag/!svn/ver/26277/trunk/kde/pardusman/gui/progress.py
+END
+languages.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/uludag/!svn/ver/34526/trunk/kde/pardusman/gui/languages.py
+END
+packagecollection.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/uludag/!svn/ver/36319/trunk/kde/pardusman/gui/packagecollection.py
+END

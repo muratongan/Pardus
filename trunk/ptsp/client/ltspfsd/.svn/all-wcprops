@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/uludag/!svn/ver/14222/trunk/ptsp/client/ltspfsd
+END
+mkinstalldirs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/14222/trunk/ptsp/client/ltspfsd/mkinstalldirs
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/uludag/!svn/ver/14222/trunk/ptsp/client/ltspfsd/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/uludag/!svn/ver/14222/trunk/ptsp/client/ltspfsd/Makefile.in
+END
+ltspfs_umount
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/14222/trunk/ptsp/client/ltspfsd/ltspfs_umount
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/uludag/!svn/ver/14222/trunk/ptsp/client/ltspfsd/AUTHORS
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/uludag/!svn/ver/14222/trunk/ptsp/client/ltspfsd/depcomp
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/uludag/!svn/ver/14222/trunk/ptsp/client/ltspfsd/ChangeLog
+END
+ltspfsd_functions.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/uludag/!svn/ver/14222/trunk/ptsp/client/ltspfsd/ltspfsd_functions.c
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/uludag/!svn/ver/14222/trunk/ptsp/client/ltspfsd/config.guess
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/uludag/!svn/ver/14222/trunk/ptsp/client/ltspfsd/config.sub
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/uludag/!svn/ver/14222/trunk/ptsp/client/ltspfsd/README
+END
+ltspfs_mount
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/uludag/!svn/ver/14222/trunk/ptsp/client/ltspfsd/ltspfs_mount
+END
+ltspfsd.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/uludag/!svn/ver/14222/trunk/ptsp/client/ltspfsd/ltspfsd.c
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/uludag/!svn/ver/14222/trunk/ptsp/client/ltspfsd/configure.ac
+END
+ltspfsd.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/uludag/!svn/ver/14222/trunk/ptsp/client/ltspfsd/ltspfsd.h
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/uludag/!svn/ver/14222/trunk/ptsp/client/ltspfsd/INSTALL
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/uludag/!svn/ver/14222/trunk/ptsp/client/ltspfsd/COPYING
+END
+common.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/uludag/!svn/ver/14222/trunk/ptsp/client/ltspfsd/common.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/uludag/!svn/ver/14222/trunk/ptsp/client/ltspfsd/Makefile.am
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/uludag/!svn/ver/14222/trunk/ptsp/client/ltspfsd/missing
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/uludag/!svn/ver/14222/trunk/ptsp/client/ltspfsd/NEWS
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/uludag/!svn/ver/14222/trunk/ptsp/client/ltspfsd/aclocal.m4
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/uludag/!svn/ver/14222/trunk/ptsp/client/ltspfsd/common.h
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/uludag/!svn/ver/14222/trunk/ptsp/client/ltspfsd/install-sh
+END

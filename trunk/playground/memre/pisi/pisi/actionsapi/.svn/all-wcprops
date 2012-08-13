@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/38439/trunk/playground/memre/pisi/pisi/actionsapi
+END
+shelltools.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/pisi/actionsapi/shelltools.py
+END
+autotools.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/38439/trunk/playground/memre/pisi/pisi/actionsapi/autotools.py
+END
+perlmodules.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/38439/trunk/playground/memre/pisi/pisi/actionsapi/perlmodules.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/38439/trunk/playground/memre/pisi/pisi/actionsapi/__init__.py
+END
+kerneltools.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/38437/trunk/playground/memre/pisi/pisi/actionsapi/kerneltools.py
+END
+cmaketools.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/38437/trunk/playground/memre/pisi/pisi/actionsapi/cmaketools.py
+END
+kde.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/pisi/actionsapi/kde.py
+END
+qt4.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/uludag/!svn/ver/38437/trunk/playground/memre/pisi/pisi/actionsapi/qt4.py
+END
+variables.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/38437/trunk/playground/memre/pisi/pisi/actionsapi/variables.py
+END
+coreutils.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/pisi/actionsapi/coreutils.py
+END
+texlivemodules.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/pisi/actionsapi/texlivemodules.py
+END
+rubymodules.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/pisi/actionsapi/rubymodules.py
+END
+pythonmodules.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/38437/trunk/playground/memre/pisi/pisi/actionsapi/pythonmodules.py
+END
+pisitoolsfunctions.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/pisi/actionsapi/pisitoolsfunctions.py
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/pisi/actionsapi/TODO
+END
+get.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/uludag/!svn/ver/38439/trunk/playground/memre/pisi/pisi/actionsapi/get.py
+END
+pisitools.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/pisi/actionsapi/pisitools.py
+END
+scons.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/uludag/!svn/ver/36699/trunk/playground/memre/pisi/pisi/actionsapi/scons.py
+END
+libtools.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/pisi/actionsapi/libtools.py
+END
+kde4.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/uludag/!svn/ver/33727/trunk/playground/memre/pisi/pisi/actionsapi/kde4.py
+END

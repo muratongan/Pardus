@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/uludag/!svn/ver/10573/trunk/zemberek-pardus/zemberek_server
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/uludag/!svn/ver/10540/trunk/zemberek-pardus/zemberek_server/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/uludag/!svn/ver/3790/trunk/zemberek-pardus/zemberek_server/.project
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uludag/!svn/ver/10486/trunk/zemberek-pardus/zemberek_server/build.properties
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/uludag/!svn/ver/3790/trunk/zemberek-pardus/zemberek_server/.cvsignore
+END
+run.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/uludag/!svn/ver/10486/trunk/zemberek-pardus/zemberek_server/run.sh
+END
+runtest.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/uludag/!svn/ver/10540/trunk/zemberek-pardus/zemberek_server/runtest.sh
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/uludag/!svn/ver/10540/trunk/zemberek-pardus/zemberek_server/build.xml
+END

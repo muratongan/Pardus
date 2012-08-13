@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pardusman-wizard/screens
+END
+ScrUsers.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pardusman-wizard/screens/ScrUsers.py
+END
+screenRepo.ui
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pardusman-wizard/screens/screenRepo.ui
+END
+screenSystemType.ui
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pardusman-wizard/screens/screenSystemType.ui
+END
+ScrRepo.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pardusman-wizard/screens/ScrRepo.py
+END
+ScrSystemType.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pardusman-wizard/screens/ScrSystemType.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pardusman-wizard/screens/__init__.py
+END
+mainWindowUi.ui
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pardusman-wizard/screens/mainWindowUi.ui
+END
+screenPackages.ui
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pardusman-wizard/screens/screenPackages.ui
+END
+screenGrub.ui
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pardusman-wizard/screens/screenGrub.ui
+END
+screenMedia.ui
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pardusman-wizard/screens/screenMedia.ui
+END
+ScrPackages.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pardusman-wizard/screens/ScrPackages.py
+END
+screenUsers.ui
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pardusman-wizard/screens/screenUsers.ui
+END
+ScrGrub.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pardusman-wizard/screens/ScrGrub.py
+END
+ScrMedia.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/26096/trunk/playground/gsoc/pardusman-wizard/screens/ScrMedia.py
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/uludag/!svn/ver/31181/trunk/playground/gsoc/PaW/src/ui/gui
+END
+installing.ui
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/uludag/!svn/ver/30919/trunk/playground/gsoc/PaW/src/ui/gui/installing.ui
+END
+main.ui
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/uludag/!svn/ver/31109/trunk/playground/gsoc/PaW/src/ui/gui/main.ui
+END
+downloading.ui
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/uludag/!svn/ver/31181/trunk/playground/gsoc/PaW/src/ui/gui/downloading.ui
+END
+cd.ui
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/uludag/!svn/ver/30919/trunk/playground/gsoc/PaW/src/ui/gui/cd.ui
+END
+configuration.ui
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/uludag/!svn/ver/30919/trunk/playground/gsoc/PaW/src/ui/gui/configuration.ui
+END
+internet.ui
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/uludag/!svn/ver/30919/trunk/playground/gsoc/PaW/src/ui/gui/internet.ui
+END
+usb.ui
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/30919/trunk/playground/gsoc/PaW/src/ui/gui/usb.ui
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/uludag/!svn/ver/30818/trunk/playground/gsoc/PaW/src/ui/gui/__init__.py
+END
+iso.ui
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/30919/trunk/playground/gsoc/PaW/src/ui/gui/iso.ui
+END
+welcome.ui
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/uludag/!svn/ver/30820/trunk/playground/gsoc/PaW/src/ui/gui/welcome.ui
+END
+pyuic_update_all.bat
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/30920/trunk/playground/gsoc/PaW/src/ui/gui/pyuic_update_all.bat
+END
+finish.ui
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/uludag/!svn/ver/30920/trunk/playground/gsoc/PaW/src/ui/gui/finish.ui
+END
+pyuic_update_all.sh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/30818/trunk/playground/gsoc/PaW/src/ui/gui/pyuic_update_all.sh
+END
+source.ui
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/uludag/!svn/ver/30842/trunk/playground/gsoc/PaW/src/ui/gui/source.ui
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/uludag/!svn/ver/37512/trunk/playground/intern/2010/engelsiz/brltty/files
+END
+brltty-autoconf-quote.patch
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/uludag/!svn/ver/37512/trunk/playground/intern/2010/engelsiz/brltty/files/brltty-autoconf-quote.patch
+END
+brltty-4.2-S_ISCHR.patch
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/uludag/!svn/ver/37512/trunk/playground/intern/2010/engelsiz/brltty/files/brltty-4.2-S_ISCHR.patch
+END
+brltty-parallel.patch
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/uludag/!svn/ver/37512/trunk/playground/intern/2010/engelsiz/brltty/files/brltty-parallel.patch
+END
+brltty-cppflags.patch
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/uludag/!svn/ver/37512/trunk/playground/intern/2010/engelsiz/brltty/files/brltty-cppflags.patch
+END

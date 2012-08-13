@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/uludag/!svn/ver/37879/trunk/upgrade-manager/src/pds/ui
+END
+gui.ui
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/37879/trunk/upgrade-manager/src/pds/ui/gui.ui
+END
+ui_connectionitem.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/uludag/!svn/ver/37879/trunk/upgrade-manager/src/pds/ui/ui_connectionitem.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/uludag/!svn/ver/37879/trunk/upgrade-manager/src/pds/ui/__init__.py
+END
+connectionitem.ui
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/uludag/!svn/ver/37879/trunk/upgrade-manager/src/pds/ui/connectionitem.ui
+END

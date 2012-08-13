@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/uludag/!svn/ver/22409/trunk/stajyer/app/controllers
+END
+users_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/uludag/!svn/ver/22399/trunk/stajyer/app/controllers/users_controller.rb
+END
+application_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/22399/trunk/stajyer/app/controllers/application_controller.rb
+END
+comments_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/uludag/!svn/ver/22399/trunk/stajyer/app/controllers/comments_controller.rb
+END
+sessions_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/uludag/!svn/ver/22399/trunk/stajyer/app/controllers/sessions_controller.rb
+END
+students_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/uludag/!svn/ver/22409/trunk/stajyer/app/controllers/students_controller.rb
+END

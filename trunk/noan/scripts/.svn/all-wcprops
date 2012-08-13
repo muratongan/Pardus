@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/uludag/!svn/ver/34036/trunk/noan/scripts
+END
+import_source.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/uludag/!svn/ver/27215/trunk/noan/scripts/import_source.py
+END
+import_binary.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/uludag/!svn/ver/27215/trunk/noan/scripts/import_binary.py
+END
+import_repo.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/uludag/!svn/ver/34036/trunk/noan/scripts/import_repo.py
+END

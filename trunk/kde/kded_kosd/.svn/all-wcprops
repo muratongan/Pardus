@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/uludag/!svn/ver/29385/trunk/kde/kded_kosd
+END
+kosd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/uludag/!svn/ver/29151/trunk/kde/kded_kosd/kosd.cpp
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/uludag/!svn/ver/29143/trunk/kde/kded_kosd/AUTHORS
+END
+kosd.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/uludag/!svn/ver/29148/trunk/kde/kded_kosd/kosd.h
+END
+osd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/uludag/!svn/ver/29151/trunk/kde/kded_kosd/osd.cpp
+END
+org.kde.KOSD.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/uludag/!svn/ver/29148/trunk/kde/kded_kosd/org.kde.KOSD.xml
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/uludag/!svn/ver/29143/trunk/kde/kded_kosd/COPYING
+END
+kosd.desktop
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/uludag/!svn/ver/29149/trunk/kde/kded_kosd/kosd.desktop
+END
+meter.patch
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/uludag/!svn/ver/29275/trunk/kde/kded_kosd/meter.patch
+END
+osd.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/uludag/!svn/ver/29148/trunk/kde/kded_kosd/osd.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/uludag/!svn/ver/29148/trunk/kde/kded_kosd/CMakeLists.txt
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/uludag/!svn/ver/29148/trunk/kde/kded_kosd/README
+END

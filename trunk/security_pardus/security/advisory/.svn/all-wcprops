@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/34844/trunk/security_pardus/security/advisory
+END
+views.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/uludag/!svn/ver/22429/trunk/security_pardus/security/advisory/views.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/uludag/!svn/ver/13045/trunk/security_pardus/security/advisory/__init__.py
+END
+utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/uludag/!svn/ver/13045/trunk/security_pardus/security/advisory/utils.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/uludag/!svn/ver/34844/trunk/security_pardus/security/advisory/models.py
+END

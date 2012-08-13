@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/pisi/db
+END
+componentdb.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/pisi/db/componentdb.py
+END
+filesdb.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/pisi/db/filesdb.py
+END
+repodb.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/pisi/db/repodb.py
+END
+installdb.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/pisi/db/installdb.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/pisi/db/__init__.py
+END
+itembyrepo.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/pisi/db/itembyrepo.py
+END
+packagedb.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/pisi/db/packagedb.py
+END
+groupdb.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/pisi/db/groupdb.py
+END
+lazydb.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/pisi/db/lazydb.py
+END
+sourcedb.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/pisi/db/sourcedb.py
+END
+historydb.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/pisi/db/historydb.py
+END

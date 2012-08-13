@@ -1,0 +1,172 @@
+10
+
+dir
+38525
+http://svn.pardus.org.tr/uludag/trunk/bugzilla/3.0/en/default/admin
+http://svn.pardus.org.tr/uludag
+
+
+
+2007-08-24T08:38:22.666518Z
+15106
+caglar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+26e1f6f6-46e4-0310-a0b7-a8a415fd4c45
+
+groups
+dir
+
+milestones
+dir
+
+params
+dir
+
+components
+dir
+
+confirm-action.html.tmpl
+file
+
+
+
+
+2012-08-13T16:29:59.095945Z
+9562658793c305f2941a3b5bb55fcbde
+2007-04-03T13:26:32.417994Z
+13239
+caglar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3863
+
+flag-type
+dir
+
+sudo.html.tmpl
+file
+
+
+
+
+2012-08-13T16:29:59.095945Z
+9058eaf90284ab0129de5d2f842960e7
+2007-04-03T13:26:32.417994Z
+13239
+caglar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3504
+
+CVS
+dir
+
+settings
+dir
+
+custom_fields
+dir
+
+users
+dir
+
+products
+dir
+
+fieldvalues
+dir
+
+table.html.tmpl
+file
+
+
+
+
+2012-08-13T16:29:59.096945Z
+35caa71c1366f155d859c91f1ad381b6
+2007-04-03T13:26:32.417994Z
+13239
+caglar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6778
+
+keywords
+dir
+
+versions
+dir
+
+classifications
+dir
+

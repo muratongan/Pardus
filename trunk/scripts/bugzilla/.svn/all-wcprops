@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/uludag/!svn/ver/37322/trunk/scripts/bugzilla
+END
+bug-analyze.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/uludag/!svn/ver/36925/trunk/scripts/bugzilla/bug-analyze.py
+END
+time-based-bug-report.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/uludag/!svn/ver/37322/trunk/scripts/bugzilla/time-based-bug-report.py
+END
+all-bugs-report.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/uludag/!svn/ver/36853/trunk/scripts/bugzilla/all-bugs-report.py
+END
+close-outdated-needinfo-bugs.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uludag/!svn/ver/28639/trunk/scripts/bugzilla/close-outdated-needinfo-bugs.py
+END
+detailed-bug-report.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/uludag/!svn/ver/37322/trunk/scripts/bugzilla/detailed-bug-report.py
+END
+update-components-for-review
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/uludag/!svn/ver/35742/trunk/scripts/bugzilla/update-components-for-review
+END

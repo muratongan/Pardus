@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/db
+END
+componentdb.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/db/componentdb.py
+END
+filesdb.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/db/filesdb.py
+END
+repodb.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/db/repodb.py
+END
+installdb.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/db/installdb.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/db/__init__.py
+END
+itembyrepo.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/db/itembyrepo.py
+END
+packagedb.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/db/packagedb.py
+END
+lazydb.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/db/lazydb.py
+END
+sourcedb.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/db/sourcedb.py
+END
+historydb.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/pisi/db/historydb.py
+END

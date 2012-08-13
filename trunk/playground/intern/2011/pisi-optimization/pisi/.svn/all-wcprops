@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/uludag/!svn/ver/38345/trunk/playground/intern/2011/pisi-optimization/pisi
+END
+RefactorPlan
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/RefactorPlan
+END
+pisi-spec.rng
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/pisi-spec.rng
+END
+ApiPlan
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/ApiPlan
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/AUTHORS
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/ChangeLog
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/setup.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/README
+END
+CODING
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/CODING
+END
+ChangeLog.OLD
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/ChangeLog.OLD
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/TODO
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/INSTALL
+END
+pisi-spec.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/pisi-spec.dtd
+END
+pisi.xml.in
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/pisi.xml.in
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/COPYING
+END
+pisi-cli
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/pisi-cli
+END
+MANIFEST.in
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/uludag/!svn/ver/38091/trunk/playground/intern/2011/pisi-optimization/pisi/MANIFEST.in
+END

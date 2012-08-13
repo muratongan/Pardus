@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/uludag/!svn/ver/26099/trunk/kde/network-manager/manager/icons
+END
+start.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/uludag/!svn/ver/26099/trunk/kde/network-manager/manager/icons/start.png
+END
+stopped.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/uludag/!svn/ver/26099/trunk/kde/network-manager/manager/icons/stopped.png
+END
+running.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/uludag/!svn/ver/26099/trunk/kde/network-manager/manager/icons/running.png
+END
+network-wired.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/26099/trunk/kde/network-manager/manager/icons/network-wired.png
+END
+notrunning.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uludag/!svn/ver/26099/trunk/kde/network-manager/manager/icons/notrunning.png
+END
+network-wireless.png
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/26099/trunk/kde/network-manager/manager/icons/network-wireless.png
+END
+edit-delete.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/26099/trunk/kde/network-manager/manager/icons/edit-delete.png
+END
+stop.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/uludag/!svn/ver/26099/trunk/kde/network-manager/manager/icons/stop.png
+END
+reload.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/uludag/!svn/ver/26099/trunk/kde/network-manager/manager/icons/reload.png
+END
+started.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/uludag/!svn/ver/26099/trunk/kde/network-manager/manager/icons/started.png
+END
+security.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/uludag/!svn/ver/26099/trunk/kde/network-manager/manager/icons/security.png
+END
+data.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/uludag/!svn/ver/26099/trunk/kde/network-manager/manager/icons/data.qrc
+END
+edit-rename.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/26099/trunk/kde/network-manager/manager/icons/edit-rename.png
+END

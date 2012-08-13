@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/uludag/!svn/ver/26956/trunk/bugzilla/3.4/tr/default/reports
+END
+chart.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/uludag/!svn/ver/26952/trunk/bugzilla/3.4/tr/default/reports/chart.html.tmpl
+END
+report-simple.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/26956/trunk/bugzilla/3.4/tr/default/reports/report-simple.html.tmpl
+END
+create-chart.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/26952/trunk/bugzilla/3.4/tr/default/reports/create-chart.html.tmpl
+END
+report.csv.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/uludag/!svn/ver/26952/trunk/bugzilla/3.4/tr/default/reports/report.csv.tmpl
+END
+menu.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/uludag/!svn/ver/26956/trunk/bugzilla/3.4/tr/default/reports/menu.html.tmpl
+END
+report-pie.png.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/26956/trunk/bugzilla/3.4/tr/default/reports/report-pie.png.tmpl
+END
+keywords.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/26956/trunk/bugzilla/3.4/tr/default/reports/keywords.html.tmpl
+END
+report.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uludag/!svn/ver/26952/trunk/bugzilla/3.4/tr/default/reports/report.html.tmpl
+END
+edit-series.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/26956/trunk/bugzilla/3.4/tr/default/reports/edit-series.html.tmpl
+END
+report-line.png.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/26956/trunk/bugzilla/3.4/tr/default/reports/report-line.png.tmpl
+END
+series-common.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/uludag/!svn/ver/26952/trunk/bugzilla/3.4/tr/default/reports/series-common.html.tmpl
+END
+chart.png.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/uludag/!svn/ver/26956/trunk/bugzilla/3.4/tr/default/reports/chart.png.tmpl
+END
+duplicates-table.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/26956/trunk/bugzilla/3.4/tr/default/reports/duplicates-table.html.tmpl
+END
+duplicates-simple.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/uludag/!svn/ver/26956/trunk/bugzilla/3.4/tr/default/reports/duplicates-simple.html.tmpl
+END
+components.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/26952/trunk/bugzilla/3.4/tr/default/reports/components.html.tmpl
+END
+report-table.csv.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uludag/!svn/ver/26952/trunk/bugzilla/3.4/tr/default/reports/report-table.csv.tmpl
+END
+chart.csv.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/uludag/!svn/ver/26952/trunk/bugzilla/3.4/tr/default/reports/chart.csv.tmpl
+END
+series.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uludag/!svn/ver/26956/trunk/bugzilla/3.4/tr/default/reports/series.html.tmpl
+END
+report-bar.png.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/26956/trunk/bugzilla/3.4/tr/default/reports/report-bar.png.tmpl
+END
+duplicates.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/26956/trunk/bugzilla/3.4/tr/default/reports/duplicates.html.tmpl
+END
+old-charts.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/26956/trunk/bugzilla/3.4/tr/default/reports/old-charts.html.tmpl
+END
+report-table.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uludag/!svn/ver/26952/trunk/bugzilla/3.4/tr/default/reports/report-table.html.tmpl
+END

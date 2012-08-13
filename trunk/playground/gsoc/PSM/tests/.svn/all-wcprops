@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/tests
+END
+metadata.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/tests/metadata.xml
+END
+fetchtest.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/tests/fetchtest.py
+END
+constanttest.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/tests/constanttest.py
+END
+srcarchivetest.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/tests/srcarchivetest.py
+END
+mirrors.conf
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/tests/mirrors.conf
+END
+packagetest.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/tests/packagetest.py
+END
+mirrorstest.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/tests/mirrorstest.py
+END
+uritest.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/tests/uritest.py
+END
+historytest.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/tests/historytest.py
+END
+graphtest.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/tests/graphtest.py
+END
+filestest.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/tests/filestest.py
+END
+archivetests.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/tests/archivetests.py
+END
+configfiletest.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/tests/configfiletest.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/tests/README
+END
+shelltest.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/tests/shelltest.py
+END
+replacetest.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/tests/replacetest.py
+END
+relationtest.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/tests/relationtest.py
+END
+specfiletests.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/tests/specfiletests.py
+END
+utiltest.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/tests/utiltest.py
+END
+dependencytest.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/tests/dependencytest.py
+END
+filetest.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/tests/filetest.py
+END
+metadatatest.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/tests/metadatatest.py
+END
+conflicttests.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/tests/conflicttests.py
+END
+versiontest.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/tests/versiontest.py
+END
+runtests.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/26096/trunk/playground/gsoc/PSM/tests/runtests.py
+END

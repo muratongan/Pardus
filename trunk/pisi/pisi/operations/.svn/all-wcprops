@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/uludag/!svn/ver/38516/trunk/pisi/pisi/operations
+END
+delta.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/uludag/!svn/ver/36566/trunk/pisi/pisi/operations/delta.py
+END
+check.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/uludag/!svn/ver/37192/trunk/pisi/pisi/operations/check.py
+END
+remove.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/uludag/!svn/ver/29486/trunk/pisi/pisi/operations/remove.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/uludag/!svn/ver/26218/trunk/pisi/pisi/operations/__init__.py
+END
+build.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/uludag/!svn/ver/38516/trunk/pisi/pisi/operations/build.py
+END
+helper.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/uludag/!svn/ver/32217/trunk/pisi/pisi/operations/helper.py
+END
+history.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/uludag/!svn/ver/33086/trunk/pisi/pisi/operations/history.py
+END
+emerge.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/uludag/!svn/ver/33992/trunk/pisi/pisi/operations/emerge.py
+END
+install.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/uludag/!svn/ver/38089/trunk/pisi/pisi/operations/install.py
+END
+upgrade.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/uludag/!svn/ver/37211/trunk/pisi/pisi/operations/upgrade.py
+END

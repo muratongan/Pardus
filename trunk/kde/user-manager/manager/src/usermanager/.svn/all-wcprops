@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/uludag/!svn/ver/38239/trunk/kde/user-manager/manager/src/usermanager
+END
+about.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/35738/trunk/kde/user-manager/manager/src/usermanager/about.py
+END
+item.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uludag/!svn/ver/30494/trunk/kde/user-manager/manager/src/usermanager/item.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/30494/trunk/kde/user-manager/manager/src/usermanager/__init__.py
+END
+utility.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/30494/trunk/kde/user-manager/manager/src/usermanager/utility.py
+END
+main.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uludag/!svn/ver/38237/trunk/kde/user-manager/manager/src/usermanager/main.py
+END
+config.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/35707/trunk/kde/user-manager/manager/src/usermanager/config.py
+END
+edit.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uludag/!svn/ver/38239/trunk/kde/user-manager/manager/src/usermanager/edit.py
+END
+backend.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uludag/!svn/ver/32551/trunk/kde/user-manager/manager/src/usermanager/backend.py
+END
+question.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/30494/trunk/kde/user-manager/manager/src/usermanager/question.py
+END

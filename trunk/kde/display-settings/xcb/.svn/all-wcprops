@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/uludag/!svn/ver/26099/trunk/kde/display-settings/xcb
+END
+probe-displays.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/uludag/!svn/ver/26099/trunk/kde/display-settings/xcb/probe-displays.py
+END
+nvctrl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/uludag/!svn/ver/26099/trunk/kde/display-settings/xcb/nvctrl.xml
+END
+py_client.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/uludag/!svn/ver/26099/trunk/kde/display-settings/xcb/py_client.py
+END

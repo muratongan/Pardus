@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/sahip/src/sahip
+END
+usergui.ui
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/sahip/src/sahip/usergui.ui
+END
+sahiplib.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/sahip/src/sahip/sahiplib.py
+END
+sahip
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/sahip/src/sahip/sahip
+END
+maingui.ui
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/sahip/src/sahip/maingui.ui
+END
+sahipgen.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/sahip/src/sahip/sahipgen.py
+END
+userdialog.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/sahip/src/sahip/userdialog.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/sahip/src/sahip/__init__.py
+END
+resources.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uludag/!svn/ver/37512/trunk/playground/intern/2009/sahip/src/sahip/resources.qrc
+END

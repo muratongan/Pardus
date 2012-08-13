@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uludag/!svn/ver/26099/trunk/kde/network-manager/plasmoid/nm-applet/contents/ui
+END
+popup.ui
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/uludag/!svn/ver/26099/trunk/kde/network-manager/plasmoid/nm-applet/contents/ui/popup.ui
+END
+configPopup.ui
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/uludag/!svn/ver/26099/trunk/kde/network-manager/plasmoid/nm-applet/contents/ui/configPopup.ui
+END
+configIcon.ui
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/uludag/!svn/ver/26099/trunk/kde/network-manager/plasmoid/nm-applet/contents/ui/configIcon.ui
+END
+item.ui
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/uludag/!svn/ver/26099/trunk/kde/network-manager/plasmoid/nm-applet/contents/ui/item.ui
+END

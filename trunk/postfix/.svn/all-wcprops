@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/uludag/!svn/ver/23523/trunk/postfix
+END
+bounce.cf.default
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/uludag/!svn/ver/22724/trunk/postfix/bounce.cf.default
+END
+bounce.cf.TR
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/uludag/!svn/ver/23523/trunk/postfix/bounce.cf.TR
+END
