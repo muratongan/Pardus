@@ -1,4 +1,4 @@
-Pardus SVN shapshot (2011)
+Pardus SVN snapshot (2011)
 ==========================
 
 This is a snapshot of the main repository of Pardus GNU/Linux operating system. The original SVN repository is currently down, so this serves as a backup.
